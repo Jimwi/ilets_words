@@ -1,5 +1,19 @@
 https://www.youtube.com/watch?v=t0Cr64zCc38 
 
+```  
+escalate    v. （使）变得严重，（使）升级；迅速增加，迅速增长；逐步增强，逐步升高
+grief       n. （尤指因某人去世引起的）悲伤，悲痛；伤心事，悲痛事；<非正式>麻烦，烦恼
+franchise   n. 特许经营权；获特许经营权的企业（商店）；公民权，选举权；<美，非正式>职业运动队；<美>（由运动联合会授予的）会员运动队拥有权；特许经营品牌（或创意）
+contaminate  vt. 污染，弄脏              
+distress     n. 忧虑，悲伤；贫困；危难，险情；（肉体的）剧痛
+homicide     n. 故意杀人；杀人犯
+segregate    v. （尤指因种族、性别、宗教不同而）使隔离，使分开；实行种族隔离；（使）分开，分离；（成对的等位基因）分离
+audacious    adj. 无畏的；鲁莽的  
+profession   n. （尤指需要长期训练和正规资格的）职业；（某）职业界同行，同业；（统称，指需要较高教育水平的）职业（the professions）；（信念、观点或感情的）公开表示，表白；入教誓言，修道誓约；入教仪式，入教    
+aggravate    vt. 加重；使恶化；激怒
+dedicate     v. 致力于，献身于；把（书、戏剧、音乐作品等）献给；为（建筑物或教堂）举行奉献（或落成）典礼；题献词
+```
+
 How we can make racism a solvable problem -- and improve policing | Dr. Phillip Atiba Goff 
 
 WEBVTT Kind: captions Language: en 

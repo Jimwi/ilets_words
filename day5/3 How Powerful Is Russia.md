@@ -1,6 +1,16 @@
-How Powerful Is Russia? 
-
 https://www.youtube.com/watch?v=9vX-_hjx_go 
+
+```    
+deter      vt. 制止，阻止；使打消念头
+deterrent  n. 威慑，遏制；威慑武器
+accuse     v. 控告，指责
+sanction   n. 制裁；处罚，惩罚；（正式）许可，批准；<史>（尤指基督教会的）法令，法律；（伦理学）约束力；支持，鼓励  
+clash      n. 冲突，交战；争论，争执；交锋，比赛；分歧，差异；（金属的）撞击声；（时间上的）冲突，撞期；（颜色、图案等的）不相配
+lull      v. 使平静；使安静；哄骗；平息，减弱，停止；使（人）放松警惕
+facility   n. 设施，设备；（机器等的）特别装置，特殊功能；（特定用途的）场所；才能，天赋   
+```
+
+How Powerful Is Russia?
 
 WEBVTT Kind: captions Language: en 
 

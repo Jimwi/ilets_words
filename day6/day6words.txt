@@ -28,3 +28,114 @@ conform     vi. 符合；遵照；适应环境
 gloss       n. 光彩；用以产生光泽的物质；光泽涂料；假象；注释 glossy adj. 光滑的；有光泽的
 abstinence  n. 节制；节欲；戒酒；禁食
 puberty     n. 青春期；开花期
+
+ingest      vt. 摄取；咽下；吸收；接待
+discrete    adj. 离散的，不连续的  
+debut       n. 首次登台，（新事物的）问世  
+relapse     v. （病）复发，重新恶化；返回，退回原状，故态复萌
+prophet     n. 先知；预言者；提倡者
+upheaval    n. 剧变；隆起；举起  
+indulge     v. 沉湎，沉溺；纵容，迁就；满足（情感、兴趣、欲望等）；参加，参与（尤指违法活动）
+affection   n. 喜爱，关爱；爱恋，爱慕之情；精神状况，感情；疾患，病；影响
+potent      adj. 有效的；强有力的，有权势的；有说服力的
+epidemic    n. 传染病；流行病；风尚等的流行
+fascinate   v. 深深吸引，迷住；深深吸引，迷住；<旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹
+abstain     v. （投票时）弃权，放弃；避免，回避；自制，戒除  
+boredom     n. 厌倦；令人厌烦的事物    
+hop         v. 单脚跳行；齐足（或双足）跳行；快速移动，快速前往；登上（飞机、火车等）；（尤指搭乘飞机）短途旅行；换来换去；<非正式>速递，快运；用啤酒花调味    
+psychiatric   adj. 精神病学的，精神病治疗的；精神疾病的
+abstinence    n. 节制；节欲；戒酒；禁食  
+exert         v. 运用，施加（影响）；努力，尽力（exert oneself）
+implication   n. 含义；暗示；牵连，卷入；可能的结果，影响
+distress      n. 忧虑，悲伤；贫困；危难，险情；（肉体的）剧痛  
+intervene     v. 干预，干涉；插话，打岔；干扰，阻挠；发生于其间，介于中间；调停，斡旋
+consult       v. 咨询，请教；商量，商讨；查询，查阅；当顾问
+anticipate    v. 预料，预期；预见，预计（并做准备）； 期盼，期望； 先于……做，早于……行动；在期限内履行（义务），偿还（债务）；提前使用
+intoxicate    v. （酒或毒品）（使）麻醉；（使）中毒；（使）兴奋
+innate        adj. 先天的；固有的；与生俱来的
+subtle        adj. 不易察觉的，微妙的；敏锐的，有洞察力的；灵活的，巧妙的；含蓄的，隐晦的；<古>狡猾的    
+illicit       adj. 非法的，社会不容许的    
+consequent    adj. 随之发生的，由此引起的；（河流，山谷）顺向的   
+insomnia      n. 失眠症，失眠
+reckon        v. 估计，估算，计算；<非正式>认为，以为；把……看作，被看作是；<英，非正式>期望，指望
+assert        vt. 维护，坚持；断言；主张；声称
+
+recite    v. 背诵，朗诵；详述，列举
+howl      v. （狗、狼等）嗥叫，长嚎；（因疼痛、愤怒、开心等）大声叫喊；（风）怒号，呼啸；怒吼，怒声要求；嚎哭
+ideology  n. 意识形态，思想体系；<古>观念学；<古>空想
+gauge     n. 计量器；标准尺寸；容量规格；针织物的细度
+ordeal    n. 磨难，严峻考验；<史>神明裁判（把被告是否经得起剧痛的考验作为被告是否无辜的神谕）  
+incessant   adj. 不断的；不停的；连续的
+dogma       n. 教条，信条，教义    
+bawl       vi. 大叫；放声痛哭
+fascinate  v. 深深吸引，迷住；深深吸引，迷住；<旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹
+prime      adj. 主要的；最好的；基本的
+bliss      n. 极乐；天赐的福
+venture    n. 风险项目，冒险事业；冒险旅行，冒险行动 v. 敢于去（未知或危险等地方）；冒险；小心地说，谨慎地做；敢说，大胆表示    
+immerse      
+superficial      
+clamor     n. 喧闹，叫嚷；大声的要求
+fright     n. 惊骇，恐怖；恐怖的经历；<旧>不整洁的人，奇怪、丑陋的东西
+utter    
+trample    vt. 践踏；蔑视，伤害
+puberty    n. 青春期；开花期
+averse     adj. 反对的；不愿意的
+intimidate   v. 恫吓，威胁
+lament     n. 挽歌；恸哭；悲痛之情
+weary      adj. 疲倦的；厌烦的；令人厌烦的
+bruise     n. 青瘀，伤痕；（水果或蔬菜的）碰伤  
+exacerbate    vt. 使加剧；使恶化；激怒
+striking     adj. 惊人的，异常的；妩媚动人的，标致的；罢工的；打击的
+benevolent   adj. 仁慈的，乐善好施的；（用于慈善机构名称）慈善的，救济的    
+speculate    v. 猜测，推测；投机
+petrify     vi. 石化；惊呆    
+platitude   n. 陈词滥调；平凡；陈腐    
+confiscate   vt. 没收；充公；查抄
+
+conform     v. 遵守，符合；顺从，随潮流；一致，相吻合
+affection   n. 喜爱，关爱；爱恋，爱慕之情；精神状况，感情；疾患，病；影响  
+grasp       v. 抓牢，握紧；理解，领会；抓住（机会）
+temporal    adj. 暂时的；当时的；现世的   
+cognition   n. 认识，认知；认识（或认知）的结果
+recognition  n. 承认，认可；表彰，赞誉；认出，识别；（计算机的）声音文字识别能力  
+impute      vt. 归罪于，归咎于；嫁祸于 
+
+extant    adj. 现存的；显著的    
+elevate   v. 提拔，提升；抬起，提起；提高，增加；使情绪高昂，使兴高采烈  
+glean      vt. 收集（资料）；拾（落穗）
+endanger   v. 使处于险境，危及
+outward    adj. 向外的；外面的；公开的；外服的；肉体的
+slender    adj. 细长的；苗条的；微薄的
+elaborate  adj. 复杂的，详尽的；精心制作的
+scrub      n. 矮树；洗擦；擦洗者；矮小的人（或物）  vt. 用力擦洗；使净化
+striking   adj. 惊人的，异常的；妩媚动人的，标致的；罢工的；打击的    
+torpid     adj. 迟钝的，迟缓的；不活泼的；麻痹的；[生物] 蛰伏的
+gloss      n. 光彩；用以产生光泽的物质；光泽涂料；假象；注释
+
+monstrous     adj. 不公正道德的，残忍的；巨大的，庞大的；丑陋的，骇人的
+compliment    n. 赞扬，称赞；问候，祝贺（compliments）    
+rebuke        v. 斥责，指责；控制
+impending     adj. 即将发生的；迫切的；悬挂的   
+blend         v. （使）混合，调和；（使）协调，融合；调制，配制
+plausible     adj. 似乎是真的，貌似有理的；（人）花言巧语的，貌似可信的；可靠的，可重用的
+clumsy        adj. 笨拙的，不灵活的；不得体的；难处理的，难使用的；难以移动的
+norm          n. 标准，规范    
+loath         adj. 勉强的；不情愿的（等于loth）
+loathe        vt. 讨厌，厌恶
+desirable     adj. 令人向往的，值得拥有的；可取的；性感的 n. 称心合意的人（或物），好的品质
+contempt      n. 轻视，蔑视；忽视，不顾；藐视法庭
+inhibit       v. 抑制，约束；使拘束，使尴尬；降低（酶等）的活性；禁止（神职人员）司神职
+competent     adj. 能干的，能胜任的；合格的，过得去的；精神正常的，智力无缺陷的；有决定权的；有法定资格的；活性的，（处于）感受态的
+incline       v. （使）倾向于；点头；（使）倾斜；赞同（某人，某事）  
+warrant       n. （法院授予警方采取行动的）令状，授权令；（思考、决定或做某事的）正当理由，依据；（接受款项、服务等的）凭单，许可证；（财政）认股权证；准尉委任书
+benevolent    adj. 仁慈的，乐善好施的；（用于慈善机构名称）慈善的，救济的
+beloved  
+disqualify    vt. 取消…的资格
+verdict       n. （法庭的）裁定，判决；（权威的）评判，定论；意见，决定 
+
+fuse  
+strain      
+intake      
+expense    
+span  
+synthetic

@@ -1,6 +1,24 @@
-Why you think you're right -- even if you're wrong | Julia Galef
-
 https://www.youtube.com/watch?v=w4RLfVxTGH4 
+
+```  
+ubiquitous      adj. 普遍存在的；无所不在的
+incriminate     vt. 控告；暗示...有罪      
+yearning        n. 渴望，向往    
+yearn           vi. 渴望，向往；思念，想念；怀念  
+elevate         v. 提拔，提升；抬起，提起；提高，增加；使情绪高昂，使兴高采烈
+conspire        v. 密谋，共谋；共同导致
+genuine         adj. 真正的，非伪造的；真诚的，真心的
+persecute       v. （尤指因种族、宗教或政治信仰而）迫害，残害；骚扰，纠缠
+compelling      adj. 引人注目的；令人信服的；非常强烈的；不可抗拒的
+paltry          adj. 不足取的；无价值的；琐碎的；卑鄙的
+elaborate       adj. 复杂的，详尽的；精心制作的
+contradict      v. 反驳，否认；相抵触，相矛盾；发生矛盾
+instruct        v. 指示，吩咐；教授，指导；聘请（律师），托办；通知；（法官向陪审团）建议，作说明
+intrigue        v. 激起……的兴趣，引发……的好奇心；密谋      
+foul            dj. 难闻的，令人恶心的；(脾气）暴躁的，（心情）烦躁的；不正当的，不道德的；（语言）下流的，无礼的；犯规的；肮脏的，被污染的；被阻塞的；（绳子、锚）缠结住的；（天气）恶劣的；界外的    
+```
+
+Why you think you're right -- even if you're wrong | Julia Galef
 
 WEBVTT Kind: captions Language: en 
 

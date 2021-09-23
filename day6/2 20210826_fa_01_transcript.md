@@ -1,5 +1,39 @@
 https://www.npr.org/transcripts/1031234338
 
+```      
+recite    v. 背诵，朗诵；详述，列举
+howl      v. （狗、狼等）嗥叫，长嚎；（因疼痛、愤怒、开心等）大声叫喊；（风）怒号，呼啸；怒吼，怒声要求；嚎哭
+ideology  n. 意识形态，思想体系；<古>观念学；<古>空想
+gauge     n. 计量器；标准尺寸；容量规格；针织物的细度
+ordeal    n. 磨难，严峻考验；<史>神明裁判（把被告是否经得起剧痛的考验作为被告是否无辜的神谕）  
+incessant   adj. 不断的；不停的；连续的
+dogma       n. 教条，信条，教义    
+bawl       vi. 大叫；放声痛哭
+fascinate  v. 深深吸引，迷住；深深吸引，迷住；<旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹
+prime      adj. 主要的；最好的；基本的
+bliss      n. 极乐；天赐的福
+venture    n. 风险项目，冒险事业；冒险旅行，冒险行动 v. 敢于去（未知或危险等地方）；冒险；小心地说，谨慎地做；敢说，大胆表示    
+immerse      
+superficial      
+clamor     n. 喧闹，叫嚷；大声的要求
+fright     n. 惊骇，恐怖；恐怖的经历；<旧>不整洁的人，奇怪、丑陋的东西
+utter    
+trample    vt. 践踏；蔑视，伤害
+puberty    n. 青春期；开花期
+averse     adj. 反对的；不愿意的
+intimidate   v. 恫吓，威胁
+lament     n. 挽歌；恸哭；悲痛之情
+weary      adj. 疲倦的；厌烦的；令人厌烦的
+bruise     n. 青瘀，伤痕；（水果或蔬菜的）碰伤  
+exacerbate    vt. 使加剧；使恶化；激怒
+striking     adj. 惊人的，异常的；妩媚动人的，标致的；罢工的；打击的
+benevolent   adj. 仁慈的，乐善好施的；（用于慈善机构名称）慈善的，救济的    
+speculate    v. 猜测，推测；投机
+petrify     vi. 石化；惊呆    
+platitude   n. 陈词滥调；平凡；陈腐    
+confiscate   vt. 没收；充公；查抄
+```
+
 TERRY GROSS, HOST:
 
 This is FRESH AIR. I'm Terry Gross. With Taliban gunfire in the background and Taliban fighters with `truncheons` nearby, my guest, Clarissa Ward, reported from the streets of Kabul for CNN. She covered the story as thousands of people tried to get into the secure part of the airport, fly out of the country and escape the rule of the Taliban. Ward is CNN's chief international correspondent. There were three chapters of this reporting trip. First, she was with the Afghan military in Kandahar just before it fell. Then she went to Ghazni Province, where the Taliban had already taken over. They granted her access to an abandoned U.S. military base that was now under Taliban control. Then it was on to Kabul, where the Taliban were celebrating their victory.
@@ -80,7 +114,7 @@ GROSS: This is FRESH AIR. Let's get back to the interview I recorded yesterday w
 
 Earlier this week, a Taliban spokesman said women should stay home for now because Taliban fighters basically haven't been trained to respect women. How do you interpret that?
 
-WARD: I mean, I think the way you interpret it is that the Taliban says one thing which is, oh, it's all about women's rights. And we've learned from the lessons of the past. And things are going to change. But then you scratch the surface just a tiny bit, and you quickly see how superficial those `platitudes` are because the reality is nothing has changed fundamentally in their ideology. And they understand that if women right now are `intimidated`, if they're not out on the streets, if they're going out and buying `burqas`, as we found when we went to the market and spoke to the person selling burqas, and they start disappearing from public life, that makes their life that much easier when they then go about implementing this `draconian` version of Sharia law that essentially excludes women from civic life.
+WARD: I mean, I think the way you interpret it is that the Taliban says one thing which is, oh, it's all about women's rights. And we've learned from the lessons of the past. And things are going to change. But then you scratch the surface just a tiny bit, and you quickly see how superficial those `platitudes` are because the reality is nothing has changed fundamentally in their `ideology`. And they understand that if women right now are `intimidated`, if they're not out on the streets, if they're going out and buying `burqas`, as we found when we went to the market and spoke to the person selling burqas, and they start disappearing from public life, that makes their life that much easier when they then go about implementing this `draconian` version of Sharia law that essentially excludes women from civic life.
 
 And so what they're doing now is basically planting the seeds of, yes, we say you have all this protection and you have all these rights, but for now for your own safety because we're concerned, because we're `benevolent`, it's best for you to stay at home. And then we'll see about education. Because the thing with education they say is that once a woman hits `puberty`, she can't be educated in the same school as boys. So we need to build extra separate girls' schools. And the thing about working, as we've said women can work, is you can't actually work in the same place as a man. So we need to build separate workspaces for women. And the thing about being television reporters, as we said originally that you can, is that you have to cover your entire face, and you have to wear gloves. So you know, it's this sort of tricky language whereby they say one thing, and then very quickly, you realize that the actual meaning is something completely different.
 
@@ -92,7 +126,7 @@ GROSS: During your reporting from Afghanistan, we'd hear gunshots in the backgro
 
 WARD: So I wasn't there when anybody got shot that I saw. I was there when plenty of rounds were being fired to `disperse` the crowd. But fortunately, I didn't see anyone who was shot. An LA Times photographer called Marcus Yam who I was spending some time with in Afghanistan actually captured the moment there where a woman and a child were shot. They weren't killed, but they were very seriously injured. So there's no question that people were getting shot and seriously injured. And I - you know, I `venture` to guess that some people were killed as well although it's very difficult to get anything `substantive` in terms of precise numbers on something like that.
 
-I saw them using their `whips` and `truncheons` all the time. They had no `qualms` about using them. They don't see it. You know, what's shocking to us - to the Taliban is just utterly unremarkable. So you tell Taliban fighters, we need you to do some crowd control and push back these people from the airport, and that's how they do it. And to a certain extent, it's relatively effective. It's horrifying to watch `from our perspective` because we're just not used to seeing that kind of thing. But for them, it's sort of didn't even really seem to raise an eyebrow.
+I saw them using their `whips` and `truncheons` all the time. They had no `qualms` about using them. They don't see it. You know, what's shocking to us - to the Taliban is just utterly unremarkable. So you tell Taliban fighters, we need you to do some crowd control and push back these people from the airport, and that's how they do it. And to a certain extent, it's relatively effective. It's horrifying to watch `from our perspective` because we're just not used to seeing that kind of thing. But for them, it's sort of didn't even really seem to `raise an eyebrow`.
 
 GROSS: My guest is CNN's chief international correspondent, Clarissa Ward. We'll talk more about her three weeks reporting from Afghanistan after we take a short break. I'm Terry Gross, and this is FRESH AIR.
 
@@ -102,8 +136,7 @@ GROSS: This is FRESH AIR. I'm Terry Gross. Let's get back to my interview with C
 
 You spent three weeks in Afghanistan. The first round of your trip was in Kandahar with the Afghan military before the Afghan government fell. What impression did you get in the provinces, like, outside of, you know, Kabul and Kandahar about how the people who live there felt about the Taliban? Because it seems like a lot of people were very unhappy with the Afghan government, which had a reputation for being very corrupt. Did they feel like the Taliban would be worse?
 
-WARD: So I think the Taliban has one advantage on its side, which is that their version of Sharia law may be `draconian` and harsh, but they have a reputation for implementing swift justice and it's not corrupt. It may be harsh, but it's not corrupt. And so that does gain them a lot of supporters. I would also say in rural areas - and I think it's hard for a lot of Am
-ericans to kind of get their head around this - but women's education and issues like this are really considered `tangential` to the primary considerations of everyday life. And so whether you're in government-held territory or whether you're in Taliban-held territory, it's just not a focus, things like girls' education.
+WARD: So I think the Taliban has one advantage on its side, which is that their version of Sharia law may be `draconian` and harsh, but they have a reputation for implementing swift justice and it's not corrupt. It may be harsh, but it's not corrupt. And so that does gain them a lot of supporters. I would also say in rural areas - and I think it's hard for a lot of Americans to kind of get their head around this - but women's education and issues like this are really considered `tangential` to the primary considerations of everyday life. And so whether you're in government-held territory or whether you're in Taliban-held territory, it's just not a focus, things like girls' education.
 
 The thing that I heard again and again from a lot of people was we don't care who's in charge. We just want peace. We just want to be able to leave our homes without fear of airstrikes or gunfire or - and this is interesting to me because it's exactly what the Taliban capitalized on in the late '90s when they came to power, that they were dealing with a `populace` that was so exhausted and worn down by `incessant` brutality and violence that they were willing to surrender so many of their rights if they would get security `in return`. And that's basically, on a fundamental level, I think, the Faustian bargain that the Taliban has made with much of Afghanistan's public. It's not that everybody is `clamoring` to embrace their version of Sharia, but people are tired and frightened and they just want peace.
 
@@ -187,7 +220,7 @@ WARD: ...Actively feeding a child in any meaningful way. But it was this beautif
 
 GROSS: When people ask you, especially, like, if somebody from the Taliban or somebody who's a very, like, conservative fundamentalist asks you, what religion are you - and it sounds like people do ask you that - what do you say?
 
-WARD: I usually just say I believe in God. I believe in God, and I pray. And I have, like, studied the `Quran` enough that I'm able to recite some of the Quran. And I think people take that as a great measure of respect. And certainly, I have, like, infinite respect for Islam. And I have tried to learn as much about it as I possibly can. So I remember being given advice - and this is in the book as well - when I was first learning Arabic, I had a teacher from Yemen who was showing me how to do ablutions in the women's bathroom at Berlitz, a language school, much to the shock of the French teacher who was kind of walking through the bathroom.
+WARD: I usually just say I believe in God. I believe in God, and I pray. And I have, like, studied the `Quran` enough that I'm able to `recite` some of the Quran. And I think people take that as a great measure of respect. And certainly, I have, like, infinite respect for Islam. And I have tried to learn as much about it as I possibly can. So I remember being given advice - and this is in the book as well - when I was first learning Arabic, I had a teacher from Yemen who was showing me how to do ablutions in the women's bathroom at Berlitz, a language school, much to the shock of the French teacher who was kind of walking through the bathroom.
 
 But Nadia (ph), this woman, explained to me - she said, if people ask you when you're traveling - in the Middle East, she was talking about specifically - don't ever say you're an atheist, or don't ever say you don't believe in God because while in the West, it's often uncomfortable to say, oh, I do believe in God, in the Middle East, it's really - it's often considered very strange. It's not really understood. And there is a lot of negativity associated with `atheism`. So I mean, you know, it's one thing if you're there on a sort of political platform trying to stand for something or change attitudes, but in the capacity that I'm there as a journalist and trying to form connections and understand people better and learn more about things, I always find it's best to show that you are, you know, God-fearing or God-believing on some level.
 

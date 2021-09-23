@@ -1,5 +1,20 @@
 https://www.youtube.com/watch?v=CGiu0hlVOzY 
 
+```      
+extant    adj. 现存的；显著的    
+elevate   v. 提拔，提升；抬起，提起；提高，增加；使情绪高昂，使兴高采烈  
+glean      vt. 收集（资料）；拾（落穗）
+endanger   v. 使处于险境，危及
+outward    adj. 向外的；外面的；公开的；外服的；肉体的
+slender    adj. 细长的；苗条的；微薄的
+elaborate  adj. 复杂的，详尽的；精心制作的
+scrub      n. 矮树；洗擦；擦洗者；矮小的人（或物）  vt. 用力擦洗；使净化
+striking   adj. 惊人的，异常的；妩媚动人的，标致的；罢工的；打击的    
+torpid     adj. 迟钝的，迟缓的；不活泼的；麻痹的；[生物] 蛰伏的
+gloss      n. 光彩；用以产生光泽的物质；光泽涂料；假象；注释
+```
+
+
 10 Most Beautiful Hummingbirds In The World 
 
 WEBVTT Kind: captions Language: en 
@@ -10,10 +25,9 @@ Number 10. The male Booted Racket-tail is so spectacular with `metallic` green `
 
 Number 9. The green-breasted mango is a species of hummingbird from tropical America. Adults of this medium-sized hummingbird species are 11-12 cm (4.5 in) in length. The adult male has `glossy` bright green upperparts. His throat and chest have a relatively narrow matte black central area, bordered with blue-green. The `flanks` are bright green, and the black of the chest tapers onto the belly. This species is very similar to the closely related black-throated mango. Although the male green-breasted mango has less extensive black on the underparts, this and other plumage differences are not always easy to confirm in the field because the birds appear all-black. 
 
-
 Number 8. The Rufous-crested Coquettes are found in the southern Central American countries of Costa Rica and Panama, into South America, the countries of Colombia, Ecuador, Peru south into Bolivia. Their natural habitats are subtropical or tropical moist lowland and `montane` forests, as well as heavily degraded former forest. They are rare, yet widely distributed in the eastern lowland areas; and absent from northwestern Amazonia. Rufous-crested Coquettes measure about 7.5 - 8 cm (3 in) in length, including the tail. Males have a very dark green `plumage`, except for the white `rump` and `rufous`, dark-tipped crest , `glossy` green throat patch (gorget) and `elongated` white feathers on the upper chest. 
 
-Number 7. Anna's hummingbird, native to the west coast of North America, was named after Anna Massena, Duchess of Rivoli. They have a straight, shortish bill and a fairly broad tail. When perched, the tail extends beyond the wingtips. Anna's Hummingbirds are mostly green and gray, without any rufous or orange marks on the body. Male Anna's Hummingbird is striking, with a completely `iridescent` pinkish-red head and `gorget`. Often appearing blackish in strong sunlight, the brightest colors are most easily seen in overcast conditions. Frequently seen in backyards and parks, these birds feed on nectar from flowers using a long extendable tongue. They also consume tree sap, small insects and other arthropods caught in flight or `gleaned` from vegetation. 
+Number 7. Anna's hummingbird, native to the west coast of North America, was named after Anna Massena, Duchess of Rivoli. They have a straight, shortish bill and a fairly broad tail. When `perched`, the tail extends beyond the wingtips. Anna's Hummingbirds are mostly green and gray, without any rufous or orange marks on the body. Male Anna's Hummingbird is striking, with a completely `iridescent` pinkish-red head and `gorget`. Often appearing blackish in strong sunlight, the brightest colors are most easily seen in overcast conditions. Frequently seen in backyards and parks, these birds feed on nectar from flowers using a long extendable tongue. They also consume tree sap, small insects and other arthropods caught in flight or `gleaned` from vegetation. 
 
 Number 6. The long-tailed sylph is a species of hummingbird found in Bolivia, Colombia, `Ecuador`, Peru, and Venezuela. Its natural habitat is subtropical or tropical moist montane forest. The male long-tailed sylph carries characteristic `elongated` tail feathers. These feathers are so ridiculously long that they hinder his flight: it is difficult for him to carry such finery every day when he relies on his flying skills to survive. Female sylphs, whose tails are of a more modest size, pick out and mate with the males with the longest tail feathers. They therefore ensure that they are mating with a male who is so fit and healthy that he can live well enough to come into breeding condition even when carrying a heavy load. Females do not `possess` these long tail feathers, as to make laying and incubating eggs easier. 
 
