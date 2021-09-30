@@ -38,3 +38,30 @@ smudge   n. 污点，污迹；烟熏火堆；模糊不清的景象（或图像�
 lucrative  adj. 获利多的
 inexplicable  adj. 费解的；无法说明的；不能解释的
 hamper      vt. 妨碍；束缚；使困累
+
+assure     vt. 保证；担保；使确信；弄清楚
+evacuate   v. （把人从危险的地方）疏散，撤离；（从危险的地方）搬出，撤空；（用泵等）抽出，抽空；排泄（粪便等）
+curb       v. 控制，抑制；勒住（马）
+backlash   n. 反冲；强烈抵制  
+distract   v. 使分心，使转移注意力；<古>使困惑，使迷惑    
+deter      vt. 制止，阻止；使打消念头      
+creep      vi. 爬行；蔓延；慢慢地移动；起鸡皮疙瘩
+predecessor   n. 前任，前辈；（被取代的）原有事物，前身
+competent     adj. 能干的，能胜任的；合格的，过得去的；精神正常的，智力无缺陷的；有决定权的；有法定资格的；活性的，（处于）感受态的
+incompetent   adj. 无能力的，不胜任的；不合适的；不适当的；无力的
+enfranchise   vt. 给予选举权；给予自治权；解放，释放
+provoke       v. 激起，引起；激励，刺激；挑衅，激怒
+anticipate    v. 预料，预期；预见，预计（并做准备）； 期盼，期望； 先于……做，早于……行动；在期限内履行（义务），偿还（债务）；提前使用    
+humiliate     v. 羞辱，使蒙羞
+consequent    adj. 随之发生的，由此引起的；（河流，山谷）顺向的      
+
+relentless    adj. 坚韧的，不屈不挠的；残酷无情的，不留情面的；不停的，不间断的
+morbid        adj. 病态的；由病引起的；恐怖的；病变部位的    
+humble        adj. 谦逊的；简陋的；（级别或地位）低下的；不大的
+consolation   n. 安慰，起安慰作用的人（物）  
+cognition     n. 认识，认知；认识（或认知）的结果
+recognition   n. 承认，认可；表彰，赞誉；认出，识别；（计算机的）声音文字识别能力
+humiliate     v. 羞辱，使蒙羞  
+counsel       n. 忠告，建议；辩护律师；<古>咨询，磋商  
+prompt        v. 提示，鼓励；促进；激起；导致；（给演员）提白  
+obsess        v. 使着迷，使心神不宁；挂牵，念念不忘

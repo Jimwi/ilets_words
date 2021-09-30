@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=iYvWssvg1YU&ab_channel=DeepLook
+
+```
+grip  
+jostle    vt. 推挤，撞；争夺
+recede    vi. 后退；减弱
+haul      vt. （用力）拖，拉；费力前进；强迫（某人）接受申斥；（用卡车）运；（帆船）突然改变航道
+n. 拖，拉；赃物；一网的捕鱼量；旅程；拖运距离；努力得到的结果；（赛季）得分总数
+delicate   adj. 柔和的，清淡的；虚弱的，纤弱的；脆弱的，易碎的；小巧玲珑的，纤细的；微妙的，棘手的；精致的，精巧的；灵巧的，熟练的；（仪器）灵敏的  
+turbulent  
+damp  
+precious   adj. 宝贵的，珍贵的；珍视的，重要的；珍稀的，珍奇的；<非正式>（表示气愤）宝贝似的；（言行）矫揉造作的，过分讲究的；<美，非正式>可爱的，讨人喜欢的  
+translucent   adj. 透明的；半透明的 
+```
+
+Once a Spawn a Time: Horseshoe Crabs Mob the Beach | Deep Look
+
+These `delicate`, otherworldly creatures are just starting their lives -- twitching and `twirling` inside their `translucent` homes. They’re baby horseshoe crabs, preparing for the moment they can break free. It all started two weeks ago, when the tides were at their highest. Horseshoe crabs emerge from the `briny` deep. And head for the shore with only one thing on their minds. A springtime spawning `spree`. These Atlantic horseshoe crabs gather, by the millions, along the east coast of North America -- from Maine to the Gulf of Mexico. The crowds here in `Delaware` are some of the biggest. The males show up first, `hanging out` on the beach and in the shallows of the bay. They `scramble` to `latch on` to the backs of passing females. The females can be the size of dinner plates, way bigger than the males. Success! They take advantage of the fleeting high tides to haul their precious `cargo` as high up the beach as possible. The females muscle their way up the beach, with the males in tow. The greatest danger for these horseshoe crabs is flipping over, exposing their vulnerable underside. And it only takes a small wave to do it. Under the hood, horseshoe crabs’ legs end in pincers. But mature males have something special on their front legs… This “clasper” that looks like a little boxing glove with a hooked finger. It’s perfect for gripping the back of a female’s shell. To flip back over, the animals use their long, `spiky` tail, called a telson. It looks a little scary, but horseshoe crabs don’t sting. Horseshoe crabs have been making these high tide `treks` under the glow of the full moon since before the dinosaurs. That’s more than 400 million years ago. Not everyone finds a date. Especially those younger males. But they hike up the beach anyway in hopes of getting in on the action. This female is dragging around two admirers. When a female finds a good spot, she digs and digs into the wet sand. The female lays roughly four thousand eggs in one go. The male that clung to her all this time is in the best position to fertilize the most eggs. All those single dudes crowd around too, `vying` to fertilize the rest. As the party winds down, the grownups start heading back to sea, But they’ll return for more of these high tide soirees throughout the season. They leave their fertilized eggs behind, buried `in the damp sand`. Each one is smaller than a pea Over the next couple of weeks the embryos inside develop. By the time the high tides return -- these larvae are ready to hatch. The `jostling` of the waves stimulates them to break out of their shell. This is their chance. They have just a few hours to scramble into the turbulent surf, before the high tide `recedes`. They’ll mature beneath the waves for roughly a decade before they’re ready to return as adults themselves. … where they’ll take their turn in this ancient dance of the moon, tides and sand. Hey Deep Peeps. The party doesn’t stop here. Notice those cool aerial drone shots? That’s because we collaborated on this episode with our friends at Overview, an awe-inspiring new nature show on PBS Terra. Where Deep Look zooms in, Overview zooms out. Watch and tell them Deep Look sent you! Thanks. 
