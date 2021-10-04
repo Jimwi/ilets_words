@@ -1,5 +1,33 @@
 https://www.npr.org/transcripts/796276592
 
+37:45
+
+```
+moral  
+morality  
+spiritual      
+prodigal    adj. 挥霍的；十分慷慨的  
+sane  
+sober       adj. 冷静的，清醒的；未醉的
+affection      
+repent      vi. 后悔；忏悔
+glamour  
+fascinate  
+poignant    adj. 尖锐的；辛酸的；深刻的；切中要害的
+redeem      vt. 赎回；挽回；兑换；履行；补偿；恢复      
+blend  
+transcend   v. 超出，超越；胜过（某人），超过（某项成就）         
+expel       v. 把……开除（或除名）；驱逐；排出（空气、水、气体等）  
+fright      n. 惊骇，恐怖；恐怖的经历；<旧>不整洁的人，奇怪、丑陋的东西  
+stain       vt. 玷污；败坏；给…着色  
+facility      
+sentimental  adj. 情感的（而非理性的）；多愁善感的，柔情的；（故事、电影、书等）感伤的，故作伤感的  
+corporal     n. 下士；（舰艇的）纠察长助理；圣餐布
+floral       adj. 花的；植物的，植物群的；花似的
+permeate     v. 渗透，弥漫，扩散；（观点、信念、感情等）充满，充斥  
+obsess  
+```
+
 TERRY GROSS, HOST:
 
 This is FRESH AIR. I'm Terry Gross. My guest is Martin Scorsese. His new film "The Irishman" was just nominated for 10 Oscars, including best picture, best director and best supporting actor for Joe Pesci and Al Pacino. It's available for streaming on Netflix and is playing in select theaters. "The Irishman" reunites Scorsese with Robert De Niro, who starred in Scorsese's "Mean Streets," "Taxi Driver" and "The King Of Comedy." De Niro and Pesci starred in Scorsese's "Raging Bull," "Goodfellas" and "Casino."
@@ -71,7 +99,7 @@ GROSS: So I want to play a very brief clip from "Goodfellas." And this is from t
 
 RAY LIOTTA: (As Henry Hill) To me, being a gangster was better than being president of the United States. Even before I first wandered into the cab stand for an after school job, I knew I wanted to be a part of them. It was there that I knew that I belonged. And to me, it meant being somebody in the neighborhood that was full of nobodies. They weren't like anybody else. I mean, they did whatever they wanted. They double-parked in front of a `hydrant`, and nobody ever gave them a ticket. In the summer when they played cards all night, nobody ever called the cops.
 
-GROSS: It's so interesting to me in that scene that he thinks that that's what power is, that you can double-park in front of a fire hydrant...
+GROSS: It's so interesting to me in that scene that he thinks that that's what power is, that you can `double-park` in front of a fire hydrant...
 
 SCORSESE: Yeah, to a child.
 
@@ -121,11 +149,11 @@ GROSS: You have paintings and sculpture...
 
 SCORSESE: Yeah.
 
-GROSS: ...And stained glass windows, and you have a fight between good and evil. And, oh, you have violence. You have `crucifixion`. And I'm wondering if all the church imagery and pageantry and, you know, the violence, the battles between good and evil, if that either affected your interest in movies or your interest in making movies or the way you make movies.
+GROSS: ...And stained glass windows, and you have a fight between good and evil. And, oh, you have violence. You have `crucifixion`. And I'm wondering if all the church imagery and `pageantry` and, you know, the violence, the battles between good and evil, if that either affected your interest in movies or your interest in making movies or the way you make movies.
 
 SCORSESE: Yeah, it could be. I mean, I was - I spent a lot of time, a great deal of time, in St. Patrick's Old Cathedral on Mott Street. The images of the saints, the images of the martyrs, the images of the souls in purgatory burning in the flames and the extraordinary crucifix that's hanging, suspended over the altar - it's still there. It's quite beautiful. And passion week was something that was really important because at that time, on Ash Wednesday - and then it would become Holy Thursday. And Holy Thursday in the mid - in the early to mid-'50s, the tradition was to go from church to church and `light a candle.`
 
-Even took us to interesting churches, one in the Ukrainian section of New York, like on 7th or 8th Street, near 2nd or 3rd Avenue in which there was a embalmed body of a policeman who'd been killed by thieves who were about to rob the poor box around 1901. But he was dressed, like, medieval clothing - he was dressed in medieval clothing, and his beard and fingernails still grew. And we would go and say a prayer to - with his buddies behind - in a glass coffin. I mean, it was a very different kind of time.
+Even took us to interesting churches, one in the Ukrainian section of New York, like on 7th or 8th Street, near 2nd or 3rd Avenue in which there was a `embalmed` body of a policeman who'd been killed by thieves who were about to rob the poor box around 1901. But he was dressed, like, medieval clothing - he was dressed in medieval clothing, and his beard and fingernails still grew. And we would go and say a prayer to - with his buddies behind - in a glass coffin. I mean, it was a very different kind of time.
 
 And so those images certainly stayed with me. And then you blend that with - the first movie I saw as a - by title that I remember - I was about 3 years old or 4 years old - was "Duel In The Sun." And certainly, the images in the church - there's no doubt.
 
@@ -157,7 +185,7 @@ SCORSESE: No. Well, what happened was that you can't become a priest because you
 
 GROSS: Right.
 
-SCORSESE: You have to have what they call a vocation, you know. And it's like you have to love the mass. You have to understand what that means. And I didn't know. I didn't know, and it was a major shock. I was, you know, expelled from this preparatory seminary.
+SCORSESE: You have to have what they call a vocation, you know. And it's like you have to love the mass. You have to understand what that means. And I didn't know. I didn't know, and it was a major shock. I was, you know, expelled from this `preparatory` `seminary`.
 
 GROSS: How come you were expelled?
 

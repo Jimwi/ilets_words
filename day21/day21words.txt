@@ -5,7 +5,7 @@ seclude   vt. 使隔离，使隔绝
 engrave   vt. 雕刻；铭记
 sneer
 strife
-abbey
+abbey      n. 大修道院，大寺院；大教堂
 engross
 temperate  adj. 温和的；适度的；有节制的
 reinvigorate  v. 使再振作，使复兴   invigorate 
