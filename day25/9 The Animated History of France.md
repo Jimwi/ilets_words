@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=W1QDsKkde4U 
 
+```    
+reign  
+lavish    adj. 奢侈的，盛大的；慷慨的，大方的        
+pompous   adj. 自大的；浮夸的；华而不实的；爱炫耀的
+noble  
+nasty    
+constitute  
+monarch    
+```
+
 The Animated History of France 
 
 WEBVTT Kind: captions Language: en 

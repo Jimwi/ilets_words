@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=TkWecQ41eio
 3:23
 
+```      
+internecine     adj. （战争或争斗）内部的，内讧的；两败俱伤的；相互残杀的；致命的
+perpetrate      vt. 犯（罪）；做（恶）
+striking      
+bump  
+```
+
 Veteran reveals what America's wars say about the value of human life | Danny Sjursen
 
 WEBVTT Kind: captions Language: en 

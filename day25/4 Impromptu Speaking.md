@@ -1,5 +1,11 @@
 https://www.youtube.com/watch?v=GefKPy5YYHI
 
+```  
+spontaneous    adj. 自发的，非筹划安排的；自然的 (事件)；  
+alleviate      v. 减轻，缓和      
+pitfall        n. 陷阱，圈套；缺陷；诱惑
+impromptu      adj. 即兴的，即席的     
+```
 
 Impromptu Speaking
 

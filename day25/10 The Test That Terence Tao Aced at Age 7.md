@@ -1,6 +1,20 @@
 https://www.youtube.com/watch?v=I_IFTN2Toak 
-11:12
 
+11:12
+```
+bare    
+rigid    
+fatigue  
+prime      
+grasp        
+clement       adj. （天气）温和的；（人、行为）仁慈的
+prodigy       n. 奇迹，奇事；奇才；神童；奇观；预兆
+preference  
+gifted      
+coordinate    
+prompt  
+sketch       n. 素描，速写，草图；（任何作品的）粗样，初稿；简述，概述；幽默短剧，滑稽小品；<非正式，旧>滑稽的人（或物）
+```
 
 The Test That Terence Tao Aced at Age 7 
 

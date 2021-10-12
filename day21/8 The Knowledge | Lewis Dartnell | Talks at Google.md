@@ -1,69 +1,69 @@
-https://www.youtube.com/watch?v=EdRV8ccyEE0
+https://www.youtube.com/watch?v=EdRV8ccyEE
 
 ```
-huddle 2
-avenge 2
-premise 1
-dilute 1
-sneer 1
-gadget 1
-strain 1
-mediate 1
-encyclopedia 1
-ignite 1
-abbey 1
-fascinate 1
-harness 1
-grin 1
-pending 1
-fabulous 1
-tribute 1
-jury 1
-blast 1
-engross 1
-exquisite 1
-hop 1
-ingredient 1
-bellow 1
-prod 1
-forge 1
-genuine 1
-constrain 1
-circuit 1
-optimum 1
-utter 1
-grind 1
-arable 1
-engrave 1
-stain 1
-bleach 1
-strife 1
-blow 1
-distortion 2
-bibliography 1
-wreck 1
-temperate 1
-passive 1
-gross 1
-emperor 1
-bust 1
-instruct 1
-ward 1
-alley 1
-meander 1
-prerequisite 1
-foul 1
-speculate 1
-ruinous 1
-coordinate 1
-grill 1
-lime 1
-ingenuity 1
-footnote 1
-pitch 1
-reproduction 1
-composite 1
-urge 1
+huddle 
+avenge 
+premise 
+dilute 
+sneer 
+gadget 
+strain 
+mediate 
+encyclopedia 
+ignite 
+abbey 
+fascinate 
+harness 
+grin 
+pending 
+fabulous 
+tribute 
+jury 
+blast 
+engross 
+exquisite 
+hop 
+ingredient 
+bellow 
+prod 
+forge 
+genuine 
+constrain 
+circuit 
+optimum 
+utter 
+grind 
+arable 
+engrave 
+stain 
+bleach 
+strife 
+blow 
+distortion 
+bibliography 
+wreck 
+temperate 
+passive 
+gross 
+emperor 
+bust 
+instruct 
+ward 
+alley 
+meander 
+prerequisite 
+foul 
+speculate 
+ruinous 
+coordinate 
+grill 
+lime 
+ingenuity 
+footnote 
+pitch 
+reproduction 
+composite 
+urge 
 ```
 
 The Knowledge | Lewis Dartnell | Talks at Google 
