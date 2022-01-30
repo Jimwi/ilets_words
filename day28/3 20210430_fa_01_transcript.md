@@ -31,11 +31,9 @@ snap v. （咔嚓一声）断裂，折断；（使）啪地突然移动；厉声
 
 ==========
 
-https://www.npr.org/transcripts/992017813
-
 DAVE DAVIES, HOST:
 
-This is FRESH AIR. When Neil Armstrong and Buzz Aldrin walked on the moon on July 20, 1969, `Lieutenant` Colonel Michael Collins piloted the Apollo 11 command module as it orbited the moon above them, waiting to take Armstrong and Aldrin back to Earth. Collins died Wednesday at the age of 90 from cancer. Today, we'll listen back to our 1988 interview with him.
+This is FRESH AIR. When Neil Armstrong and Buzz Aldrin walked on the moon on July 20, 1969, `Lieutenant` Colonel Michael Collins `piloted` the Apollo 11 command module as it orbited the moon above them, waiting to take Armstrong and Aldrin back to Earth. Collins died Wednesday at the age of 90 from cancer. Today, we'll listen back to our 1988 interview with him.
 
 Collins was raised in a distinguished military family. He graduated from West Point in 1952, became a jet fighter pilot, a test pilot, and eventually one of the astronauts chosen to participate in the Apollo mission to the moon. Before piloting Apollo 11, Collins piloted the Gemini 10 flight and walked in space, attached to his capsule only by a high-tech `umbilical` `cord`. In doing so, he was the first astronaut to walk from a spacecraft to another object in space - in this case, a rocket left orbiting from an earlier Gemini mission.
 

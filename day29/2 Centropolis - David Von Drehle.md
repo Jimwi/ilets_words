@@ -45,7 +45,7 @@ Well, in 1992 the Democratic party was in a shambles, sort of like you might say
 
 He sort of rang the rite of Gerry Ford. 
 
-Exactly, kind of an accidental president almost. But otherwise it had been not just Republicans but landslide Republicans, in '72, '84, '88, all big results. And along came Bill Clinton, who was a southern governor from Arkansas,had been seen for years a bright young comer in the party, but very much the standard bearer of a new king of Democrat. They called themselves New Democrats. They ran more against the old Democratic party of the left, of the Kennedys, especially Ted Kennedy, McGovern. That was almost a bigger project than running against the Republicans. So there was an excitement around that, a sense of something new. But it was also a zany, unpredictable, weird campaign. 
+Exactly, kind of an accidental president almost. But otherwise it had been not just Republicans but landslide Republicans, in '72, '84, '88, all big results. And along came Bill Clinton, who was a southern governor from Arkansas, had been seen for years a bright young comer in the party, but very much the standard bearer of a new king of Democrat. They called themselves New Democrats. They ran more against the old Democratic party of the left, of the Kennedys, especially Ted Kennedy, McGovern. That was almost a bigger project than running against the Republicans. So there was an excitement around that, a sense of something new. But it was also a zany, unpredictable, weird campaign. 
 
 We had the Donald Trump before Donald Trump. We had Ross Perot. 
 
