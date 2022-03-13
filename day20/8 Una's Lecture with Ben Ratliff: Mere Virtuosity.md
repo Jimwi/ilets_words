@@ -4,43 +4,43 @@ https://www.youtube.com/watch?v=bAG8CJkmDcQ
 
 ```
 spiritual  
-devoid      adj. 缺乏的；全无的  
+devoid         adj. 缺乏的；全无的  
 culmination    n. 终点，高潮；<旧>（天体的）达于中天
 arena          n. 舞台；竞技场
-haunt    
-charisma  
-compliment  
+haunt          v. （鬼魂）出没；萦绕在……心头；（长期）困扰；常去（某地）
+charisma       n. 个人魅力，感召力；神赐的力量，神授的能力；非凡的领导力
+compliment     
 strain  
 caricature     n. 人物漫画；夸张的描述；漫画艺术，漫画手法；讽刺描述法；（人或物的）可笑（或怪诞）样式
 obscure        adj. 昏暗的，朦胧的；晦涩的，不清楚的；隐蔽的；不著名的，无名的
 prodigious     adj. 惊人的，异常的，奇妙的；巨大的  
 abiding  
-encore        n. 再演唱的要求；经要求而再唱    
+encore        n. 再演唱的要求；经要求而再唱
 perplex    
 vulgar  
 integrate     v. （使）合并，成为一体；（使）加入，融入群体；（使）取消种族隔离；求……的积分；表示（面积、温度等）的总和，表示……的平均值
 transcend     v. 超出，超越；胜过（某人），超过（某项成就）
-emit          v. 排放，散发（尤指气体、辐射物）；发出（声音或噪音）；发行，发表        
-grasp  
-articulate    vt. 清晰地发（音）；明确有力地表达；用关节连接；使相互连贯  
+emit          v. 排放，散发（尤指气体、辐射物）；发出（声音或噪音）；发行，发表
+grasp         v. 抓牢，握紧；理解，领会；抓住（机会）
+articulate    vt. 清晰地发（音）；明确有力地表达；用关节连接；使相互连贯
 fright  
 intangible  
 lullaby       n. 摇篮曲；催眠曲
-implication    n. 含义；暗示；牵连，卷入；可能的结果，影响  
+implication    n. 含义；暗示；牵连，卷入；可能的结果，影响
 perfume  
-conscience     n. 良知，良心；内疚，愧疚  
+conscience     n. 良知，良心；内疚，愧疚
 conceive  
 tangible  
 spectator      n. （尤指体育比赛的）观看者，观众；旁观者
-disposal    
+disposal       n. 处理，清除；（土地、财产等的）变卖，转让；<文>安排，安置；<美>污物碾碎器
 clue  
 esteem  
 mastery  
 laud  
 striking  
-evaporate        
+evaporate     v. （使）蒸发，挥发；消失，消散
 skeptical  
-melody        n. 主旋律，曲调；歌，曲子；婉转，悦耳    
+melody        n. 主旋律，曲调；歌，曲子；婉转，悦耳
 dedicate      v. 致力于，献身于；把（书、戏剧、音乐作品等）献给；为（建筑物或教堂）举行奉献（或落成）典礼；题献词
 assert        vt. 维护，坚持；断言；主张；声称
 ```
@@ -52,7 +52,7 @@ WEBVTT Kind: captions Language: en
 
 (audience applauding) - Thank you. I'm gonna begin by playing you a song. (`Flamenco` song playing) 
 
-That is Siempre Estoy Yolando, the song I have most recently discovered, which `involuntarily` suggests for me the word we are about to discuss. The singer is La Nina de la Puebla, whose background has been described by Flamenco historians as non-gypsy. And the guitarist was Sabicas. And this recording was made in the early 1930s in `Sevilla`. Nina de la Puebla was blind and a traveling star by her mid twenties, that's her. She admired the unremitting intensity of cante jondo style Flamenco singing. But her voice wasn't quite suited to it, instead it was thin and fine and capable of `flickering` microtonal precision. She allows you to register all the `articulation` as it is happening, and that is a quality is suppose I associate with virtuosity. This is a recording in which her voice is on display, but it's also moving through a relationship with the guitar. And they are saying ole to each other and to the atmosphere they are creating together. Much later, in the early 80s, Sabicas was asked whether a non-Spaniard can hope to play Flamenco well. He had a very all-or-nothing Flamenco answer. "Of course," he said, "but Flamenco is 100% atmosphere, "and if you are alone without the atmosphere, "you won't get anywhere. "You must mix every day with people "who sing, dance or play. "And if you don't do that, "you'll have a lot of technique, "but you won't know how to use it." Technique is an interpretive translation of what Sabicas really said. He really said muchos dedos, a lot of fingers. When I hear Nina de los Peines, who was gitana, and much more widely thought-of as the greatest female singer of Flamenco, I hear more of everything. More emotional engagement, and her voice is bigger, and broader, and often on the verge of a shout, or in one. Like this. 
+That is Siempre Estoy Yolando, the song I have most recently discovered, which `involuntarily` suggests for me the word we are about to discuss. The singer is La Nina de la Puebla, whose background has been described by Flamenco historians as non-gypsy. And the guitarist was Sabicas. And this recording was made in the early 1930s in `Sevilla`. Nina de la Puebla was blind and a traveling star by her mid twenties, that's her. She admired the `unremitting` `intensity` of cante jondo style Flamenco singing. But her voice wasn't quite suited to it, instead it was thin and fine and capable of `flickering` `microtonal` precision. She allows you to register all the `articulation` as it is happening, and that is a quality is suppose I associate with `virtuosity`. This is a recording in which her voice is on display, but it's also moving through a relationship with the guitar. And they are saying ole to each other and to the atmosphere they are creating together. Much later, in the early 80s, Sabicas was asked whether a non-Spaniard can hope to play Flamenco well. He had a very all-or-nothing Flamenco answer. "Of course," he said, "but Flamenco is 100% atmosphere, "and if you are alone without the atmosphere, "you won't get anywhere. "You must mix every day with people "who sing, dance or play. "And if you don't do that, "you'll have a lot of technique, "but you won't know how to use it." Technique is an interpretive translation of what Sabicas really said. He really said muchos dedos, a lot of fingers. When I hear Nina de los Peines, who was gitana, and much more widely thought-of as the greatest female singer of Flamenco, I hear more of everything. More emotional engagement, and her voice is bigger, and broader, and often on the verge of a shout, or in one. Like this.
 
 (Flamenco song playing) 
 
