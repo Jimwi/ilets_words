@@ -1,12 +1,14 @@
 https://www.youtube.com/watch?v=4O4zfRI3G9M 
 
+27:55
+
 ```
 moral 
 incongruous  adj. 不协调的；不一致的；不和谐的
-interplay    
-escalate 
-humane 
-vigor 
+interplay    n. 相互影响，相互作用
+escalate     v. （使）变得严重，（使）升级；迅速增加，迅速增长；逐步增强，逐步升高
+humane       adj. 人道的，仁慈的；（学科分支）人文的，高尚的
+vigor        n. [生物]活力，精力
 stringent  adj. 严格的；严厉的；紧缩的；短缺的
 insidious  adj. 阴险的；隐伏的；暗中为害的；狡猾的
 hamper 
