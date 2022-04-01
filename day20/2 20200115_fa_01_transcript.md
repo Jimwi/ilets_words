@@ -3,29 +3,29 @@ https://www.npr.org/transcripts/796276592
 37:45
 
 ```
-moral  
-morality  
-spiritual      
-prodigal    adj. 挥霍的；十分慷慨的  
-sane  
-sober       adj. 冷静的，清醒的；未醉的
-affection      
-repent      vi. 后悔；忏悔
-glamour  
-fascinate  
-poignant    adj. 尖锐的；辛酸的；深刻的；切中要害的
-redeem      vt. 赎回；挽回；兑换；履行；补偿；恢复      
-blend  
-transcend   v. 超出，超越；胜过（某人），超过（某项成就）         
-expel       v. 把……开除（或除名）；驱逐；排出（空气、水、气体等）  
-fright      n. 惊骇，恐怖；恐怖的经历；<旧>不整洁的人，奇怪、丑陋的东西  
-stain       vt. 玷污；败坏；给…着色  
-facility      
+moral        adj. 有关道德的；基于道德的，道义上的；品行端正的，有道德的；伦理的；能辨别是非的
+morality     n. 道德，品行；正当性
+spiritual    adj. 精神的，心灵的；宗教的；（人）高尚的，不为物欲所动的
+prodigal     adj. 挥霍的；十分慷慨的  
+sane         adj. 心智健全的，头脑清醒的；明智的
+sober        adj. 冷静的，清醒的；未醉的
+affection    n. 喜爱，关爱；爱恋，爱慕之情；精神状况，感情；疾患，病；影响
+repent       vi. 后悔；忏悔
+glamour      n. 吸引力，诱惑力，魅力；迷人的美，奢华；<古>魔法，巫术
+fascinate    v. <旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹；深深吸引，迷住
+poignant     adj. 尖锐的；辛酸的；深刻的；切中要害的
+redeem       vt. 赎回；挽回；兑换；履行；补偿；恢复      
+blend        v. （使）混合，调和；（使）协调，融合；调制，配制
+transcend    v. 超出，超越；胜过（某人），超过（某项成就）         
+expel        v. 把……开除（或除名）；驱逐；排出（空气、水、气体等）  
+fright       n. 惊骇，恐怖；恐怖的经历；<旧>不整洁的人，奇怪、丑陋的东西  
+stain        vt. 玷污；败坏；给…着色  
+facility     n. 设施，设备；卫生间；天赋，才能；（机器等的）特别装置，（服务等的）特色；（用作某种用途的）区，大楼
 sentimental  adj. 情感的（而非理性的）；多愁善感的，柔情的；（故事、电影、书等）感伤的，故作伤感的  
 corporal     n. 下士；（舰艇的）纠察长助理；圣餐布
 floral       adj. 花的；植物的，植物群的；花似的
 permeate     v. 渗透，弥漫，扩散；（观点、信念、感情等）充满，充斥  
-obsess  
+obsess       v. 使着迷；使心神不宁；挂牵，念念不忘
 ```
 
 TERRY GROSS, HOST:
@@ -46,7 +46,7 @@ GROSS: Martin Scorsese, welcome to FRESH AIR. Thank you so much for coming to ou
 
 MARTIN SCORSESE: You know, I always think of music first in a way that accompanies the type of picture I want to make or what - actually, the atmosphere or the mood - music that reflects our world not in terms of `nostalgia`. That's very important. That devalues it, I think. But in terms of this particular film, that was the only piece of music I heard in my head. Basically, it has to do with a sense of coming to terms, or as best you can come to terms, with the end of your life.
 
-I used to listen to many, many sermons back in the early '50s by the older Italian `priests` who were administering to the Italian American community in the Lower East Side. And the main theme often was about death and about death approaching like a thief in the night. You never know when. You never know how. And then there's nonexistence.
+I used to listen to many, many `sermons` back in the early '50s by the older Italian `priests` who were administering to the Italian American community in the Lower East Side. And the main theme often was about death and about death approaching like a thief in the night. You never know when. You never know how. And then there's nonexistence.
 
 GROSS: Well, what about death? For you, were you afraid when you were young? Was death something you were afraid of? And I'm thinking here, too, of, like, in the beginning of "Mean Streets," one of your early films, when Harvey Keitel's character is in church. And there are `lit` candles, and he's putting his finger into one of the flames, thinking about how there's two sides of hell. There's - you know, there's the physical pain and the pain that you feel in your heart. And he's thinking about death, and he's thinking about the possibility of hell as his future. So did you think a lot about death even when you were young and about what that might mean for you?
 
@@ -67,17 +67,17 @@ GROSS: And, you know, there's a twisting route that he takes through the kitchen
 
 SCORSESE: Yeah.
 
-GROSS: ...Of the casino. And then from, like, backstage, they enter the actual club. And suddenly, a table appears for them. And it's this really long shot, and it's all about the `glamour` he's showing - is it his wife yet or a girlfriend then? I'm trying to remember.
+GROSS: ...Of the `casino`. And then from, like, backstage, they enter the actual club. And suddenly, a table appears for them. And it's this really long shot, and it's all about the `glamour` he's showing - is it his wife yet or a girlfriend then? I'm trying to remember.
 
 SCORSESE: His girlfriend.
 
-GROSS: Yeah. And so he's showing her, like, the glamour and power, you know, that he has access to now. So compare that with the opening shot in "The Irishman," where it's a long tracking shot in an assisted living facility where it's, like...
+GROSS: Yeah. And so he's showing her, like, the glamour and power, you know, that he has access to now. So compare that with `the opening shot` in "The Irishman," where it's a long tracking shot in an assisted living facility where it's, like...
 
 SCORSESE: Oh, yeah.
 
 GROSS: ...Going through the rooms and the hallway, and we're seeing, like, people on walkers and in wheelchairs. We see, like, aides coming and going and people playing `checkers` and - I think it's cards. And then the camera stops on Robert De Niro's character, Frank Sheeran, who's in a wheelchair.
 
-And so you have this long tracking shot about glamour, as opposed to this long tracking shot at the end of life in a nursing home, where they're - an assisted living facility, I should say - where there's, like, no glamour. Is that a comment on the difference between these two films or a comment on how you see that life differently now or just a comment about aging? Like, how would you contrast those two views?
+And so you have this long tracking shot about `glamour`, as opposed to this long tracking shot at the end of life in a nursing home, where they're - an assisted living facility, I should say - where there's, like, no glamour. Is that a comment on the difference between these two films or a comment on how you see that life differently now or just a comment about aging? Like, how would you contrast those two views?
 
 SCORSESE: Well, I mean, well, the opening shot of "The Irishman," in a sense, played itself out by listening to the music - "In The Still Of The Night." And when I heard the song, I just knew we had to be floating down the hall of this assisted living facility and wind up on this old man sitting in a chair.
 
@@ -87,11 +87,11 @@ And I know the routines. I know what it's like in the middle of the night in the
 
 But it's the mood and tone of those places that I spent a lot of time in. And it's not even as simple as saying, well, now I look back, and I realize `gangsters` are bad. I know they're bad. I know it's bad, you know? And I think there's always been this issue of glamorization of the gangster. The point is, of course, that because of my religious beliefs or concerns or obsessions, it has to do with - really has to do with, can a person change, and can a person be `redeemed`? Or if a person isn't redeemed - well, how should I put it? - part of our human nature, the bad part of our human nature, the evil, it's still human nature. We can't put it aside and say - we can't say it doesn't exist. And if that's part of us, and it may be part of every one of us, what are we capable of?
 
-GROSS: Yeah, because your film, in a way, is kind of asking a question, if you've been able to be a hit man and to kill people through a good deal of your adult life, when you are facing death, what do you feel? Do you feel regret? Do you feel a remorse? Can you `repent` at the last minute? Does that count? Does that make up for it?
+GROSS: Yeah, because your film, in a way, is kind of asking a question, if you've been able to be a hit man and to kill people through a good deal of your adult life, when you are facing death, what do you feel? Do you feel regret? Do you feel a `remorse`? Can you `repent` at the last minute? Does that count? Does that make up for it?
 
 SCORSESE: No, repent at the last minute is like - I don't know. That's always the - what? - the deathbed Catholic routine, you know? I'm not quite sure. I mean, look; he is alone. He's alone. And who's he got to talk to? This very young priest, very nice young man who - he might as well be talking to a person from outer space. That young man has no way of understanding the world he came from.
 
-On the other hand, he - the priest does try to understand - tries to get him to at least acknowledge some kind of remorse. And all I think that Frank could come up with and Zaillian insisted we have in there is - he said, don't you feel anything? He said, well - I'm paraphrasing the line, but it's something to the effect that, well, I'm here. I guess that means something, meaning he's open to talking. That's the beginning of some kind of admission and some kind of - trying to come to terms with who he is. You know, it's something. There are other people who won't talk at all. They close the door, and that's the end of it. You never hear from them.
+On the other hand, he - the `priest` does try to understand - tries to get him to at least acknowledge some kind of remorse. And all I think that Frank could come up with and Zaillian insisted we have in there is - he said, don't you feel anything? He said, well - I'm paraphrasing the line, but it's something to the effect that, well, I'm here. I guess that means something, meaning he's open to talking. That's the beginning of some kind of admission and some kind of - trying to come to terms with who he is. You know, it's something. There are other people who won't talk at all. They close the door, and that's the end of it. You never hear from them.
 
 GROSS: So I want to play a very brief clip from "Goodfellas." And this is from the very beginning of the film, where Ray Liotta as Henry Hill, who becomes the wise guy, this small-time connected guy, is - he's a child in this. But we hear Ray Liotta's narration as he's looking out the window at what's going on in the street below.
 

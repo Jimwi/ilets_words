@@ -1,14 +1,14 @@
-disengage
-impart
+disengage   vt. 使脱离；解开；解除
+impart      v. 传授，告知；赋予，给予
 consulate   n. 领事；领事馆；领事任期；领事职位
 permeate    vt. 渗透，透过；弥漫
-inert
+inert       adj. [化学] 惰性的；呆滞的；迟缓的；无效的
 nertia
 fuzzy
-anthology
-deplore
-corporal
-sporadic
+anthology   n. （诗、文、曲、画等的）选集
+deplore     v. 强烈反对，谴责
+corporal    n. 陆军、海军陆战队或英国空军的）下士；<英，史>（舰艇的）纠察长助理；（供放圣餐杯和圣餐盘的）圣餐布
+sporadic    adj. 偶尔发生的，零星的；（疾病）偶发的，非流行性的
 pitch
 encumber  vt. 阻塞；妨害；拖累
 extricate

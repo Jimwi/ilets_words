@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=bAG8CJkmDcQ
 38:48
 
 ```
-spiritual  
+spiritual      adj. 精神的，心灵的；宗教的；（人）高尚的，不为物欲所动的
 devoid         adj. 缺乏的；全无的  
 culmination    n. 终点，高潮；<旧>（天体的）达于中天
 arena          n. 舞台；竞技场

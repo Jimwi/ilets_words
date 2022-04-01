@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=XxX01qXFkSg
 
+43:57
+
 ```
 moral       adj. 有关道德的；基于道德的，道义上的；品行端正的，有道德的；伦理的；能辨别是非的
 enlist      v. （使）参军，（使）入伍；争取，谋取；赞助，支持

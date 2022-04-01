@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=6_Ln98gBkXc
 1:14:13
 
 ``` 
-proponent 
+proponent n. <正式>支持者，建议者；提出认证遗嘱者
 elicit v. 引出，得到；<古>使（潜在的东西）显现，诱出
 escalate v. （使）变得严重，（使）升级；迅速增加，迅速增长；逐步增强，逐步升高
 fortify 
