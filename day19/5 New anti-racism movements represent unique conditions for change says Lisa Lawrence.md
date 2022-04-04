@@ -3,9 +3,9 @@ https://www.youtube.com/watch?v=6xsPbn598a8
 2:37
 
 ```  
-overt    adj. 公开的，不隐瞒的
+overt       adj. 公开的，不隐瞒的
 becoming    
-refute    v. <正式> 驳斥，批驳；<正式> 否认，辩驳
+refute      v. <正式> 驳斥，批驳；<正式> 否认，辩驳
 indigenous  adj. 本土的，固有的
 ```
 

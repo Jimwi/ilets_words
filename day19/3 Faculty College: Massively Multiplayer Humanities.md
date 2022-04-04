@@ -1,4 +1,7 @@
 https://www.youtube.com/watch?v=7ehxL__kl2M
+
+2:27
+
 ```
 manifold    adj. 多种多样的，许多种类的  
 instruct    v. 指示，吩咐；教授，指导；聘请（律师），托办；通知；（法官向陪审团）建议，作说明      

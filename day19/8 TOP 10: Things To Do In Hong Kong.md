@@ -1,16 +1,18 @@
 https://www.youtube.com/watch?v=A6roZyka7dU
 
+5:43
+
 ```  
-aquarium  
-serene     adj. 平静的；安详的；清澈的；晴朗的
-amusement    
-cruise      
-elevate     v. 提拔，提升；抬起，提起；提高，增加；使情绪高昂，使兴高采烈
-vibrant    
+aquarium     n. 水族箱，养鱼缸；水族馆
+serene       adj. 平静的；安详的；清澈的；晴朗的
+amusement    n. 开心，娱乐；娱乐活动，娱乐设施
+cruise       n. 巡游，乘船游览
+elevate      v. 提拔，提升；抬起，提起；提高，增加；使情绪高昂，使兴高采烈
+vibrant      adj. 充满活力的，充满生机的，生气勃勃的；鲜艳的，醒目的；洪亮的，强劲的；颤抖的，震动的
 spectacle    n. 景象；场面；奇观；壮观；盛大的演出；（复）眼镜
 panorama     n. （陆地或海洋的）全景，全貌；全景画，全景摄影；（某一主题或系列事件的）概论，综述；万花筒，各种人物，多样事物  
 tranquil     adj. 平静的，宁静的，静谧的  
-autonomous  
+autonomous   adj. 自治的，有自治权的；自主的，有自主权的；自动的
 span      
 picturesque   adj. （地方）古雅的，风景如画的；（语言）生动的，独特的；（服饰和外貌）引人注意的，奇特的
 ```
