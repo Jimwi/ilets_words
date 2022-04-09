@@ -1,12 +1,14 @@
 https://www.youtube.com/watch?v=6Wl0yjC459k 
 
+6:05
+
 ```
-jargon    n. 行话，黑话；烟色红皓石，黄皓石  
-epidemic  n. 传染病；流行病；风尚等的流行   
-advent    n. 出现，到来，问世；基督降临节（Advent）；基督降临，基督复临（Advent）
-intersection   n. 交叉；十字路口；交集；交叉点
-shepherd  n. 牧羊人，羊倌；牧师；指导者 
-stagnate  vi. 停滞；淤塞；变萧条
+jargon          n. 行话，黑话；烟色红皓石，黄皓石  
+epidemic        n. 传染病；流行病；风尚等的流行   
+advent          n. 出现，到来，问世；基督降临节（Advent）；基督降临，基督复临（Advent）
+intersection    n. 交叉；十字路口；交集；交叉点
+shepherd        n. 牧羊人，羊倌；牧师；指导者 
+stagnate        vi. 停滞；淤塞；变萧条
 ```
 
 

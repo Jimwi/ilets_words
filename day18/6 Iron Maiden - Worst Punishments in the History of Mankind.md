@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=55sHJVLSLBQ
 
+5:43
+
 ```  
 humane      adj. 人道的，仁慈的；（学科分支）人文的，高尚的
 devastate   v. 毁坏，破坏；使极度震惊，使伤心欲绝

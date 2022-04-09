@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=GFKzE52XRmw
 
+8:52
+
 The One Subject You Really Need to Study: Your Own Childhood
 
 ```  

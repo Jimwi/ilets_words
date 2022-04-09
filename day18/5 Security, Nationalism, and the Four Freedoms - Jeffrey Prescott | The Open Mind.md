@@ -1,48 +1,50 @@
 https://www.youtube.com/watch?v=dJlLWXo17SA
 
+28:14
+
 ```
-moral      adj. 有关道德的；基于道德的，道义上的；品行端正的，有道德的；伦理的；能辨别是非的
-haphazard  adj. 偶然的；随便的；无计划的
-roam       vi. 漫游，漫步；流浪
-bare       adj. 空的；赤裸的，无遮蔽的
-precede    v. 处在……之前，先于；在……之前做（或说）；比……更重要，比……（级别）更高
-disdain    n. 蔑视  
-reckless   adj. 鲁莽的，不计后果的；粗心大意的
-worship    n. 崇拜；礼拜；尊敬  
-hallmark   n. 特点；品质证明
-arena      n. 舞台；竞技场
-viable     adj. 可望成功的，切实可行的；能存活的，能生长发育的
-incentive  n. 动机；刺激
-optics     n. [光] 光学  
-retreat    n. 撤退；休息寓所      
-irreversible   adj. 不可逆的；不能取消的；不能翻转的
-interim    adj. 暂时的，过渡期间的，间歇的；决算前的，中间时期的    
-prestige   n. 威望，声望；声誉
-epidemic   n. 传染病；流行病；风尚等的流行
-deter      vt. 制止，阻止；使打消念头        
-sanction   n. 制裁；处罚，惩罚；（正式）许可，批准；<史>（尤指基督教会的）法令，法律；（伦理学）约束力；支持，鼓励  
-council    n. 委员会，理事会；政务委员会，地方议会；会议：；（教会的）集会；会议
-intangible  adj. 不可捉摸的，难以确定的；（资产，利益）无形的
-predecessor  n. 前任，前辈；（被取代的）原有事物，前身
-palatable    adj. 美味的，可口的；愉快的
-implication   n. 含义；暗示；牵连，卷入；可能的结果，影响
-accord        n. 协议，条约；符合，一致
-consensus     n. 一致看法，共识
-renounce      vt. 宣布放弃；与…断绝关系；垫牌
-tangible      adj. 明确的，真实的；可触摸的，可感知的 n. 可触知的东西
-facility      n. 设施，设备；（机器等的）特别装置，特殊功能；（特定用途的）场所；才能，天赋  
-precipitous   adj. 险峻的；急躁的，鲁莽的
-regime        n. 政权，政体（指非民主且统治手段不被认可的政府或政权体系）；（机构、公司、经济等的）管理体制，组织方法；养生法；（科技或生产过程）管理体系；政权，政体（指非民主且统治手段不被认可的政府或政权体系）
-instruct      v. 指示，吩咐；教授，指导；聘请（律师），托办；通知；（法官向陪审团）建议，作说明
-formidable   adj. 可怕的，令人敬畏的；（形状、数量）巨大的；难对付的        
-counterfeit   adj. 伪造的，假冒的；<古>假装的，虚假的  
-affirm       v. 断言，证实； 宣称拥护，支持；认可（判决，协议），批准；不宣誓而提供正式证词；给予（某人）情感支持（或鼓励）
-diction      n. 用语；措词
-proliferate   vi. 增殖；扩散；激增
-plague       n. 瘟疫，传染病；鼠疫（尤指腺鼠疫）；（老鼠或昆虫等肆虐造成的）灾害，祸患； 普遍的祸害；烦恼事；<古>愿上天降灾难于……（a plague on）
-erratic     adj. 不稳定的；古怪的
-urge        v. 敦促，催促，力劝；竭力主张，强烈要求；驱赶，鞭策；鼓励，激励（~ sb. on）
-outfit     n. （尤指在某一场合穿的）全套服装；全套工具，全套设备；<非正式>（协同工作的）一组人，一队人（尤指乐队、运动队、公司）
+moral           adj. 有关道德的；基于道德的，道义上的；品行端正的，有道德的；伦理的；能辨别是非的
+haphazard       adj. 偶然的；随便的；无计划的
+roam            vi. 漫游，漫步；流浪
+bare            adj. 空的；赤裸的，无遮蔽的
+precede         v. 处在……之前，先于；在……之前做（或说）；比……更重要，比……（级别）更高
+disdain         n. 蔑视  
+reckless        adj. 鲁莽的，不计后果的；粗心大意的
+worship         n. 崇拜；礼拜；尊敬  
+hallmark        n. 特点；品质证明
+arena           n. 舞台；竞技场
+viable          adj. 可望成功的，切实可行的；能存活的，能生长发育的
+incentive       n. 动机；刺激
+optics          n. [光] 光学  
+retreat         n. 撤退；休息寓所      
+irreversible    adj. 不可逆的；不能取消的；不能翻转的
+interim         adj. 暂时的，过渡期间的，间歇的；决算前的，中间时期的    
+prestige        n. 威望，声望；声誉
+epidemic        n. 传染病；流行病；风尚等的流行
+deter           vt. 制止，阻止；使打消念头        
+sanction        n. 制裁；处罚，惩罚；（正式）许可，批准；<史>（尤指基督教会的）法令，法律；（伦理学）约束力；支持，鼓励  
+council         n. 委员会，理事会；政务委员会，地方议会；会议：；（教会的）集会；会议
+intangible      adj. 不可捉摸的，难以确定的；（资产，利益）无形的
+predecessor     n. 前任，前辈；（被取代的）原有事物，前身
+palatable       adj. 美味的，可口的；愉快的
+implication     n. 含义；暗示；牵连，卷入；可能的结果，影响
+accord          n. 协议，条约；符合，一致
+consensus       n. 一致看法，共识
+renounce        vt. 宣布放弃；与…断绝关系；垫牌
+tangible        adj. 明确的，真实的；可触摸的，可感知的 n. 可触知的东西
+facility        n. 设施，设备；（机器等的）特别装置，特殊功能；（特定用途的）场所；才能，天赋  
+precipitous     adj. 险峻的；急躁的，鲁莽的
+regime          n. 政权，政体（指非民主且统治手段不被认可的政府或政权体系）；（机构、公司、经济等的）管理体制，组织方法；养生法；（科技或生产过程）管理体系；政权，政体（指非民主且统治手段不被认可的政府或政权体系）
+instruct        v. 指示，吩咐；教授，指导；聘请（律师），托办；通知；（法官向陪审团）建议，作说明
+formidable      adj. 可怕的，令人敬畏的；（形状、数量）巨大的；难对付的        
+counterfeit     adj. 伪造的，假冒的；<古>假装的，虚假的  
+affirm          v. 断言，证实； 宣称拥护，支持；认可（判决，协议），批准；不宣誓而提供正式证词；给予（某人）情感支持（或鼓励）
+diction         n. 用语；措词
+proliferate     vi. 增殖；扩散；激增
+plague          n. 瘟疫，传染病；鼠疫（尤指腺鼠疫）；（老鼠或昆虫等肆虐造成的）灾害，祸患； 普遍的祸害；烦恼事；<古>愿上天降灾难于……（a plague on）
+erratic         adj. 不稳定的；古怪的
+urge            v. 敦促，催促，力劝；竭力主张，强烈要求；驱赶，鞭策；鼓励，激励（~ sb. on）
+outfit          n. （尤指在某一场合穿的）全套服装；全套工具，全套设备；<非正式>（协同工作的）一组人，一队人（尤指乐队、运动队、公司）
 ```
 
 Security, Nationalism, and the Four Freedoms - Jeffrey Prescott | The Open Mind
@@ -50,7 +52,7 @@ Security, Nationalism, and the Four Freedoms - Jeffrey Prescott | The Open Mind
 WEBVTT Kind: captions Language: en 
 
 
-HEFFNER: I'm Alexander Hefner, your host on The Open Mind. You may recall our conversation this year with General Stephen Cheney on our immediate homeland security challenges: nuclear, cyber, and environmental. Today we'll probe those challenges further. What are our `gravest` geopolitical risks, namely the proliferation of weapons and the potential for war. My guest is Jeffrey Prescott, the executive director of National Security Action and senior fellow at the Penn Biden Center for Diplomacy and Global Dngagement. He served as special assistant to President Obama and was Senior Director for Iran, Iraq, Syria, and the Gulf States on the National Security Council. I'm interested in his assessment of the strong man here at home, the revolt of the populists around the globe, the Iran retreat, and the ongoing North Korea diplomacy, and it's vast implications for world safety. Jeffrey, thank you for making the voyage from DC to be here with me. 
+HEFFNER: I'm Alexander Hefner, your host on The Open Mind. You may recall our conversation this year with General Stephen Cheney on our immediate homeland security challenges: nuclear, cyber, and environmental. Today we'll probe those challenges further. What are our `gravest` geopolitical risks, namely the `proliferation` of weapons and the potential for war. My guest is Jeffrey Prescott, the executive director of National Security Action and senior fellow at the Penn Biden Center for Diplomacy and Global `Dngagement`. He served as special assistant to President Obama and was Senior Director for Iran, Iraq, Syria, and the Gulf States on the National Security Council. I'm interested in his assessment of the strong man here at home, the revolt of the populists around the globe, the Iran retreat, and the ongoing North Korea diplomacy, and it's vast implications for world safety. Jeffrey, thank you for making the voyage from DC to be here with me. 
 
 PRESCOTT: Thanks for having me. 
 
@@ -58,13 +60,13 @@ HEFFNER: I wanted to start with North Korea because it really can't be examined 
 
 PRESCOTT: Well, I think you're absolutely right. Obviously, China has a enormous interest in the Korean Peninsula. Russia has been involved historically in negotiations around North Korea's nuclear program and of course our allies, Japan, South Korea and others in the region have an interest in this as well. So you can't look at it in isolation. While the North Koreans are very interested in us, North Korea diplomacy and direct discussions between the two of us, you really can't separate it from the larger context in the region. And that's one of the reasons that we've traditionally looked at our allies in Japan and South Korea and try to be in lockstep with them as we've worked on this a very difficult issue. We've also tried to make sure that we had clear lines of communication and expectations with China, with Russia and others to make sure that we understand where others are coming from as we look at this, a very difficult national security challenge. 
 
-HEFFNER: How do you assess the situation right now with North Korea and the potential for any kind of believable verified denuclearization from North Korea? 
+HEFFNER: How do you `assess` the situation right now with North Korea and the potential for any kind of believable verified denuclearization from North Korea? 
 
-PRESCOTT: Well, I'm very worried about where we are right now in North Korea. We had a process of building a pressure, a economic and political pressure on North Korea began even before the Obama Administration, but continued during the Obama Administration and Trump turned that into his maximum pressure campaign, essentially a continuation of those sanctions over the first part of his administration and turned that into what could be a very promising diplomatic opportunity. But at this point there seems to be a dramatic gap between the rhetoric from President Trump that this threat has been resolved or that this problem has been solved and what we're actually seeing on the ground in North Korea, the most recent reports of course, are that their nuclear program seems to be expanding. There may be additional parts or additional facilities that we don't know about. There hasn't really been a declaration of what North Korea has in their arsenal. We know there's about 60 nuclear weapons. We know they have a number of types of ballistic missiles, including some that may threaten the United States. So there's an enormous challenge here and in some ways by going to a Presidential Summit, a meeting with the North Korean leader as a first step, we've put ourselves in a very difficult position because the President has said that was a great achievement, we've, we've actually achieved something there. But as we just saw from Secretary Pompeo, his most recent trip to North Korea it's not clear that the North Koreans are on the same page as the United States in terms of what the next steps are. And we haven't seen any concrete steps, suggesting that a process of denuclearization is beginning to take place. 
+PRESCOTT: Well, I'm very worried about where we are right now in North Korea. We had a process of building a pressure, a economic and political pressure on North Korea began even before the Obama Administration, but continued during the Obama Administration and Trump turned that into his maximum pressure campaign, essentially a continuation of those sanctions over the first part of his administration and turned that into what could be a very promising diplomatic opportunity. But at this point there seems to be a dramatic gap between the `rhetoric` from President Trump that this threat has been resolved or that this problem has been solved and what we're actually seeing on the ground in North Korea, the most recent reports of course, are that their nuclear program seems to be expanding. There may be additional parts or additional facilities that we don't know about. There hasn't really been a declaration of what North Korea has in their `arsenal`. We know there's about 60 nuclear weapons. We know they have a number of types of `ballistic` missiles, including some that may threaten the United States. So there's an enormous challenge here and in some ways by going to a Presidential Summit, a meeting with the North Korean leader as a first step, we've put ourselves in a very difficult position because the President has said that was a great achievement, we've, we've actually achieved something there. But as we just saw from Secretary Pompeo, his most recent trip to North Korea it's not clear that the North Koreans are on the same page as the United States in terms of what the next steps are. And we haven't seen any concrete steps, suggesting that a process of denuclearization is beginning to take place. 
 
 HEFFNER: What would verification look like based on the Iran model? 
 
-PRESCOTT: Well, I think it's a useful comparison to make. I'm not least because of the irony that the Trump Administration has been, you know, obviously vociferously opposed to the Iran nuclear arrangement and pulled out of that agreement, just a couple of months ago. The, the Iran agreement is interesting to consider for a couple of reasons. One is that of course, Iran had not achieved a nuclear weapon at the time of the agreement. They had a nuclear program and they had enough fissile material to make a number of nuclear weapons if they chose to go down a path but had not yet reached that capability. So in that sense, it's a little bit different than North Korea where there's a pretty well stocked arsenal and you're actually talking about rolling back from a capability that they didn't have. But what we did with Iran was a instructive. First of all, we work closely with our allies, our European allies in this case, but also China and Russia to reach an international agreement with the Iranians. Iran had to take a number of steps, some interim steps involving freezing their program completely. And then under the final deal, they had to take a number of irreversible steps to be able to roll back their program. That included shipping out 97 percent of their enriched uranium. That included shutting down a plutonium reactor by filling the core of it with concrete so it couldn't be used to make a plutonium product that might be turned into a weapon in the future. And it required allowing in international inspectors that would have access not just to one site or a few sites, but the entire supply chain from uranium mines all the way to buildings where centrifuges are spending in, and nuclear material is being created. And at the end of that process, Iran got some fairly modest sanctions relief from the international sanctions regime that had been put on Iran. That was a pretty good deal for the United States because it took them from the capability having the raw material at hand to create a number of nuclear weapons down to less than would be needed for even one and it locked that material down with international inspections for a number of years, dozens of years into the future. And so you're talking about a situation where you no longer had to worry about this, the Iranian regime potentially getting a nuclear weapon. Now that doesn't mean we solved all problems with Iran. Obviously there are a lot of other concerns about Iran's behavior in the region, a number of other issues that we'd need to be concerned about. Now, when you translate that over to North Korea, obviously as I mentioned, you've got a different scenario in that North Korea already has nuclear capability, but it is. useful to think about what a path might look like. First, you have to understand what North Korea has. They have a very complicated arsenal that is hidden in many sites, many of them underground. Many of them our intelligence community despite all of its capabilities probably doesn't know about, and so there's a certain amount of understanding what the problem is, what their actual capability is, and then there's thinking about what kinds of restrictions over time would begin to unravel this and what kind of incentives would be required for North Korea to take that path. At the end of the Singapore Summit, president Trump declared that there was no longer a threat from North Korea. That's obviously not the case because that entire arsenal is still there and we haven't seen any steps in a concrete way to begin to roll that back. 
+PRESCOTT: Well, I think it's a useful comparison to make. I'm not least because of the irony that the Trump Administration has been, you know, obviously vociferously opposed to the Iran nuclear arrangement and pulled out of that agreement, just a couple of months ago. The, the Iran agreement is interesting to consider for a couple of reasons. One is that of course, Iran had not achieved a nuclear weapon at the time of the agreement. They had a nuclear program and they had enough `fissile` material to make a number of nuclear weapons if they chose to go down a path but had not yet reached that capability. So in that sense, it's a little bit different than North Korea where there's a pretty well stocked arsenal and you're actually talking about rolling back from a capability that they didn't have. But what we did with Iran was a instructive. First of all, we work closely with our allies, our European allies in this case, but also China and Russia to reach an international agreement with the Iranians. Iran had to take a number of steps, some interim steps involving freezing their program completely. And then under the final deal, they had to take a number of irreversible steps to be able to roll back their program. That included shipping out 97 percent of their enriched uranium. That included shutting down a plutonium reactor by filling the core of it with concrete so it couldn't be used to make a plutonium product that might be turned into a weapon in the future. And it required allowing in international inspectors that would have access not just to one site or a few sites, but the entire supply chain from uranium mines all the way to buildings where centrifuges are spending in, and nuclear material is being created. And at the end of that process, Iran got some fairly modest sanctions relief from the international sanctions regime that had been put on Iran. That was a pretty good deal for the United States because it took them from the capability having the raw material at hand to create a number of nuclear weapons down to less than would be needed for even one and it locked that material down with international inspections for a number of years, dozens of years into the future. And so you're talking about a situation where you no longer had to worry about this, the Iranian regime potentially getting a nuclear weapon. Now that doesn't mean we solved all problems with Iran. Obviously there are a lot of other concerns about Iran's behavior in the region, a number of other issues that we'd need to be concerned about. Now, when you translate that over to North Korea, obviously as I mentioned, you've got a different scenario in that North Korea already has nuclear capability, but it is. useful to think about what a path might look like. First, you have to understand what North Korea has. They have a very complicated arsenal that is hidden in many sites, many of them underground. Many of them our intelligence community despite all of its capabilities probably doesn't know about, and so there's a certain amount of understanding what the problem is, what their actual capability is, and then there's thinking about what kinds of restrictions over time would begin to unravel this and what kind of incentives would be required for North Korea to take that path. At the end of the Singapore Summit, president Trump declared that there was no longer a threat from North Korea. That's obviously not the case because that entire arsenal is still there and we haven't seen any steps in a concrete way to begin to roll that back. 
 
 HEFFNER: Right. It's, that was a “wag the dog” act in the attempt at revealing to the American public that there was a solution when in fact it was a charade when there were some videos released to the press showing that they were nuking their own facilities, and in fact the latest intelligence report is that they are building up. From that perspective I just wanted to ask a very direct factual question” When was the last time international inspectors had access to the North Korea facility? 
 
@@ -94,7 +96,7 @@ HEFFNER: Well, I want you to talk about that because there is rightly the concer
 
 PRESCOTT: Well, I think you're putting into your finger on a number of issues. One, when it comes to the family interest in the personal interest of the President, it's an unprecedented situation we haven't seen a president before who hasn't divested from their financial interests, has not tried to, not only not have conflicts of interest, but avoid the appearance of those conflicts whatsoever. And that does raise some serious questions about the President's actions on foreign affairs. We saw just recently with this Chinese company, ZTE, where there's some profound national security questions that are involved and we saw a kind of back and forth position on that, that happened to be at the same time where the Trump organization was getting some loans from Chinese entities and some trademarks from Chinese entities. So there's a, there's at least the appearance and, and certainly some serious questions that need to be raised on how the decision-making process relates to the personal financial interests of the President. That's something we haven't really had to grapple with, which you're also pointing to a larger set of issues, which is how do we have, how do we bring our, how do we get our country back onto an affirmative position where we're leading in the world? And in some ways, whether you look at the trade issue, whether you look at the pulling out of international agreements like Iran, like the climate accord, like our protection, our support for refugee protections around the world. These are issues where the United States has traditionally been at the table, usually at the head of the table, setting the agenda and trying to either develop agreements or international cooperation that can help solve some of these challenges. This is an administration that's turned away from that, either pulled out, broken our word on some of these agreements and not willing to work with others... So it sort of turns our foreign policy on its head. And you see that even in the optics of the meetings that the President is interested in and those that he's not. We saw the G-7 were the body language couldn't be worse with our closest allies around the world, the ones we need to work with to make sure that the global economy is working in everybody's interests but most importantly in our interest. We saw that, we will see that, in the coming days as you have a summit with our NATO allies that, that looks like it will be quite `contentious` and then a fawning, potentially fawning summit with President Putin. So, there has been an embrace of dictators and strong men in a way that really goes against American values. There are countries all over the world that we have to work with. Sometimes we have to hold our nose to do it, but we also have to remember what we stand for and that example that we set in the world. 
 
-HEFFNER: Trump is masterful. If nothing else at sloganeering and slogans. And I think your outfit really has to concern itself with not just the nuances of an alternative approach, but really the nomenclature, the vocabulary, the diction, the slogan of what comes after Trump. Any insight into that? 
+HEFFNER: Trump is masterful. If nothing else at `sloganeering` and slogans. And I think your `outfit` really has to concern itself with not just the nuances of an alternative approach, but really the nomenclature, the vocabulary, the diction, the slogan of what comes after Trump. Any insight into that? 
 
 PRESCOTT: Well you're absolutely right. There's a few different things I would say in this, in this respect. First of all, a part of what we're trying to do is get Progressive and Democratic candidates ready to have these arguments in the first place. We traditionally don't think about our foreign policy and national security issues unless there's something that's right in front of us. It's traditionally not what we're looking at, for example, in a midterm election, and I don't think we're going to make our role in the world a more important issue than healthcare or access to jobs or some of the other issues that many candidates going running on. But people are worried about North Korea. They're worried about the decline in our position in the world. They're worried about the erratic decision making style of this President. You see that reflected not just in the polling but what you hear in focus groups and you hear concern from Americans across the country. And so we're trying to find a way to help people make feel comfortable to make these arguments and in some ways to take some ground where I think Republicans have traditionally convinced Americans that they have American security first and foremost in their minds. In some ways, Trump and the Republicans have turned away from that traditional role. I happen to think the Obama Administration kept America pretty safe. We have to do a good job of selling that, so you're absolutely absolutely right about that, but this is a platform where we need to make people on our side of the political debate more comfortable making these arguments, pointing out some of the very troubling things that we're seeing from this administration and getting ready to have an affirmative message to talk to the American people over the next few years about how we would take this country in a different direction. 
 

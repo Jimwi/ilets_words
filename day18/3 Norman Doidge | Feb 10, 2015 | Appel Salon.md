@@ -1,54 +1,57 @@
 https://www.youtube.com/watch?v=yX7atJmNJJ8
 
+50:21
+
 ```
-discrete  
-bare  
-martial   adj. 军事的；战争的；尚武的    
-wane      vi. 衰落；变小；亏缺；退潮；消逝
-doctrine  
+discrete        adj. 分离的，各别的
+bare            adj. 赤裸的；光秃秃的；无遮盖的，无装饰的；仅最基本的
+martial         adj. 军事的；战争的；尚武的    
+wane            vi. 衰落；变小；亏缺；退潮；消逝
+doctrine        n. 教义，主义，信条；（政府政策的）正式声明
 overwhelming    
-bogus   adj. 假的；伪造的
-devour    v. 吞食；毁灭
-fatigue   n. 疲乏，厌倦；（金属部件的）疲劳；（士兵穿的）工作服；士兵杂役（尤指作为惩罚,如做打扫、帮厨）    
-invasive   adj. 侵入的；入侵性的；扩散的
-sedentary    adj. 久坐的；坐惯的；定栖的；静坐的
+bogus           adj. 假的；伪造的
+devour          v. 吞食；毁灭
+fatigue         n. 疲乏，厌倦；（金属部件的）疲劳；（士兵穿的）工作服；士兵杂役（尤指作为惩罚,如做打扫、帮厨）    
+invasive        adj. 侵入的；入侵性的；扩散的
+sedentary       adj. 久坐的；坐惯的；定栖的；静坐的
 rehabilitate    v. （监禁、戒毒或病后通过培训和治疗）使恢复正常生活；恢复……的权利，恢复……的名誉；使（建筑物或地区）恢复原状，修复  
-fragrant    adj. 芳香的；愉快的
-odour    n. （尤指难闻的）气味，臭味；意味，迹象；名声  
-meditative   adj. 冥想的，沉思的；耽于默想的  
-immerse    v. 使沉浸（于），使深陷（于）；使浸没（于液体中）    
-elapse    v. 消逝 n. 时间的流逝
-prick     v. 戳；扎破；（使）感到刺痛；（眼泪）引起刺痛；（眼睛）发酸；（使）内心痛苦；驱使；
-acute     adj. 严重的，危险的；急性的，剧烈的；灵敏的；敏锐的，有洞察力的；锐角的；带尖音符的；（声音）高的，尖的
-sensation   n. 感觉，知觉；感觉能力，知觉能力；（某种经历所产生的）整体感觉，总体印象；轰动，引起轰动的人（或事）  
-circuit    n. 电路，回路；巡回活动，巡回地；环道，环线；赛车道；（英国）巡回审判区，巡回上诉法院；（一套）体操动作；统一经营的连锁剧院（或影院）
-reimburse    vt. 偿还；赔偿
-implication    n. 含义；暗示；牵连，卷入；可能的结果，影响
-zealous       adj. 热心的，热情的，积极的  
-meditate    vt. 考虑；计划；企图  vi. 冥想；沉思
-diligent     adj. 勤奋的，勤勉的；细致的，潜心的  
-subtle  
+fragrant        adj. 芳香的；愉快的
+odour           n. （尤指难闻的）气味，臭味；意味，迹象；名声  
+meditative      adj. 冥想的，沉思的；耽于默想的  
+immerse         v. 使沉浸（于），使深陷（于）；使浸没（于液体中）    
+elapse          v. 消逝 n. 时间的流逝
+prick           v. 戳；扎破；（使）感到刺痛；（眼泪）引起刺痛；（眼睛）发酸；（使）内心痛苦；驱使；
+acute           adj. 严重的，危险的；急性的，剧烈的；灵敏的；敏锐的，有洞察力的；锐角的；带尖音符的；（声音）高的，尖的
+sensation       n. 感觉，知觉；感觉能力，知觉能力；（某种经历所产生的）整体感觉，总体印象；轰动，引起轰动的人（或事）  
+circuit         n. 电路，回路；巡回活动，巡回地；环道，环线；赛车道；（英国）巡回审判区，巡回上诉法院；（一套）体操动作；统一经营的连锁剧院（或影院）
+reimburse       vt. 偿还；赔偿
+implication     n. 含义；暗示；牵连，卷入；可能的结果，影响
+zealous         adj. 热心的，热情的，积极的  
+meditate        vt. 考虑；计划；企图  vi. 冥想；沉思
+diligent        adj. 勤奋的，勤勉的；细致的，潜心的  
+subtle          adj. 不易察觉的，微妙的；敏锐的，有洞察力的；灵活的，巧妙的；含蓄的，隐晦的；<古>狡猾的
 reverse  
-torment    n. 痛苦，苦恼；痛苦的根源；折磨；使人痛苦的（人或物）  
-brass      n. 黄铜；黄铜制品；铜管乐器；厚脸皮；位高权重者    
-constitute   v. 组成，构成；是，被视为；成立，设立；任命
-skeptical   
-gobble    vi. 贪食；咯咯叫
-dedicate    . 致力于，献身于；把（书、戏剧、音乐作品等）献给；为（建筑物或教堂）举行奉献（或落成）典礼；题献词
-tentative    adj. 试探性的，暂定的；踌躇的，犹豫不定的
-neurologist   n. 神经病学家；神经科专门医师  
+torment         n. 痛苦，苦恼；痛苦的根源；折磨；使人痛苦的（人或物）  
+brass           n. 黄铜；黄铜制品；铜管乐器；厚脸皮；位高权重者    
+constitute      v. 组成，构成；是，被视为；成立，设立；任命
+skeptical       adj. 不相信的，持怀疑态度的；（哲）怀疑论的，不可知论的
+gobble          vi. 贪食；咯咯叫
+dedicate        v. 致力于，献身于；把（书、戏剧、音乐作品等）献给；为（建筑物或教堂）举行奉献（或落成）典礼；题献词
+tentative       adj. 试探性的，暂定的；踌躇的，犹豫不定的
+neurologist     n. 神经病学家；神经科专门医师  
 ```
+
 WEBVTT Kit
 
 ND: captions Language: en 
 
-Yvonne Hunter: Good evening, everyone. My name is Yvonne Hunter and I am the Head of Programming here at the Appel Salon at the Toronto Public Library. It is thrilling to see so many people out this evening, so welcome. It's my pleasure to bring to the stage tonight, Dr. Norman Doidge, who many of you may know from his previous book, and Nora Young... CBC Spark's Nora Young for a conversation. For centuries, it was believed that the price we paid for our brain's complexity was that it was fixed and unregenerative. Norman Doidge has turned this idea on its head with his groundbreaking first book, "The Brain That Changes Itself". I was fortunate to be part of the publishing team that worked on that book and witnessed its remarkable reception. He presented an idea with profound implications, the idea that the brain can change, potentially discover new pathways and heal itself, recovering from conditions including stroke, ADD, Parkinson's, and dementia. This is the phenomenon of neuroplasticity. 
+Yvonne Hunter: Good evening, everyone. My name is Yvonne Hunter and I am the Head of Programming here at the Appel Salon at the Toronto Public Library. It is thrilling to see so many people out this evening, so welcome. It's my pleasure to bring to the stage tonight, Dr. Norman Doidge, who many of you may know from his previous book, and Nora Young... CBC Spark's Nora Young for a conversation. For centuries, it was believed that the price we paid for our brain's complexity was that it was fixed and `unregenerative`. Norman Doidge has turned this idea on its head with his groundbreaking first book, "The Brain That Changes Itself". I was fortunate to be part of the publishing team that worked on that book and witnessed its remarkable `reception`. He presented an idea with profound implications, the idea that the brain can change, potentially discover new pathways and heal itself, recovering from conditions including stroke, ADD, Parkinson's, and `dementia`. This is the phenomenon of neuroplasticity. 
 
 YH: As a journalist, author, and speaker, Nora Young explores how new technology shapes the way we understand the world around us. She is the author of "The Virtual Self", a book that looks at the explosion of data and how it affects our behaviours. Please join me in welcoming the CBC's Nora Young. [applause] 
 
-Nora Young: Hi. Thanks, Yvonne. Welcome, it's a delight to be here. I'm just gonna... Before I introduce Norman and we get the ball rolling, I'd like to just give you a quick overview of how the evening is gonna go. I'm gonna be interviewing Norman Doidge for about 45 minutes, and after that we're gonna have a Q&amp;A from you. So, as you listen I hope you'll be thinking of questions that you want to answer, things that you wished I had asked and so forth. And just take the time to remember we don't have a lot of time, so it would be super helpful if people could keep their questions concise. That way we can get as many questions in as we possibly can. And I would say that, unfortunately, Norman is not able to answer specific medical questions. These things are very particular and we wanna keep the conversation a benefit to everyone, so please bear that in mind during the Q&amp;A and again during the book signing. 
+Nora Young: Hi. Thanks, Yvonne. Welcome, it's a delight to be here. I'm just gonna... Before I introduce Norman and we get the ball rolling, I'd like to just give you a quick overview of how the evening is gonna go. I'm gonna be interviewing Norman Doidge for about 45 minutes, and after that we're gonna have a Q&amp;A from you. So, as you listen I hope you'll be thinking of questions that you want to answer, things that you wished I had asked and so forth. And just take the time to remember we don't have a lot of time, so it would be super helpful if people could keep their questions `concise`. That way we can get as many questions in as we possibly can. And I would say that, unfortunately, Norman is not able to answer specific medical questions. These things are very particular and we wanna keep the conversation a benefit to everyone, so please bear that in mind during the Q & A and again during the book signing. 
 
-NY: Alright, so onto our guest of honour here tonight. Norman Doidge is a psychiatrist and a psychoanalyst, and he is the author of the enormously influential book, "The Brain That Changes Itself", about neuroplasticity. And now this new book is out, called "The Brain's Way of Healing", which I could barely put down over the last couple of weeks, where he documents extraordinary examples of healing and treatment from such diverse problems as Parkinson's, brain injury and MS. And he's one of our own, a Torontonian. So won't you please welcome Norman Doidge. [applause] 
+NY: Alright, so onto our guest of honour here tonight. Norman Doidge is a psychiatrist and a psychoanalyst, and he is the author of the enormously influential book, "The Brain That Changes Itself", about `neuroplasticity`. And now this new book is out, called "The Brain's Way of Healing", which I could barely put down over the last couple of weeks, where he documents extraordinary examples of healing and treatment from such diverse problems as Parkinson's, brain injury and MS. And he's one of our own, a Torontonian. So won't you please welcome Norman Doidge. [applause] 
 
 NY: So, Norman, let's start with a couple of basics. What do we mean by this idea of neuroplasticity? And how is that different from our conventional understanding of the brain? 
 
@@ -66,17 +69,17 @@ ND: Sure. After I finished "The Brain That Changes Itself", for that book, I had
 
 ND: The thing I have said about neurons... We have all sorts of experiences of... We see images, we hear sounds, we enjoy fragrant odours, but there are no images or sounds or odours in the brain. There are these patterns of electrical energy and it became apparent to me that you could influence these patterns of electrical energy in a very simple way, non-invasively, through the senses of the body. So some of our senses are what are called "transducers", probably they all are. And a transducer is an engineering term for something which turns energy of one form into energy of another form, or patterns of energy of one form into patterns of energy in another form. So sound comes in the cochlea, sound waves with the patterns of energy there, they're converted by the cochlea into electrical patterns of energy. And because the brain is plastic it became apparent that you could influence the structure of the brain, not just with thought, which is one of the things I emphasized in the first book, in mental practice and rehearsal, but with sense experience, as well. 
 
-ND: And, of course, the retina is a transducer of light to electricity and so on. And it became... There were examples of people using light to treat traumatic brain injury, actually here in Toronto, brilliant examples, using sound for learning disorders and autism, sensory processing disorder, movement for... There's a story of a girl who was born missing a third of her cerebellum and just movement is a way... Moving the limbs is talking to the brain, actually took this girl who was supposed to be paralysed and institutionalized and she's just a perfectly normal adult now. And so, the other thing I found was that a lot of the neuroplasticians who were doing this work, when I would be talking to them... Because this becomes a very... These encounters become very personal, because these people have been isolated, dismissed, abused, they've had trouble getting grants for many years, particularly their mentors, because this was outside of the paradigm. And people don't believe in... Once you're stuck in, what I call the "doctrine of the unchanging brain," which grew up in response to this notion of the fixed brain, many condition... One patient after another, let's put it this way, in this book, was told they wouldn't get better. And if they did get better working with these people, then often people would hear those stories and they wouldn't believe that they were really sick in the first place, even though it had been very well documented. 
+ND: And, of course, the retina is a transducer of light to electricity and so on. And it became... There were examples of people using light to treat traumatic brain injury, actually here in Toronto, brilliant examples, using sound for learning disorders and `autism`, sensory processing disorder, movement for... There's a story of a girl who was born missing a third of her `cerebellum` and just movement is a way... Moving the limbs is talking to the brain, actually took this girl who was supposed to be `paralysed` and `institutionalized` and she's just a perfectly normal adult now. And so, the other thing I found was that a lot of the neuroplasticians who were doing this work, when I would be talking to them... Because this becomes a very... These encounters become very personal, because these people have been isolated, dismissed, abused, they've had trouble getting grants for many years, particularly their mentors, because this was outside of the paradigm. And people don't believe in... Once you're stuck in, what I call the "doctrine of the unchanging brain," which grew up in response to this notion of the fixed brain, many condition... One patient after another, let's put it this way, in this book, was told they wouldn't get better. And if they did get better working with these people, then often people would hear those stories and they wouldn't believe that they were really sick in the first place, even though it had been very well documented. 
 
 ND: So it became personal, because we'd all had these unusual experiences of people who weren't supposed to get better, getting better. And I learned that a lot of them were actually into various forms of traditional Eastern medicine in their private lives, or martial arts or yoga or tai chi. And although all of the energy interventions in this book are based on Western neuroscience, based on equations that you can measure in terms of Western neuroscience, it was very clear that Eastern medicine had, for millennia, taken the notion of energy very seriously and mind. Eastern medicine hadn't done nearly as brilliantly in documenting the brain. We're very good in the West of analyzing it into parts and saying what occurs where and so on but the clinical use of energy in the meridians and traditional Eastern medicine or in tai chi and so on and mind, together, were front the center. And this was, of course, what was happening as I was looking at all these various interventions. 
 
 NY: Mm-hmm. You actually make the point, at one point in the book, that neuroplasticity sort of offers the opportunity for these two grand traditions, the Eastern and the Western medical traditions, to in fact come together and perhaps form some type of new approach to the brain. 
 
-ND: I very much hope that that occurs, because I think there are very valuable things in both. And I myself... I remember being with people describing their Eastern medicine experiences and energy and I would try to get them to explain what was meant by energy and, in general, they had a lot of difficulty. Sometimes, if they were very advanced in tai chi or something like that, they would describe physical sensations, but I struggled with it, too, for sure. And I've since looked into it, too, and I do tai chi. And these are very difficult to describe concepts in Western medicine, but what is becoming completely clear to me or has become clear to me is that we have this really funny attitude in Western medicine towards energy, I think, in clinical practice, because there's a lot of eye-rolling that goes on when people hear about these energy-based interventions. We're very focused on use of medication and surgery, and there's room for those, of course. But it just became clear that... In medical school, for instance, you may have to take a physics course to get into medicine, but you don't really study physics in medicine. And the eye-rolling occurs because there really is very little emphasis in clinical practice. And yet, what is the most common symptom in all of clinical practice? It's an energy symptom. It's fatigue. 
+ND: I very much hope that that occurs, because I think there are very valuable things in both. And I myself... I remember being with people describing their Eastern medicine experiences and energy and I would try to get them to explain what was meant by energy and, in general, they had a lot of difficulty. Sometimes, if they were very advanced in tai chi or something like that, they would describe physical `sensations`, but I struggled with it, too, for sure. And I've since looked into it, too, and I do tai chi. And these are very difficult to describe concepts in Western medicine, but what is becoming completely clear to me or has become clear to me is that we have this really funny attitude in Western medicine towards energy, I think, in clinical practice, because there's a lot of eye-rolling that goes on when people hear about these energy-based interventions. We're very focused on use of medication and surgery, and there's room for those, of course. But it just became clear that... In medical school, for instance, you may have to take a physics course to get into medicine, but you don't really study physics in medicine. And the eye-rolling occurs because there really is very little emphasis in clinical practice. And yet, what is the most common symptom in all of clinical practice? It's an energy symptom. It's fatigue. 
 
 NY: Right. 
 
-ND: That's really interesting. And the other thing is, sometimes when people are suspicious of energy medicine and think it sounds very flaky, and sometimes people describe it in a very flaky way, I don't deny that. I sometimes cringe at the way people describe it. The fact is, a sceptic usually will come and say, "Well, I wanna see that on an FMRI," or, "I wanna see an x-ray or something like that, proving that what you say... The changes made, were possible." But what is an FMRI and what is an x-ray? They're energy assessors. X-rays are rays and FMRIs use magnetism. And, in fact, in all of our assessments, the people who developed those machines and assessing tools are very much into quantum physics and lasers and all of that and... But in clinical practice, we don't make very much use of those concepts. 
+ND: That's really interesting. And the other thing is, sometimes when people are suspicious of energy medicine and think it sounds very `flaky`, and sometimes people describe it in a very flaky way, I don't deny that. I sometimes `cringe` at the way people describe it. The fact is, a `sceptic` usually will come and say, "Well, I wanna see that on an FMRI," or, "I wanna see an x-ray or something like that, proving that what you say... The changes made, were possible." But what is an FMRI and what is an x-ray? They're energy assessors. X-rays are rays and FMRIs use magnetism. And, in fact, in all of our assessments, the people who developed those machines and assessing tools are very much into quantum physics and lasers and all of that and... But in clinical practice, we don't make very much use of those concepts. 
 
 NY: So, in the book, you travel all over the world and you meet people who have had these really astonishing results, using various techniques. I'd like to just talk about one specific example, because it's so common, which is chronic pain. 
 
@@ -98,7 +101,7 @@ ND: And then he noticed that if he lay still, perfectly still, for a whole minut
 
 ND: And, of course, many of us have seen this in action, when President Reagan was shot. He just kind of stood there and nobody knew he had been shot. And then he was pushed into the car and he said after, "I've been shot many times in the movies and I always thought it hurt, so I acted like it hurt, but now I discover that it doesn't always hurt." 
 
-ND: And again, sometimes the brain can turn it off. So, that was a really crucial insight, a visceral insight. He knew it in theory. So many of the things in the book are things we all know in theory, like that language of the brain or the main language of the brain is patterns of energy. We all know it, but how do you use it? So he had known, and every pain physician had known, that there were these switches in the brain, but here he was conscious and his brain somehow did for him what he had been trying to do with all his chronic pain patients with medication, with acupuncture, with injections of anaesthetic. So, for the rest of his life, he would know there are switches. 
+ND: And again, sometimes the brain can turn it off. So, that was a really crucial insight, a `visceral` insight. He knew it in theory. So many of the things in the book are things we all know in theory, like that language of the brain or the main language of the brain is patterns of energy. We all know it, but how do you use it? So he had known, and every pain physician had known, that there were these switches in the brain, but here he was conscious and his brain somehow did for him what he had been trying to do with all his chronic pain patients with medication, with acupuncture, with injections of anaesthetic. So, for the rest of his life, he would know there are switches. 
 
 ND: The second thing that happened was, this Huck Finn, way passed an age when it might have been suitable, was water skiing with his daughters in an inflatable tube, having a heck of a time, and he flipped over and he injured his neck and he developed a chronic pain syndrome, just like I described. It was at first acute and then it became chronic, and it was really bad. He had pain 8 out of 10, many days. He couldn't work. He was quite overwhelmed by it and it so... It happened roughly around the time that neuroplasticity was coming into the literature. And he then devoured everything on plasticity, about 15,000 pages, and then he started to put things together. 
 
@@ -150,7 +153,7 @@ ND: Yeah. I'll tell you how I assess it. I spent... Some people have asked me wh
 
 ND: It's because I immersed myself in these. Science, by definition, has stages, and the initial stages might be... I mean, it's often by a very curious person, who's filled with wonder. They hear something that's unusual, and instead of being dismissive about it, which is what I would call the, "immature skeptical response"... And let me explain that, because, I mean, I actually came at this from scepticism, if I may say. The, "immature skeptical response", and we've all had it... [laughter] 
 
-ND: Is something has happened, we believe something that we didn't really understand, and we got taken. And we all get taken, I understand that. And then we, to protect ourselves, take this attitude, when something new comes along, "If it doesn't fit with what I already know, I'll be dismissive of it." 
+ND: Is something has happened, we believe something that we didn't really understand, and we got taken. And we all get taken, I understand that. And then we, to protect ourselves, take this attitude, when something new comes along, "If it doesn't fit with what I already know, I'll be `dismissive` of it." 
 
 ND: And of course we go through life and we find we miss out on a few things by doing that. And if we're lucky, we don't completely give up scepticism. What we do is we become a little skeptical of our own scepticism and see that it doesn't always work. And we come to the realization that in this very complicated world, the immature sceptic makes a bet, and the bet is that the full... "Everything I know is somehow or other bigger and more important than everything I don't know. So if it doesn't fit with what I know, I'm not going to entertain it, I'm not gonna `investigate` it." As the sceptic matures, he or she sees that that's probably a very bad bet, 'cause as Donald Rumsfeld says, "There are the things you know, the things you don't know, and the things you don't know you don't know." [laughter] 
 
@@ -162,7 +165,7 @@ ND: And then you do the initial testing and you get a lot of clinical experience
 
 ND: But clinical neurologists... Actually, if you read neurology textbooks, they love individual cases. They love Phineas Gage and that we learned about the frontal lobes from a single man who had a rod that was, unfortunately, for him, thrust up through his frontal lobes and he had a change of character. Or the man who mistook his wife for a hat. So, one of the things that I say, just very early on in the book, and it just goes with this kind of territory, because I do describe people who are getting better and who have illnesses where most people are not getting better in mainstream treatment. But I'm not trying to say this is miraculous, I never do it, I try to use science to explain it, make it unmiraculous. And this focus doesn't advocate naively replacing the neurological nihilism of the past with an equally extreme neurological Utopianism, replacing false pessimism with false hope. To be valuable, discoveries of new ways of healing the brain do not have to guarantee that all patients can be helped all the time. And often, we simply don't know what will happen until the person, with the guidance of a knowledgeable health professional, gives the new approaches a try. 
 
-ND: Because the new approaches, all but one, never have side effects, what the person stands to lose is their time and the cost of the treatment. So where there's not a large study, I wear two hats. There's the side of me that did research training at the National Institute of Mental Health in Columbia combined and it wants to know what treatments work for whom, when, and so on. And there's a side of me that's a clinician, with a patient in front of me. And if I have one of these people, or... Not just me, I mean the people in the book, who have tried all the mainstream and complementary approaches and it hasn't helped them, I have to think, "Okay, what's best for this autistic child?" We wait and they're being bullied and they're psychologically being tormented and falling away from their peers and this, that, and the other thing. Or, because there's something available here in Toronto that's helping a number of children that I've seen, do I make the referral? 
+ND: Because the new approaches, all but one, never have side effects, what the person stands to lose is their time and the cost of the treatment. So where there's not a large study, I wear two hats. There's the side of me that did research training at the National Institute of Mental Health in Columbia combined and it wants to know what treatments work for whom, when, and so on. And there's a side of me that's a clinician, with a patient in front of me. And if I have one of these people, or... Not just me, I mean the people in the book, who have tried all the mainstream and complementary approaches and it hasn't helped them, I have to think, "Okay, what's best for this autistic child?" We wait and they're being bullied and they're psychologically being tormented and falling away from their peers and this, that, and the other thing. Or, because there's something available here in Toronto that's helping a number of children that I've seen, do I make the `referral`? 
 
 ND: I don't think that's a tough call, in that situation. If someone is doing a simultaneous control study, where some of them go to, let's say, The Listening Center and some of them get a bogus treatment, be my guest. But I'll tell you, I've done psychiatry for 30 years and there will not be a lot of parents signing their children up for the control position condition. [laughter] 
 
@@ -170,7 +173,7 @@ ND: And that doesn't mean the treatment doesn't work, it's just that all forms o
 
 NY: Yeah. So do you get the feeling when you talk to people in the Western medical tradition that... Because you're talking about things that would require some pretty radical rethinking of the tool kit that we have for Parkinson's, for MS, for all these conditions. Is this type of message being heard or is there resistance from the Western medical tradition? What's your read on that? 
 
-ND: I think, it varies. I think, it goes field by field. Physiotherapy is interested in it, parts of psychiatry are very interested in it. Younger neurologists seem more interested in it. Your experience determines... If you see an autistic child or someone with, let's say, a stroke. I mean, this happens every day right now, still. People are getting six weeks of physiotherapy, maybe eight weeks of physiotherapy for stroke, even though we now know that certain kinds of physiotherapy and intensive work can take people much further. I mean, as we're... Right now, in many time zones, patients are being told that, "We'll give you six to eight weeks of physiotherapy, then you're on your own. Where you are six months or a year out is where you will be. And the progress you will make between six months and a year or now and a year will be minimal." 
+ND: I think, it varies. I think, it goes field by field. Physiotherapy is interested in it, parts of `psychiatry` are very interested in it. Younger neurologists seem more interested in it. Your experience determines... If you see an autistic child or someone with, let's say, a stroke. I mean, this happens every day right now, still. People are getting six weeks of physiotherapy, maybe eight weeks of physiotherapy for stroke, even though we now know that certain kinds of physiotherapy and intensive work can take people much further. I mean, as we're... Right now, in many time zones, patients are being told that, "We'll give you six to eight weeks of physiotherapy, then you're on your own. Where you are six months or a year out is where you will be. And the progress you will make between six months and a year or now and a year will be minimal." 
 
 ND: I hear that all the time, it's still going on. And, of course, if you make that recommendation to patients, they won't make progress. So it's a self-fulfilling prophecy. So it's done in good faith, but it's very hard for doctors... It's these big steamships. They have to turn around very, very slowly. There are so many pressures on doctors. People have no idea how pressured family doctors are and doctors by... What the insurance will reimburse. The demands of the hospital. Nothing is more, in the short term, time-efficient than having a red hot prescription pad, do you know what I mean? 
 

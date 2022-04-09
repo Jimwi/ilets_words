@@ -1,4 +1,4 @@
-begrimed
+begrimed            adj. 污秽的
 mascot
 ferret
 convalesce
@@ -47,7 +47,7 @@ consignment
 annulment
 infamatory
 mudslide
-laterality
+laterality      n. 对一侧面的偏重
 expound
 placid
 lithe
@@ -112,4 +112,4 @@ lash
 ken
 doze
 prod
-pawn
+pawn            n. 典当；抵押物；兵，卒；人质
