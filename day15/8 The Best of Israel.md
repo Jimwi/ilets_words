@@ -1,44 +1,46 @@
 https://www.youtube.com/watch?v=qeVvuph2WAQ&ab_channel=RickSteves%27Europe
 
+
+
 ```
-spiritual      
-worship  
-glitter  
-crusade  
-culmination  
-prophet  
+spiritual       adj. 精神的，心灵的；宗教的；（人）高尚的，不为物欲所动的
+worship         v. 敬奉（神）；爱慕，崇拜
+glitter         v. 闪光，闪烁；（某种强烈的感情）闪现，流露
+crusade         n. （为维护道义而从事的长期）运动；（中世纪的）十字军东征（同 Crusade）
+culmination     n. 终点，高潮；<旧>（天体的）达于中天
+prophet         n. （基督教、犹太教、伊斯兰教等的）先知；预言家；提倡者，拥护者；穆罕默德（the Prophet，伊斯兰教创始人）；犹太教诸先知，《先知书》（the Prophets）
 cosmopolitan    adj. 世界性的；世界主义的，四海一家的；见多识广的
-orthodox    
+orthodox        adj. （观念、方法或行为）传统的，正统的；
 exhilaration    n. 兴奋，欢欣
 tangle          v. （使）缠结在一起；（使）乱成一团；处于混乱状态；（和……）争吵；打架
-fascinate  
-venture  
-pale  
-mourning    
-ensue     v. 继而发生，因而发生；追求  
-chapel    n. 小礼拜堂，小教堂；礼拜；印刷（或报业）工会会员，印刷（或报业）工会分部；殡仪馆；<美>停尸房  
-vibrant   adj. 充满生机的，生气勃勃的；鲜艳的；醒目的；洪亮的；强劲的；颤抖的，震动的
-forge     v. 形成，缔造；伪造，假冒；稳步前进；锻造；伪装，假冒
-preach    v. 布道，讲道；宣扬，鼓吹；说教，训诫    
-sacred    adj. 神的，神圣的；宗教的，宗教性的；受尊重的，受崇敬的；不可侵犯的，不容干涉的
-heave     v. 用力举起，使劲拖；（用力）扔，抛；起伏；发出（叹息）；恶心，呕吐；人头攒动，挤满（人）；用绳将（船）拉动（或往高处拖动）
-resurrection     n. 复活；恢复；复兴
-psyche           n. 灵魂；心智
-slaughter    
-blessed  
-ponder  
-emperor  
-envision    vt. 想象；预想
-mighty  
-labyrinth   n. 迷宫；[解剖] 迷路；难解的事物      
-intricate   adj. 错综复杂的；难理解的，难学会的
-havoc       n. 灾难，混乱 v. 严重破坏；<旧>严重破坏
-joyous  
-pivot  
-affirm    
-dedicate    
-sprawl      v. 伸开四肢坐（或躺）；蔓延
-assert      vt. 维护，坚持；断言；主张；声称
+fascinate       v. <旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹；深深吸引，迷住
+venture         n. 风险项目，冒险事业；冒险旅行，冒险行动
+pale            adj. （脸色）苍白的；（颜色）浅的，淡的；（光线）暗淡的，微弱的；较差的，逊色的
+mourning        n. 伤逝，哀悼；丧服；沉痛哀悼之情；恸哭（某些国家的人为哀悼死者而作的大声痛哭）
+ensue           v. 继而发生，因而发生；追求  
+chapel          n. 小礼拜堂，小教堂；礼拜；印刷（或报业）工会会员，印刷（或报业）工会分部；殡仪馆；<美>停尸房  
+vibrant         adj. 充满生机的，生气勃勃的；鲜艳的；醒目的；洪亮的；强劲的；颤抖的，震动的
+forge           v. 形成，缔造；伪造，假冒；稳步前进；锻造；伪装，假冒
+preach          v. 布道，讲道；宣扬，鼓吹；说教，训诫    
+sacred          adj. 神的，神圣的；宗教的，宗教性的；受尊重的，受崇敬的；不可侵犯的，不容干涉的
+heave           v. 用力举起，使劲拖；（用力）扔，抛；起伏；发出（叹息）；恶心，呕吐；人头攒动，挤满（人）；用绳将（船）拉动（或往高处拖动）
+resurrection    n. 复活；恢复；复兴
+psyche          n. 灵魂；心智
+slaughter       n. （对动物的）屠宰；（对人的）屠杀；<非正式>彻底击败，一边倒的比赛    
+blessed         adj. 神圣的，尊敬的；受祝福的，受上帝保佑的；带来幸福的，带来好运的；（使人）愉快安宁的；有幸具有的；幸运的；（非正式）表示愠怒，该死的
+ponder          v. 仔细考虑，琢磨，沉思
+emperor         n. 皇帝；（北美的）丽蝶，皇蝶
+envision        vt. 想象；预想
+mighty          adj. 强大的，巨大的；（动作）用力的，需用力的
+labyrinth       n. 迷宫；[解剖] 迷路；难解的事物      
+intricate       adj. 错综复杂的；难理解的，难学会的
+havoc           n. 灾难，混乱 v. 严重破坏；<旧>严重破坏
+joyous          adj. 高兴的，令人愉快的
+pivot           n. 支点，枢轴；最重要的人（或事物），核心；转动，旋转；策应位置；<美>中锋
+affirm          v. 断言，证实； 宣称拥护，支持；认可（判决，协议），批准；不宣誓而提供正式证词；给予（某人）情感支持（或鼓励）
+dedicate        v. 致力于，献身于；把（书、戏剧、音乐作品等）献给；为（建筑物或教堂）举行奉献（或落成）典礼
+sprawl          v. 伸开四肢坐（或躺）；蔓延
+assert          vt. 维护，坚持；断言；主张；声称
 ```
 
 The Best of Israel 

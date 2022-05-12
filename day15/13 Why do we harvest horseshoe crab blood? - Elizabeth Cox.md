@@ -1,12 +1,12 @@
 https://www.youtube.com/watch?v=VgEbcQxFUu8&ab_channel=TED-Ed 
 
 ```  
-juvenile     adj. 青少年的，未成年的；少年犯的；幼稚的，孩子气的；（鸟或动物）幼年的
-contaminate   vt. 污染，弄脏
-invincible    adj. 无敌的；不能征服的    
-bait    
-stain        vt. 玷污；败坏；给…着色  
-synthetic    adj. 合成的，人造的；（感情，行动）不诚恳的，虚假的；（语言）综合型的；（命题）综合的
+juvenile        adj. 青少年的，未成年的；少年犯的；幼稚的，孩子气的；（鸟或动物）幼年的
+contaminate     vt. 污染，弄脏
+invincible      adj. 无敌的；不能征服的    
+bait            n. 用作诱饵的人（或物）；饵，诱饵
+stain           vt. 玷污；败坏；给…着色  
+synthetic       adj. 合成的，人造的；（感情，行动）不诚恳的，虚假的；（语言）综合型的；（命题）综合的
 ```
 
 Why do we harvest horseshoe crab blood? - Elizabeth Cox 

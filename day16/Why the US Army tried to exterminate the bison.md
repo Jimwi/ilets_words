@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=dHENnP11HC0&ab_channel=Vox
 
+8:14
+
 ```
 roam         vi. 漫游，漫步；流浪
 depict       v. 描述，描绘    
@@ -19,10 +21,11 @@ confiscate    vt. 没收；充公；查抄
 indigenous    adj. 本土的，固有的
 ```
 
-
 Why the US Army tried to `exterminate` the bison
 
-This photo represents a historic moment for wildlife protection in the US. Four US `cavalry` soldiers posing with eight `severed` bison heads. In Yellowstone National Park. It was taken in 1894, after the capture of a notorious `poacher` in the park, Ed Howell. Soldiers caught him in the act of skinning the animals to sell their hides, surrounded by the carcasses of bison he’d killed. Yellowstone had just been established around 20 years earlier, and was a refuge for the American bison, or buffalo. Whose population, numbering in the hundreds, was on the `brink` of extinction. Howell’s capture led directly to the first US federal law protecting wildlife. And the photo of the `confiscated` heads was meant to `depict` the soldiers as heroic defenders an endangered and `beloved` American icon. But it also shows what drove the bison to near-extinction in the first place: the US government itself. This was the bison’s approximate range before 1800, covering a significant amount of North America. By 1870, the population had been reduced to these two great herds. By 1889, American bison numbered in the hundreds, down from tens of millions at the beginning of the century. And the reason for their destruction becomes clear when you add this to the map: the tribal lands of the `Plains` Indians. DINA 
+This photo represents a historic moment for wildlife protection in the US. Four US `cavalry` soldiers posing with eight `severed` bison heads. In Yellowstone National Park. It was taken in 1894, after the capture of a notorious `poacher` in the park, Ed Howell. Soldiers caught him in the act of skinning the animals to sell their hides, surrounded by the carcasses of bison he’d killed. Yellowstone had just been established around 20 years earlier, and was a refuge for the American bison, or buffalo. Whose population, numbering in the hundreds, was on the `brink` of extinction. Howell’s capture led directly to the first US federal law protecting wildlife. And the photo of the `confiscated` heads was meant to `depict` the soldiers as heroic defenders an endangered and `beloved` American icon. But it also shows what drove the bison to near-extinction in the first place: the US government itself. 
+
+This was the bison’s approximate range before 1800, covering a significant amount of North America. By 1870, the population had been reduced to these two great herds. By 1889, American bison numbered in the hundreds, down from tens of millions at the beginning of the century. And the reason for their destruction becomes clear when you add this to the map: the tribal lands of the `Plains` Indians. DINA 
 
 GILIO-WHITAKER: You cannot overstate the importance of the buffalo to the people of the northern and southern plains. Dina Gilio-Whitaker is a lecturer on American Indian studies whose research focuses on issues of environmental justice throughout US history. 
 

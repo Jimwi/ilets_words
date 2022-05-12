@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=RCvLG2KqjoE&ab_channel=HarryRansomCenter 
 
+3:14
+
 ```
 spiritual    adj. 精神的，心灵的；宗教的；（人）高尚的，不为物欲所动的
 annotate     vi. 注释；给…作注释或评注    
@@ -13,7 +15,7 @@ Christine Ferguson: Fellowship Recipient
 
 WEBVTT Kind: captions Language: en 
 
-My name's Christine Ferguson, and I'm from the department of English Literature at the University of Glasgow. I'm looking at spiritualist literature produced in America, and Britain from about 1850 to 1930. So it's quite a broad historical sweep. Spiritualism is a `heterodox` religious movement that starts in America, typically associated with the States and then spreads around the world. Basically its only fundamental belief is that the dead survive and you can communicate with them through a variety of techniques such as `table rapping`, `manifestations`, any kind of transspeech and so forth. 
+My name's Christine Ferguson, and I'm from the department of English Literature at the University of Glasgow. I'm looking at spiritualist literature produced in America, and Britain from about 1850 to 1930. So it's quite a broad historical `sweep`. Spiritualism is a `heterodox` religious movement that starts in America, typically associated with the States and then spreads around the world. Basically its only fundamental belief is that the dead survive and you can communicate with them through a variety of techniques such as `table rapping`, `manifestations`, any kind of transspeech and so forth. 
 
 So the movement produces a big community, but also a massive literary movement as well. So lots of texts that record ways to kind of contact the other world and also lengthy descriptions of what this new afterlife looks like. Which is in some ways very different from the traditional Christian `afterlife`. So, I'm looking at those materials, particularly here at the Ransom Center. There's a terrific collection of books that were owned by Arthur Conan Doyle. Now everyone knows Doyle as the founder of Sherlock Holmes. He was also one of the most famous `spiritualists` in the world, for like the last 30 or 40 years of his life, and collected a massive volume of materials, many of them accounts of the afterlife, apparently channeled by people while under spirit control, and I'm looking at those. 
 

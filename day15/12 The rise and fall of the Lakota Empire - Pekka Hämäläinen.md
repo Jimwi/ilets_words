@@ -1,26 +1,28 @@
 https://www.youtube.com/watch?v=C-fQo8zmiPQ&ab_channel=TED-Ed 
 
+5:51
+
 ```
-spiritual    
-encroach        
-epidemic  
-appease     v. 使平息；使满足；使和缓；对……让步；安抚，安慰；绥靖；缓解（难受的感觉）；姑息
-dismantle  
-tribute     n. 礼物；[税收] 贡物；颂词；（尤指对死者的）致敬，悼念，吊唁礼物
-council     n. 委员会，理事会；政务委员会，地方议会；会议：；（教会的）集会；会议
-spectacle   n. 景象；场面；奇观；壮观；盛大的演出；（复）眼镜
-ravage      vt. 毁坏；破坏；掠夺
-expense  
-sacred    
-formidable   adj. 可怕的，令人敬畏的；（形状、数量）巨大的；难对付的  
-prospect     n. 前途；预期；景色  
-affirm  
-coordinate  
-expedition  
-massacre  
-lucrative  
-decisive  
-wagon  
+spiritual       adj. 精神的，心灵的；宗教的；（人）高尚的，不为物欲所动的
+encroach        v. 逐步侵占（侵犯），蚕食；侵占（土地）
+epidemic        n. 流行病，传染病；（迅速的）盛行，蔓延
+appease         v. 使平息；使满足；使和缓；对……让步；安抚，安慰；绥靖；缓解（难受的感觉）；姑息
+dismantle       v. 拆开，拆卸；废除，取消；去掉……的覆盖物
+tribute         n. 礼物；[税收] 贡物；颂词；（尤指对死者的）致敬，悼念，吊唁礼物
+council         n. 委员会，理事会；政务委员会，地方议会；会议：；（教会的）集会；会议
+spectacle       n. 景象；场面；奇观；壮观；盛大的演出；（复）眼镜
+ravage          vt. 毁坏；破坏；掠夺
+expense         n. 代价，费用；业务费用，报销（expenses）；需要花钱的东西，花销的东西
+sacred          adj. 神的，神圣的；宗教的，宗教性的；受尊重的，受崇敬的；不可侵犯的，不容干涉的
+formidable      adj. 可怕的，令人敬畏的；（形状、数量）巨大的；难对付的  
+prospect        n. 前途；预期；景色  
+affirm          v. 断言，证实； 宣称拥护，支持；认可（判决，协议），批准；不宣誓而提供正式证词；给予（某人）情感支持（或鼓励）
+coordinate      v. 协调，配合；使身体协调；（使颜色、款式、风格等）搭配，配套；给 （原子或分子）配位，与……形成共价键
+expedition      n. 远征，考察；探险队，考察队；动作敏捷，迅速
+massacre        n. 屠杀，残杀；<非正式>（运动或比赛中的）惨败
+lucrative       adj. 获利多的，赚大钱的
+decisive        adj. 果断的，决断的；决定性的，关键的；确定的，明确的
+wagon           n. （一般由马拉的）四轮运货车；<英>（无顶的）铁路货车车厢，车皮；旅行轿车（station wagon 的简称）；<美>（用作食品货摊的）手推车；儿童玩具小车；（吉卜赛人或马戏团用的）大篷车；<爱尔兰，非正式>令人不快的女人
 ```
 
 The rise and fall of the Lakota Empire - Pekka Hämäläinen 

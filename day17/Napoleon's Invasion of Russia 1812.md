@@ -1,4 +1,7 @@
 https://www.youtube.com/watch?v=f3zId15Q23M 
+
+20:02
+
 ```  
 spiritual   adj. 精神的，心灵的；宗教的；（人）高尚的，不为物欲所动的
 assure      vt. 保证；担保；使确信；弄清楚

@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=KiULW1pPNTo 
 
+2:26
+
 ```  
 introspection    n. 内省；反省
 confidential     adj. 机密的，保密的；（言谈举止）神秘的，隐秘的；受信任的，委以机密的

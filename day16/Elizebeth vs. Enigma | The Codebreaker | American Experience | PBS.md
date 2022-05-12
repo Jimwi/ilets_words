@@ -1,12 +1,14 @@
 https://www.youtube.com/watch?v=L9HOEG7heHU&ab_channel=AmericanExperience%7CPBS
 
+3:17
+
 ```
-bare     adj. 空的；赤裸的，无遮蔽的
-ominous   adj. 预兆的；不吉利的
-enigma    n. 谜，不可思议的东西
-chink      n. 裂缝；叮当声；裂口
-intercept    vt. 拦截；截断；窃听   
-intricate    adj. 错综复杂的；难理解的，难学会的
+bare        adj. 空的；赤裸的，无遮蔽的
+ominous     adj. 预兆的；不吉利的
+enigma      n. 谜，不可思议的东西
+chink       n. 裂缝；叮当声；裂口
+intercept   vt. 拦截；截断；窃听   
+intricate   adj. 错综复杂的；难理解的，难学会的
 ```
 
 Elizebeth vs. Enigma | The Codebreaker | American Experience | PBS
@@ -21,4 +23,6 @@ The unsolved messages piled up. Elizebeth suspected that the codes were being ge
 
 [Houghton:] The fear is that the Germans will start a front in South America. This could be a dramatic game-changer that could make it very difficult for us to fight the war overseas because we’d be worried about fighting the war at home. 
 
-[Narrator:] From her tiny office in Washington, Elizebeth shadowed Sargo’s every move. Any which way they turned, his spies were `outflanked`. [Houghton:] In the end Elizebeth is able to give information to the Allies which allows them to break up the spy ring and do it in such a way that the Germans have no idea that the spy ring was broken up because their codes had been broken. 
+[Narrator:] From her tiny office in Washington, Elizebeth shadowed Sargo’s every move. Any which way they turned, his spies were `outflanked`. 
+
+[Houghton:] In the end, Elizebeth is able to give information to the Allies which allows them to break up the spy ring and do it in such a way that the Germans have no idea that the spy ring was broken up because their codes had been broken. 

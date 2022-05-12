@@ -1,5 +1,6 @@
 https://www.youtube.com/watch?v=f0mW7JNtlhc
 
+
 ```
 emulate      v. 仿效，模仿；仿真；努力赶上
 vogue        n. 流行，时尚，时髦

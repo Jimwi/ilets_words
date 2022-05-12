@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=OwQcv7TyX04&ab_channel=DeepLook 
 
+3:37
+
 ```
 blend      v. （使）混合，调和；（使）协调，融合；调制，配制
 fabulous   adj. 极好的，绝妙的；非凡的，巨大的，惊人的；虚构的，传说的  

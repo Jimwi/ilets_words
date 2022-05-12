@@ -1,38 +1,40 @@
 https://www.youtube.com/watch?v=Kz8pmbytxoQ&ab_channel=ExtraCredits
 
+11:04
+
 ```
-bare  
-evacuate   v. （把人从危险的地方）疏散，撤离；（从危险的地方）搬出，撤空；（用泵等）抽出，抽空；排泄（粪便等）  
-stern  
-carnage    n. 大屠杀；残杀；大量绝灭
-calibre    n. [军] 口径；才干；水准
-malfunction  
-spray  
-defy       v. 违抗，不服从；挑战，激；无法，难以（描述或理解）；经受住，顶住
-optics     n. [光] 光学  
-strain     n. 张力；拉紧；负担；扭伤；血缘
-constrain   v. 限制，约束；强迫，迫使
-retreat     n. 撤退；休息寓所
-grim        adj. 严肃的；令人沮丧的；阴沉的；糟糕的
-colossal    adj. 巨大的；异常的，非常的
-armament    n. 武器；军备
-bow         n. 弓；蝴蝶结；鞠躬；琴弓；船头
-cruise      n. 巡游，乘船游览
-prime     
-bleak       adj. 阴冷的；荒凉的，无遮蔽的；黯淡的，无希望的；冷酷的；单调的
-intercept   vt. 拦截；截断；窃听
-maritime    adj. 海上的，海事的；近海的，沿海的；海生的，在海里发现的；海洋性气候的
-manoeuvre   n. 熟练（谨慎）的动作；军事演习；策略，花招；欺诈性操作
-stain       vt. 玷污；败坏；给…着色  
-disposal    n. 处理，清除；（土地、财产等的）变卖，转让；<文>安排，安置；<美>污物碾碎器
-consult  
-evade      v. 规避，逃避；难倒，使困惑；未能（被某人）获得；（尤指违法犯罪后）逃脱，躲开（追捕）
-mighty      
-intricate  
-naval  
-dawn  
-rage    
-pitch 
+bare            adj. 赤裸的；光秃秃的；无遮盖的，无装饰的；仅最基本的
+evacuate        v. （把人从危险的地方）疏散，撤离；（从危险的地方）搬出，撤空；（用泵等）抽出，抽空；排泄（粪便等）  
+stern           adj. （人或其态度）严厉的，认真的；（工作等）严峻的，棘手的；不屈从的，不动摇的 n. 船尾，艉部
+carnage         n. 大屠杀；残杀；大量绝灭
+calibre         n. [军] 口径；才干；水准
+malfunction     v. 出现故障，运转失灵
+spray           n. 喷雾液体，喷剂；喷雾器；喷，喷涂；喷雾状物；浪花，飞沫；（用作装饰的）小树枝，小花枝；（戴在身上的）一簇花，枝状饰物
+defy            v. 违抗，不服从；挑战，激；无法，难以（描述或理解）；经受住，顶住
+optics          n. [光] 光学  
+strain          n. 张力；拉紧；负担；扭伤；血缘
+constrain       v. 限制，约束；强迫，迫使
+retreat         n. 撤退；休息寓所
+grim            adj. 严肃的；令人沮丧的；阴沉的；糟糕的
+colossal        adj. 巨大的；异常的，非常的
+armament        n. 武器；军备
+bow             n. 弓；蝴蝶结；鞠躬；琴弓；船头
+cruise          n. 巡游，乘船游览
+prime           adj. 主要的，首要的；优质的，第一流的；最可能的，最适合的；最理想的，最典型的；最初的，原始的；素（或质）数的（如2，3，5，7，11）；互为素或质数的
+bleak           adj. 阴冷的；荒凉的，无遮蔽的；黯淡的，无希望的；冷酷的；单调的
+intercept       vt. 拦截；截断；窃听
+maritime        adj. 海上的，海事的；近海的，沿海的；海生的，在海里发现的；海洋性气候的
+manoeuvre       n. 熟练（谨慎）的动作；军事演习；策略，花招；欺诈性操作
+stain           vt. 玷污；败坏；给…着色  
+disposal        n. 处理，清除；（土地、财产等的）变卖，转让；<文>安排，安置；<美>污物碾碎器
+consult         v. 咨询，请教；商量，商讨；查询，查阅；当顾问
+evade           v. 规避，逃避；难倒，使困惑；未能（被某人）获得；（尤指违法犯罪后）逃脱，躲开（追捕）
+mighty          adj. 强大的，巨大的；（动作）用力的，需用力的
+intricate       adj. 错综复杂的；难理解的，难学会的
+naval           adj. 海军的，军舰的
+dawn            v. 变得明朗，开始清楚；破晓，开始
+rage            n. 盛怒，狂怒；粗暴的举动，愤怒的行为；（喻）（自然事物的）狂暴，凶猛；<非正式>风靡一时，非常流行；强烈的欲望，激情；<文>（尤指预示的、诗意的或武力的）狂热；<澳新，非正式> 欢乐聚会，热闹的活动
+pitch           
 ```
 
 Hunting the Bismarck - The Mighty HMS Hood - Extra History
