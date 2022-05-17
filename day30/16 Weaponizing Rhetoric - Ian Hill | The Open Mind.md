@@ -3,36 +3,36 @@ https://www.youtube.com/watch?v=4O4zfRI3G9M
 27:55
 
 ```
-moral 
-incongruous  adj. 不协调的；不一致的；不和谐的
-interplay    n. 相互影响，相互作用
-escalate     v. （使）变得严重，（使）升级；迅速增加，迅速增长；逐步增强，逐步升高
-humane       adj. 人道的，仁慈的；（学科分支）人文的，高尚的
-vigor        n. [生物]活力，精力
-stringent  adj. 严格的；严厉的；紧缩的；短缺的
-insidious  adj. 阴险的；隐伏的；暗中为害的；狡猾的
-hamper 
-discourse       
-far-reaching  adj. 深远的；广泛的；伸至远处的
-overt    adj. 公开的，不隐瞒的
-reiterate  vt. 重申；反复地做
-override  
-disparage  v. 贬低；抨击，诋毁 
-repel       v. 击退，驱逐；抵御，驱除；使厌恶，使反感；抵制，不愿接受；排斥，相斥
-manifest 
-ferocity  n. 凶猛；残忍；暴行  
-tranquil  adj. 平静的，宁静的，静谧的
-slaughter 
-align 
-autonomous 
-vehement  adj. 激烈的，猛烈的；热烈的
-reverse   
-constitute 
-proliferate  vi. 增殖；扩散；激增
-massacre  
-invoke 
-foregoing   adj. 前述的；前面的；在前的
-foregone   adj. 过去的；先前的；预知的；预先决定的
+moral           adj. 有关道德的；基于道德的，道义上的；品行端正的，有道德的；伦理的；能辨别是非的
+incongruous     adj. 不协调的；不一致的；不和谐的
+interplay       n. 相互影响，相互作用
+escalate        v. （使）变得严重，（使）升级；迅速增加，迅速增长；逐步增强，逐步升高
+humane          adj. 人道的，仁慈的；（学科分支）人文的，高尚的
+vigor           n. [生物]活力，精力
+stringent       adj. 严格的；严厉的；紧缩的；短缺的
+insidious       adj. 阴险的；隐伏的；暗中为害的；狡猾的
+hamper          v. 阻碍，妨碍
+discourse       n. 演讲，论述；谈话，交流；话语，语篇
+far-reaching    adj. 深远的；广泛的；伸至远处的
+overt           adj. 公开的，不隐瞒的
+reiterate       vt. 重申；反复地做
+override        v. （以权力）否决，推翻；凌驾于，比……更重要；对（自动机器）改用手控，超驰控制；
+disparage       v. 贬低；抨击，诋毁 
+repel           v. 击退，驱逐；抵御，驱除；使厌恶，使反感；抵制，不愿接受；排斥，相斥
+manifest        v. 显示，表明；（鬼魂或神灵）显灵，出现；（病症）显现；把……列入货单
+ferocity        n. 凶猛；残忍；暴行  
+tranquil        adj. 平静的，宁静的，静谧的
+slaughter       n. （对动物的）屠宰；（对人的）屠杀；<非正式>彻底击败，一边倒的比赛
+align           v. 公开支持，与……结盟；（使）排成一条直线，使平行；调整，使一致；（使）参加，加入
+autonomous      adj. 自治的，有自治权的；自主的，有自主权的；自动的
+vehement        adj. 激烈的，猛烈的；热烈的
+reverse         v. 逆转，彻底改变（决定、政策、趋势等）；撤销，推翻（法庭判决）；颠倒，反转；交换，互换（位置、功能）；<美>承认错误，放弃（立场）
+constitute      v. 组成，构成；是，被视为；成立，设立；任命
+proliferate     vi. 增殖；扩散；激增
+massacre        n. 屠杀，残杀；<非正式>（运动或比赛中的）惨败
+invoke          v. 行使，实施（法权）；援用，援引（法律）；提及，援引（某人、某理论、实例等作为支持）；提及（某著名人物）；唤起，引起（感情或想象）；（尤指向神灵）祈祷，祈求；用法术召唤（魔鬼）；（计算机）调用，激活
+foregoing       adj. 前述的；前面的；在前的
+foregone        adj. 过去的；先前的；预知的；预先决定的
 ```
 Weaponizing Rhetoric - Ian Hill | The Open Mind
 

@@ -1,27 +1,27 @@
 https://www.youtube.com/watch?v=hEhSCgDDLhY&ab_channel=AmericanEnterpriseInstitute
 
-Vladimir Kara-Murza: Leading the opposition in Putin's Russia – Full interview | VIEWPOINT 
+46:29
 
 ```
-moral  
-assassin    
-grip  
-bogus      adj. 假的；伪造的
-scorch  
-encapsulate  
-relentless    adj. 坚韧的，不屈不挠的；残酷无情的，不留情面的；不停的，不间断的
-discern       vt. 觉察出；识别；了解；隐约看见    
-implicit      adj. 含蓄的，未言明的；内含的，固有的；无疑问的，无保留的；（函数）隐式的，隐的
-imperial      adj. 帝国的，皇帝的；宏伟的，华丽的；专横的，飞扬跋扈的；（度量衡）英制的；<史>（纸张尺寸）（英国）762×559毫米的
-cliche        n. 陈词滥调；使用陈词滥调；平庸之人；平庸之物；[印刷] <主英>铅版，铅版印刷；电版，电版印刷物
-compatriot    n. 同胞；同国人  
-prominent     adj. 重要的，著名的；显眼的，突出的；突起的，高耸的
-diverge       vi. 分歧；偏离；分叉；离题
-oppress  
-prime          
+moral           adj. 有关道德的；基于道德的，道义上的；品行端正的，有道德的；伦理的；能辨别是非的
+assassin        n. 暗杀者，刺客
+grip            n. 紧握；掌握，控制；理解；不打滑，走得稳；手柄；紧握（或抓牢）的方式；（拍摄电影时）摄影机和照明设备管理人员；<英>发夹；旅行袋
+bogus           adj. 假的；伪造的
+scorch          vt. 烧焦；使枯萎；挖苦
+encapsulate     vt. 简要描述，概括；用胶囊（或囊状物）装，封装；封装（信息，信号）；为（软件，硬件）提供接口（或界面）
+relentless      adj. 坚韧的，不屈不挠的；残酷无情的，不留情面的；不停的，不间断的
+discern         vt. 觉察出；识别；了解；隐约看见    
+implicit        adj. 含蓄的，未言明的；内含的，固有的；无疑问的，无保留的；（函数）隐式的，隐的
+imperial        adj. 帝国的，皇帝的；宏伟的，华丽的；专横的，飞扬跋扈的；（度量衡）英制的；<史>（纸张尺寸）（英国）762×559毫米的
+cliche          n. 陈词滥调；使用陈词滥调；平庸之人；平庸之物；[印刷] <主英>铅版，铅版印刷；电版，电版印刷物
+compatriot      n. 同胞；同国人  
+prominent       adj. 重要的，著名的；显眼的，突出的；突起的，高耸的
+diverge         vi. 分歧；偏离；分叉；离题
+oppress         v. 压迫，欺压；使压抑，使烦恼；（纹章）使（图记）部分模糊
+prime           adj. 主要的，首要的；优质的，第一流的；最可能的，最适合的；最理想的，最典型的；最初的，原始的；素（或质）数的（如2，3，5，7，11）；互为素或质数的
 unaccountable   adj. 无责任的；莫名其妙的；不可理解的  
 accuse          v. 控告，指责        
-sanction  
+sanction        n. 制裁；处罚，惩罚；（正式）许可，批准；<史>（尤指基督教会的）法令，法律；（伦理学）约束力；支持，鼓励
 council         n. 委员会，理事会；政务委员会，地方议会；会议：；（教会的）集会；会议  
 genuine         adj. 真正的，非伪造的；真诚的，真心的
 hostile         adj. 敌对的，怀敌意的；强烈反对的；敌人的，敌方的；艰苦的，不利的；不受（被购公司）欢迎的
@@ -33,29 +33,31 @@ outright        adj. 完全的，彻底的；直率的；全部的  adv. 全部�
 plunder         v. 掠夺，抢劫；侵吞，剽窃；将……滥用殆尽
 municipal       adj. 城市的，市政的；自治城市的，地方自治的；内政的
 consensus       n. 一致看法，共识
-impoverish  
+impoverish      v. 使贫困，使赤贫；使（力量、活力或肥力）枯竭
 trample         vt. 践踏；蔑视，伤害  
 turmoil         n. 混乱，骚动
 repression      n. 镇压，压制； 抑制，压抑
 incite          vt. 煽动；激励；刺激
 passive         adj. 消极的，被动的；被动语态的；（抵抗）非暴力的；（电路，装置）无源的；（金属）经表面钝化处理的，钝化的
 prevail         vi. 盛行，流行；战胜，获胜
-regime  
+regime          n. （尤指独裁的）政府，政权；（机构、公司、经济等的）管理制度，组织方法；饮食起居制度，养生法
 nasty           adj. 恶毒的，凶相的；令人不快的，令人厌恶的；（伤口、疾病等）严重的，恶性的；污秽的，下流的；（外表）丑陋的，（气味等）难闻的；造成很大伤害的；令人担忧的，难对付的；有威胁性的，吓人的  
-striking  
+striking        adj. 惊人的，异常的；妩媚动人的，标致的；罢工的；打击的
 cognition       n. 认识，认知；认识（或认知）的结果
 formidable      adj. 可怕的，令人敬畏的；（形状、数量）巨大的；难对付的    
-naval  
-dawn  
+naval           adj. 海军的，军舰的
+dawn            v. 变得明朗，开始清楚；破晓，开始
 coordinate      v. 协调，配合；使身体协调；（使颜色、款式、风格等）搭配，配套；给 （原子或分子）配位，与……形成共价键
 constitute      v. 组成，构成；是，被视为；成立，设立；任命
-consequent    
+consequent      adj. 随之发生的，由此引起的；（河流，山谷）顺向的
 cynical         adj. 愤世嫉俗的；冷嘲的
 barrel          n. 桶； 一桶（的量）；枪管，炮管；（马等四足动物的）躯干    
 accommodate     vt. 容纳；使适应；供应；调解
-pitch  
-opponent  
+pitch           n. <英>体育场地，球场；（感情或活动的）激烈，强烈；（音符的）高低度，音高；推销用语；（棒球中的）投，掷；沥青，柏油；<英>摊位，（街头艺人的）表演场所；（船或飞机的）颠簸；（尤指屋顶的）倾斜度；（登山）（尤指很陡的）坡段；（鹰扑向猎物前向上攀飞的）高度；（高尔夫）下旋高球（pitch shot）；（板球）弹跳点（pitch of the ball）；<英>露营地；（技）螺距，节距；印刷密度，打印密度
+opponent        n. 对手，竞争者；反对者，阻止者
 ```
+
+Vladimir Kara-Murza: Leading the opposition in Putin's Russia – Full interview | VIEWPOINT 
 
 WEBVTT Kind: captions Language: en 
 

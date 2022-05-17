@@ -2,16 +2,16 @@ https://www.youtube.com/watch?v=jiDQDLnEXdA
 
 10:31
 ```
-sojourn   n. 逗留；旅居
-propel  
-odds      
-adversity  n. 逆境，厄运
-revoke     vt. 撤回，取消；废除
-contend    v. 声称，主张；竞争，争夺；处理，对付      
-desirable      
-distress        
-league     
-urge  
+sojourn         n. 逗留；旅居
+propel          v. 推进，驱动；推搡（某人走向特定方向）； 驱使，促使
+odds            n. （事物发生的）可能性，机会；困难，不利条件；投注赔率；（力量、权力或资源上的）优势
+adversity       n. 逆境，厄运
+revoke          vt. 撤回，取消；废除
+contend         v. 声称，主张；竞争，争夺；处理，对付      
+desirable       adj. 令人向往的，值得拥有的；可取的；性感的 n. 称心合意的人（或物），好的品质
+distress        n. 忧虑，悲伤；贫困；危难，险情；（肉体的）剧痛  
+league          n. 联盟，同盟；（体育项目）联合会，社团；联赛；级别，水平；里格（旧时长度单位，约等于5公里）
+urge            v. 敦促，催促，力劝；竭力主张，强烈要求；驱赶，鞭策；鼓励，激励（~ sb. on）
 ```
 
 Why the best hire might not have the perfect resume | Regina Hartley 

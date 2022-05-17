@@ -1,5 +1,6 @@
 https://www.youtube.com/watch?v=sw0tHfghf7g
 
+10:07
 ```
 commonplace     adj. 平凡的，不足为奇的；平庸的，陈腐的
 candid          adj. 公正的；率直的；坦白的；偷拍的
@@ -8,20 +9,18 @@ negate          v. 否认，否定；使无效，取消；使（单词或短语�
 inalienable     adj. 不可分割的；不可剥夺的；不能让与的
 upbringing      n. 教养；养育；抚育
 alien           adj. 陌生的；外国的，异域的；与外星人有关的，与地球外有关的；（植物或动物种类）外来的；不相容的，格格不入的 （alien to）
-nurture    v. 培养，促进；养育，培育；抱有，怀有；扶持，帮助；滋养，滋生
-endow      v. 向（人，机构）捐赠，资助；赋予
-invariable   adj. 不变的；常数的
-tacit       adj. 缄默的；不言而喻的；心照不宣的；默许的
-warrant     n. （法院授予警方采取行动的）令状，授权令；（思考、决定或做某事的）正当理由，依据；（接受款项、服务等的）凭单，许可证；（财政）认股权证；准尉委任书
-innate      adj. 先天的；固有的；与生俱来的    
-constitute  vt. 组成，构成；任命；建立
-consent     n. 许可，允许；同意，赞同；正式批准文件，批文
-assert      n. 许可，允许；同意，赞同
+nurture         v. 培养，促进；养育，培育；抱有，怀有；扶持，帮助；滋养，滋生
+endow           v. 向（人，机构）捐赠，资助；赋予
+invariable      adj. 不变的；常数的
+tacit           adj. 缄默的；不言而喻的；心照不宣的；默许的
+warrant         n. （法院授予警方采取行动的）令状，授权令；（思考、决定或做某事的）正当理由，依据；（接受款项、服务等的）凭单，许可证；（财政）认股权证；准尉委任书
+innate          adj. 先天的；固有的；与生俱来的    
+constitute      vt. 组成，构成；任命；建立
+consent         n. 许可，允许；同意，赞同；正式批准文件，批文
+assert          n. 许可，允许；同意，赞同
 ```
 
 America's First Principles: The Declaration of Independence & Governing a Free Society [No. 86]
-
-America's First Principles: The Declaration of Independence & Governing a Free Society [No. 86] 
 
 When in the Course of human events it becomes necessary for one people to `dissolve` the political bands which have connected them with another. . . 
 
@@ -35,7 +34,9 @@ Jefferson got the language he used from Virginia's Declaration of Rights, from a
 
 They didn't make their appeal on the basis of a nationality, ethnicity, race, sex, gender, you name it. They decided to make their appeal a rational appeal, an appeal to reason. They said, "Let facts be submitted to a candid world." 
 
-The Declaration, of course, goes through a long list of things that the King of England had done to lead the colonists to break away. He is the `culprit`. There is no mention of Parliament, which is interesting, in the Declaration even though Parliament was the author of the Stamp Act, the Coercive Acts, all of the legislation that the colonists objected to. By 1776, we Americans had concluded that we were tied to the Empire only to the King through the Crown. And so that's the only break we had to make. No one in the English Parliament directly represents the American colonists, but nonetheless, the Parliament claims that it virtually represents the American colonists just like it virtually represents various other `constituencies` in England itself. When they said there should be no `taxation` without representation, they were citing a fundamental principle of the Enlightenment. That one had fundamental rights. That inhere in the individual, rights to one's property, one's liberty and one's life, which cannot be `infringed` upon unless one has a say in how these rights are going to be limited. But when a long train of abuses and `usurpations`, pursuing invariably the same Object `evinces` a design to reduce them under absolute `Despotism`, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security. 
+The Declaration, of course, goes through a long list of things that the King of England had done to lead the colonists to break away. He is the `culprit`. There is no mention of Parliament, which is interesting, in the Declaration even though Parliament was the author of the Stamp Act, the Coercive Acts, all of the legislation that the colonists objected to. 
+
+By 1776, we Americans had concluded that we were tied to the Empire only to the King through the Crown. And so that's the only break we had to make. No one in the English Parliament directly represents the American colonists, but nonetheless, the Parliament claims that it virtually represents the American colonists just like it virtually represents various other `constituencies` in England itself. When they said there should be no `taxation` without representation, they were citing a fundamental principle of the Enlightenment. That one had fundamental rights. That inhere in the individual, rights to one's property, one's liberty and one's life, which cannot be `infringed` upon unless one has a say in how these rights are going to be limited. But when a long train of abuses and `usurpations`, pursuing invariably the same Object `evinces` a design to reduce them under absolute `Despotism`, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security. 
 
 The Declaration was the legal case that the colonists made on their own behalf as to why they were not actually `traitors` to the Crown. They were making out their legal case for why they were justified in separating themselves from the English government, and resuming a state of nature between themselves and the English government. 
 
@@ -47,9 +48,13 @@ But, what do you lack? The protection, the security of those rights. You have th
 
 To secure these rights, governments are instituted among men `deriving` their just powers from the consent of the government. Not any power at all that a majority might seek to have, but only their just powers. 
 
-Nor have We been wanting in attentions to our British `brethren`. We have warned them from time to time of attempts by their legislature to extend an unwarrantable jurisdiction over us. It was using Locke that the founders believed that America was not granted its natural rights, was not granted its legitimate political rights under the British crown. Therefore they use very Lockean arguments, almost Lockean language, within the Declaration. An unalienable right is a right you can always get back when you decide you want to reassert the exercise of that right for yourself. It was necessary that they be inalienable to negate the British argument that they'd already been tacitly surrendered up to the British government. 
+Nor have We been wanting in attentions to our British `brethren`. We have warned them from time to time of attempts by their legislature to extend an `unwarrantable` jurisdiction over us. 
 
-But many of them were also arguing that they needed to protect their rights as Englishmen. The Founders believed that they were being more true to the British constitution than the Brits themselves. That they were trying to restore to reestablish the rights in the British constitution. And this was according to the Whig theory of English history. Now the real Whigs, as they were called, are those who believed that the British constitution in its `pristine` state was one that favored government only by the people and government that protected these individual rights. The notion of rights is very much a part of English culture. It's part of the Common Law. And when they're debating the English authorities in the Imperial crisis, they kept referring to their rights, but these are English rights. At one point, in the Continental Congress, in 1774-75, they begin to realize that if they keep appealing to English rights, that it's a little awkward if they're going to move towards independence. So they just simply `rhetorically` change the English rights to natural rights. 
+It was using Locke that the founders believed that America was not granted its natural rights, was not granted its legitimate political rights under the British crown. Therefore they use very Lockean arguments, almost Lockean language, within the Declaration. 
+
+An unalienable right is a right you can always get back when you decide you want to reassert the exercise of that right for yourself. It was necessary that they be inalienable to negate the British argument that they'd already been `tacitly` surrendered up to the British government. 
+
+But many of them were also arguing that they needed to protect their rights as Englishmen. The Founders believed that they were being more true to the British constitution than the Brits themselves. That they were trying to restore to reestablish the rights in the British constitution. And this was according to the Whig theory of English history. Now the real `Whigs`, as they were called, are those who believed that the British constitution in its `pristine` state was one that favored government only by the people and government that protected these individual rights. The notion of rights is very much a part of English culture. It's part of the Common Law. And when they're debating the English authorities in the Imperial crisis, they kept referring to their rights, but these are English rights. At one point, in the Continental Congress, in 1774-75, they begin to realize that if they keep appealing to English rights, that it's a little awkward if they're going to move towards independence. So they just simply `rhetorically` change the English rights to natural rights. 
 
 The Declaration of Independence is hugely important because it memorializes the idea that the government rests on the consent of the governed. Once Americans no longer felt they could consent to British government, they had a right to form new forms of government for themselves. 
 

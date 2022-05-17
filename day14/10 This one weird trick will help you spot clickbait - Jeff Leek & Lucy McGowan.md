@@ -1,13 +1,13 @@
 https://www.youtube.com/watch?v=8IzfzoZsa-Q
 
 ```  
-odds        n. （事物发生的）可能性，机会；困难，不利条件；投注赔率；（力量、权力或资源上的）优势
+odds            n. （事物发生的）可能性，机会；困难，不利条件；投注赔率；（力量、权力或资源上的）优势
 counterpart  
-abstain     v. （投票时）弃权，放弃；避免，回避；自制，戒除
-elevate    
-bait      
-prolong  
-pancreatic   adj. 胰的；胰腺的
+abstain         v. （投票时）弃权，放弃；避免，回避；自制，戒除
+elevate         
+bait            
+prolong         
+pancreatic      adj. 胰的；胰腺的
 ```
 
 This one weird trick will help you spot clickbait - Jeff Leek & Lucy McGowan
