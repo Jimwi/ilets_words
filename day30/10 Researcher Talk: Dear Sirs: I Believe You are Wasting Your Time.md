@@ -3,69 +3,70 @@ https://www.youtube.com/watch?v=FDQSuhmMGL0
 55:31
 
 ```
-moral 
-depict   vt. 描画；描述
-assure   vt. 保证；担保；使确信；弄清楚
-precede 
-rehearse   v. 排练，排演；监督（表演者或团体）排演；默诵，默默地练习；<正式>详述，重复
-facilitate  v. 使更容易，使便利；促进，推动
-foe 
-myriad n. 无数，极大数量 adj. 无数的；种种的
-genre 
-ubiquitous   adj. 普遍存在的；无所不在的
-ardent       adj. 热情的；热心的；激烈的；燃烧般的 
-devour       v. 吞食；毁灭
-retort       v. 反驳，回嘴；蒸馏；在曲颈瓶里加热；（对侮辱或伤害）进行报复 
-indulge      v. 沉湎，沉溺；纵容，迁就；满足（情感、兴趣、欲望等）；参加，参与（尤指违法活动）
-delinquent   adj. 有过失的；怠忽的；拖欠债务的 
-attorney     n. 律师；代理人；检察官
-forensic     adj. 法医的；法院的；辩论的；适于法庭的 
-inexplicable adj. 费解的；无法说明的；不能解释的 
-perverse     adj. 倔强的，不通情理的，一意孤行的；有悖常理的，违反常情的，不合人意的；（裁决）不合法的，不正当的
-juvenile     adj. 青少年的，未成年的；少年犯的；幼稚的，孩子气的；（鸟或动物）幼年的
-epidemic     n. 传染病；流行病；风尚等的流行
-tenable      adj. （主张等）站得住脚的；可维持的
-fascinate    v. 深深吸引，迷住；深深吸引，迷住；<旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹
-blossom      n. （树木的）花，花簇；开花，花期
-prime 
-noted 
-alien 
-detriment    n. 损害，伤害；造成损害（或损伤）的事物 
-spur 
-norm 
-insatiable   adj. 贪得无厌的；不知足的
-bureau       n. 局，处，科；办事处，办公室；五斗橱，衣柜；书桌
-upright      adj. 正直的，诚实的；垂直的，直立的；笔直的；合乎正道的
-fabricate    v. 制造，生产；捏造，编造；组装，装配
-superficial  adj. 表面的；肤浅的 ；表面文章的；外表的；（人）浅薄的
-psychiatric  adj. 精神病学的，精神病治疗的；精神疾病的
-seduce       v. 诱奸，勾引；引诱，吸引
-exert        v. 运用，施加（影响）；努力，尽力（exert oneself）
-confine 
-distress 
-competent    adj. 能干的，能胜任的；合格的，过得去的；精神正常的，智力无缺陷的；有决定权的；有法定资格的；活性的，（处于）感受态的
-incompetent  adj. 无能力的，不胜任的；不合适的；不适当的；无力的
-probation    n. 试用；缓刑；查验
-enfranchise  vt. 给予选举权；给予自治权；解放，释放
-herald       v. 预示……的来临；宣布，宣传；热烈欢迎；公开称赞  n. 预兆；使者，先驱；棘翅夜蛾；<古>掌礼官，（负责比武大会的）纹章官；（英国）宗谱纹章院或苏格兰纹章院官员（位低于纹章官助理）
-conceive 
-audacious    adj. 无畏的；鲁莽的
-quaint       adj. 古雅的；奇怪的；离奇有趣的；做得很精巧的
-intervene    v. 干预，干涉；插话，打岔；干扰，阻挠；发生于其间，介于中间；调停，斡旋
-consult      v. 咨询，请教；商量，商讨；查询，查阅；当顾问
-morale 
-bulletin     n. （广播或电视中的）新闻简报；公告，布告；（机构或社团的）通讯，刊物
-lengthy 
-prevail      vi. 盛行，流行；战胜，获胜
-preference   n. 偏爱，偏好；更喜欢的人（或物）；优待，优先（权）；<法律>（尤指债务偿付）优先偿还权
-authentic    adj. 真正的，真实的；可信的
-aberrant     adj. 异常的；畸变的；脱离常轨的；迷乱的 
-beloved  
-lust 
-counsel 
-flippancy    n. 轻率；无礼；言语尖刻
-footnote 
-assert 
+moral           adj. 有关道德的；基于道德的，道义上的；品行端正的，有道德的；伦理的；能辨别是非的
+depict          vt. 描画；描述
+assure          vt. 保证；担保；使确信；弄清楚
+precede         v. 处在……之前，先于；在……之前做（或说）；比……更重要，比……（级别）更高
+rehearse        v. 排练，排演；监督（表演者或团体）排演；默诵，默默地练习；<正式>详述，重复
+facilitate      v. 使更容易，使便利；促进，推动
+foe             n. 敌人，对头
+myriad          n. 无数，极大数量 adj. 无数的；种种的
+genre           n. 体裁，类型；风俗画
+ubiquitous      adj. 普遍存在的；无所不在的
+ardent          adj. 热情的；热心的；激烈的；燃烧般的 
+devour          v. 吞食；毁灭
+retort          v. 反驳，回嘴；蒸馏；在曲颈瓶里加热；（对侮辱或伤害）进行报复 
+indulge         v. 沉湎，沉溺；纵容，迁就；满足（情感、兴趣、欲望等）；参加，参与（尤指违法活动）
+delinquent      adj. 有过失的；怠忽的；拖欠债务的 
+attorney        n. 律师；代理人；检察官
+forensic        adj. 法医的；法院的；辩论的；适于法庭的 
+inexplicable    adj. 费解的；无法说明的；不能解释的 
+perverse        adj. 倔强的，不通情理的，一意孤行的；有悖常理的，违反常情的，不合人意的；（裁决）不合法的，不正当的
+juvenile        adj. 青少年的，未成年的；少年犯的；幼稚的，孩子气的；（鸟或动物）幼年的
+epidemic        n. 传染病；流行病；风尚等的流行
+tenable         adj. （主张等）站得住脚的；可维持的
+fascinate       v. 深深吸引，迷住；深深吸引，迷住；<旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹
+blossom         n. （树木的）花，花簇；开花，花期
+prime           adj. 主要的，首要的；优质的，第一流的；最可能的，最适合的；最理想的，最典型的；最初的，原始的；素（或质）数的（如2，3，5，7，11）；互为素或质数的
+noted           adj. 著名的，有名的
+alien           adj. 陌生的；外国的，异域的；与外星人有关的，与地球外有关的；（植物或动物种类）外来的；不相容的，格格不入的 （alien to）
+detriment       n. 损害，伤害；造成损害（或损伤）的事物 
+spur            n. 一时冲动之下，心血来潮；刺激，激励；山嘴，尖坡；（公路或铁路的）支线，岔线；马刺，靴刺
+v. 激励，鼓励；促进，加速，刺激（某事发生）；用马刺策（马）前进；紧贴主干剪短（副梢）
+norm            n. 社会准则，行为规范；标准，平均水平；常态，平常事物；模方；<澳，非正式>诺姆（指整日呆在家中看电视的懒人，尤指看体育节目）
+insatiable      adj. 贪得无厌的；不知足的
+bureau          n. 局，处，科；办事处，办公室；五斗橱，衣柜；书桌
+upright         adj. 正直的，诚实的；垂直的，直立的；笔直的；合乎正道的
+fabricate       v. 制造，生产；捏造，编造；组装，装配
+superficial     adj. 表面的；肤浅的 ；表面文章的；外表的；（人）浅薄的
+psychiatric     adj. 精神病学的，精神病治疗的；精神疾病的
+seduce          v. 诱奸，勾引；引诱，吸引
+exert           v. 运用，施加（影响）；努力，尽力（exert oneself）
+confine         v. 限制，局限；防止……扩散；关押，监禁；使离不开（或受困于床、轮椅等）
+distress        n. 忧虑，悲伤；贫困；危难，险情；（肉体的）剧痛
+competent       adj. 能干的，能胜任的；合格的，过得去的；精神正常的，智力无缺陷的；有决定权的；有法定资格的；活性的，（处于）感受态的
+incompetent     adj. 无能力的，不胜任的；不合适的；不适当的；无力的
+probation       n. 试用；缓刑；查验
+enfranchise     vt. 给予选举权；给予自治权；解放，释放
+herald          v. 预示……的来临；宣布，宣传；热烈欢迎；公开称赞  n. 预兆；使者，先驱；棘翅夜蛾；<古>掌礼官，（负责比武大会的）纹章官；（英国）宗谱纹章院或苏格兰纹章院官员（位低于纹章官助理）
+conceive        v. 构思，设想；使受孕，怀孕
+audacious       adj. 无畏的；鲁莽的
+quaint          adj. 古雅的；奇怪的；离奇有趣的；做得很精巧的
+intervene       v. 干预，干涉；插话，打岔；干扰，阻挠；发生于其间，介于中间；调停，斡旋
+consult         v. 咨询，请教；商量，商讨；查询，查阅；当顾问
+morale          n. 士气，精神面貌
+bulletin        n. （广播或电视中的）新闻简报；公告，布告；（机构或社团的）通讯，刊物
+lengthy         adj. 漫长的，长时间的；（讲话、文章等）冗长的，过于详尽的
+prevail         vi. 盛行，流行；战胜，获胜
+preference      n. 偏爱，偏好；更喜欢的人（或物）；优待，优先（权）；<法律>（尤指债务偿付）优先偿还权
+authentic       adj. 真正的，真实的；可信的
+aberrant        adj. 异常的；畸变的；脱离常轨的；迷乱的 
+beloved         adj. 钟爱的，深受爱戴的
+lust            n. 性欲；强烈欲望；（神学，被看作是罪过的）感官欲望
+counsel         n. 忠告，建议；辩护律师；<古>咨询，磋商
+flippancy       n. 轻率；无礼；言语尖刻
+footnote        n. 脚注；补充说明
+assert          v. 坚称，断言；维护，坚持（权利或权威）；坚持自己的主张，表现坚定；生效，起作用
 ```
 
 Researcher Talk: Dear Sirs: I Believe You are Wasting Your Time
@@ -74,7 +75,7 @@ WEBVTT Kind: captions Language: en
 
 Welcome to the National Archives and today's researcher talk, I'm Richard Hunt Director for the Center for Legislative Archives the host for the researcher talk series. The program itself is the brainchild of doctor Richard McCulley the Center's first historian and one of our honored guest today. Welcome Richard. I want to remind you that our next talk will be on December 1 the two historians from the State Department William McAllister and Joshua Botts will talk about the Extraordinarily Valuable Foreign Relations of United States series. Which presents the official documentary history of US foreign policy `from 1861 up through the Reagan administration.` And working on George H. W. Bush now. Today we have the good fortune to be joined by Carol Tilly associate professor of School of information Sciences at the University of Illinois Urbana-Champaign. Her talk has the beautifully `dismissive` title Dear Sirs: I believe you're wasting your time. How quaint in today's political `lexicon`. I can assure you that you're not wasting your time today. Prof. Tilly will discuss her research in the records of the Senate `Judiciary` committee special subcommittee on `juvenile delinquency`. The research supports her book project Children, Comics and Print Culture the Cultural History of Comics Reading in the mid-20th century. Doctor Tilly was be for part of the hour and leave time for part of your questions. Please be in mind that this is being recorded for the YouTube channel to serve that audience and we ask that you wait for the microphone questions at the end. Prof. Tilly? 
 
-Dr. Tilley: From May through October 1954 the lettecrs arrived at a steady pace. Some came on colorful stationary, sometimes that stationary seemed more `befitting` of a `mash` note than a protest letter. Some letters bore multiple signatures. Others were signed anonymously like this one from a comics fan. Some came on pre-posted cards. Others ran for pages. Some writers used business stationery and formal letter writing conventions seemingly in an attempt to disguise their ages. Other writers ages ages told their ages out right although often their handwriting and spelling would've betrayed them anyway in total nearly 500 letters reached the offices of the Senate Judiciary subcommittee on juvenile delinquency during the six-month period the lions share of them were written by young people the ages of ten and 20 almost all of them comics readers on almost all of them protesting the subcommittee's investigation of a `purported` link between comics reading and juvenile delinquency. 
+Dr. Tilley: From May through October 1954 the lettecrs arrived at a steady pace. Some came on colorful stationary, sometimes that stationary seemed more `befitting` of a `mash` note than a protest letter. Some letters bore multiple signatures. Others were signed anonymously like this one from a comics fan. Some came on pre-posted cards. Others ran for pages. Some writers used business stationery and formal letter writing conventions seemingly in an attempt to disguise their ages. Other writers ages ages told their ages out right although often their handwriting and spelling would've betrayed them anyway in total nearly 500 letters reached the offices of the Senate Judiciary subcommittee on juvenile delinquency during the six-month period the lions share of them were written by young people the ages of ten and 20 almost all of them comics readers on almost all of them protesting the subcommittee's investigation of a `purported` link between comics reading and juvenile delinquency.
 
 The writers feared that the government would take away their beloved comics. On my talk today we'll take a closer look at these letters and the writers not so much for the purposes of a deep analysis but to help you understand something about the scope of their content and the role they play in helping us understand mid-century US social and cultural history. 
 
@@ -90,7 +91,7 @@ The `apex` came in the spring of 1954. First with the publication of psychiatris
 
 First I want to mention a little bit about Wertham. Frederick Wertham was a German born US `psychiatrist` who studied under Adolf Meyer at Johns Hopkins 1920s. He followed that with work at Bellevue, Queens General Hospital and in private practice. He frequently consulted for New York courts. He had enjoyed popular success as the author of the forensic study Dark Legend a study in murder. And again for A Show of Violence in the 1940s. Beginning in 1946, he had also received favorable attention in the national press for helping found and operate the Lafarge clinic, Harlem's first social welfare and psychiatric clinic. Yet in late 1947, when he testified for the defense in a hearing by the US Post Office about whether the `nudist` Magazine Natural Herald was `obscene`, Wertham's attention shifted somewhat `inexplicably` from issues such as forensics, psychoses and racial prejudice to comics. While Wertham had no problem with `nudist` magazines those were relatively healthy he felt, he believed comics were violent sadistic and dangerous to the welfare of young readers. Wertham wrote and spoke about comics recently in both popular and scholarly settings. His ideas about the medium are `neatly` synthesized in his 1954 book seduction of the innocent, where he proposed that comic books are products of the `deceitful` industry luring young readers with colorful pages, ubiquitous placement and inexpensive cover prices. Crime comics in particular impaired young readers moral emotional and social development. In Wertham's mind, the industry and its supporters he would characterize them perhaps the `sycophants` were `duplicitous`. They claimed the comics had educational value or promoted harmless fantasies while those same comics `pedaled` lurid and sadistic stories which primed readers for lives of crime illiteracy, `neuroses` and more. 
 
-The book contains numerous examples of mischief and depravity of various young people he and his colleagues examined in psychiatric practice. or read about in news reports, some, but not all of them read comics. Wertham proposed restricting the sales of comic books, especially crime comic books to readers age 15 and over now that sounds, superficially, not so bad but Wertham cast his net widely. 
+The book contains numerous examples of mischief and depravity of various young people he and his colleagues examined in `psychiatric` practice. or read about in news reports, some, but not all of them read comics. Wertham proposed restricting the sales of comic books, especially crime comic books to readers age 15 and over now that sounds, superficially, not so bad but Wertham cast his net widely. 
 
 A Superhero fighting a villain, a cartoon-ish `anthropomorphized` animal `smacking` it's pal and visual depictions of true crime were for Wertham all crime comics. In his estimation 85 to 90 percent of comics that were published were crime comics. Now the month following seductions release, Senators Robert Hendrickson, Estes Kevauver and Thomas Hennings `presided` over `televised` comic book hearings that featured testimony for more than a dozen people including Helen Meyer who was vice president of Dell comics, Walt Kelly the creator of Pogo comics tricks and then president of the national cartoonist Society, and Bill Gaines, publisher of entertaining comics group or EC. 
 
@@ -110,11 +111,13 @@ A sense of humor and playfulness `abounds` in the letters. Peggy Elder from Cali
 
 Funny comic books are just moneymakers for big Hollywood type artists. And one of my favorite lines came from a letter written by Dick Killen who I'm happy to say is here in the audience today. He says, I've read certain bestsellers which contained so much dirt that you could grow an Oaktree between the pages. So thank you Dick for that line. 
 
-Of course, there is plenty of sincerity in these letters too. Often reflecting in awareness of greater realities. For instance, Leslie Hardy Junior wrote the world is bad enough with H-bomb's and McCarthy hearings that such `bunk` on comics books is crazy. I ought to be able to tell good from bad even if I am only 14. An anonymous writer acknowledged the `specter` of war more directly. Writing "in the near future most of us shall be in the armed services, some will be killed, maybe even me. But don't take away our fun and the freedom of the press just because you have no sense of humor doesn't mean nobody else has". And one of the adult writers and there were some, this one was a young African-American man in his 20s demonstrated the value of comics during his time in the service. He wrote, "I served three years in the Air Force two of them in Alaska. While overseas these books seemed food medicine morale builders to those at barren places. " In some ways though sincerity wasn't enough. In late 1954, Time magazine carried a brief article highlighting psychoanalyst Robert Lindner's theories on teenagers. Now Lindner is more popularly known as the author of Rebel Without a Cause the `hypnoanalysis` of a criminal `psychopath` and the same book on which the 1955 film starring James Dean is based. He shared with Wortham and other contemporaries including perhaps a few members of the Senate subcommittee and their team a fear that that teenagers were unnaturally `debauched`, perverse and `sadistic`. Lindner opined the youth of the world today is touched with madness literally sick with an `aberrant` condition of mind formally confined to a few distressed souls but now epidemic over the earth. Undoubtedly the young people who wrote to the subcommittee were aware of this wider `societal` perception of their behavior and lack of confidence. 
+Of course, there is plenty of sincerity in these letters too. Often reflecting in awareness of greater realities. For instance, Leslie Hardy Junior wrote the world is bad enough with H-bomb's and McCarthy hearings that such `bunk` on comics books is crazy. I ought to be able to tell good from bad even if I am only 14. An anonymous writer acknowledged the `specter` of war more directly. Writing "in the near future most of us shall be in the armed services, some will be killed, maybe even me. But don't take away our fun and the freedom of the press just because you have no sense of humor doesn't mean nobody else has". And one of the adult writers and there were some, this one was a young African-American man in his 20s demonstrated the value of comics during his time in the service. He wrote, "I served three years in the Air Force two of them in Alaska. While overseas these books seemed food medicine morale builders to those at barren places. " In some ways though sincerity wasn't enough. 
 
-Thomas Hein proposed in his popular history of teenagers in the United States despite the growing middle-class `acculturation` accompanying the rising percentage of young people attending high school, " adults looked at the children and saw not a blossoming `bourgeoisie` but rather an alien culture in their `midst`." By necessity many of the young writers who would not be enfranchised to vote until age 21 had to situate themselves as competent respectable teens who were above the influence of comics. 
+In late 1954, Time magazine carried a brief article highlighting psychoanalyst Robert Lindner's theories on teenagers. Now Lindner is more popularly known as the author of Rebel Without a Cause the `hypnoanalysis` of a criminal `psychopath` and the same book on which the 1955 film starring James Dean is based. He shared with Wortham and other contemporaries including perhaps a few members of the Senate subcommittee and their team a fear that that teenagers were unnaturally `debauched`, perverse and `sadistic`. Lindner opined the youth of the world today is touched with madness literally sick with an `aberrant` condition of mind formally confined to a few distressed souls but now epidemic over the earth. Undoubtedly the young people who wrote to the subcommittee were aware of this wider `societal` perception of their behavior and lack of confidence. 
 
-Thus we see many of the letter writers refer to their academic achievement and the moral uprightness while also acknowledging that they were children not adults. For example Ron Baumgardner opened his correspondence to the subcommittee with his credentials. "I ranked very close to the top of the class of 206, I am a member of the national Honor Society and have received a four-year `matriculation` scholarship to Illinois State University. Another red letter Robert Brenninger ended his letter this way " in closing, I wish to state that I attend church every Sunday and do not smoke, drink, run around the street at all hours of the night. And yet read and now plead for a continuance of crime and horror in comics magazine, a fact which various groups set on abolishing comics magazines seem to `shun`. sometimes letterwriters simply reminded the subcommittee that although they may be children, that didn't make them naive or incompetent. We saw a couple of slides ago when Leslie Hardy remarked that at age 14, he ought to be able to tell good from bad. Other writers commented that they were simply average normal kids careful to position themselves as neither rebels nor `psychopaths`. My favorite variation on this theme came from a teenager when named Bryan Mulholland. After outing himself as an avid EC reader he wrote to the Senators that he was "as honest and clean as you would want your own son to be " when I spoke with Brian a couple of years ago he had just retired as an attorney and told me that he couldn't have written a better letter today. One of the aspects of studying these letters that I found most valuable is discovering how some of EC's most `ardent` fans the fan addicts supported the letterwriting effort. 
+Thomas Hein proposed in his popular history of teenagers in the United States despite the growing middle-class `acculturation` accompanying the rising percentage of young people attending high school, " adults looked at the children and saw not a blossoming `bourgeoisie` but rather an alien culture in their `midst`." By necessity, many of the young writers who would not be enfranchised to vote until age 21 had to situate themselves as competent respectable teens who were above the influence of comics. Thus we see many of the letter writers refer to their academic achievement and the moral uprightness while also acknowledging that they were children not adults. 
+
+For example Ron Baumgardner opened his correspondence to the subcommittee with his credentials. "I ranked very close to the top of the class of 206, I am a member of the national Honor Society and have received a four-year `matriculation` scholarship to Illinois State University. Another red letter Robert Brenninger ended his letter this way " in closing, I wish to state that I attend church every Sunday and do not smoke, drink, run around the street at all hours of the night. And yet read and now plead for a continuance of crime and horror in comics magazine, a fact which various groups set on abolishing comics magazines seem to `shun`. sometimes letterwriters simply reminded the subcommittee that although they may be children, that didn't make them naive or incompetent. We saw a couple of slides ago when Leslie Hardy remarked that at age 14, he ought to be able to tell good from bad. Other writers commented that they were simply average normal kids careful to position themselves as neither rebels nor `psychopaths`. My favorite variation on this theme came from a teenager when named Bryan Mulholland. After outing himself as an avid EC reader he wrote to the Senators that he was "as honest and clean as you would want your own son to be " when I spoke with Brian a couple of years ago he had just retired as an attorney and told me that he couldn't have written a better letter today. One of the aspects of studying these letters that I found most valuable is discovering how some of EC's most `ardent` fans the fan addicts supported the letterwriting effort. 
 
 It's possible to trace for instance some of the letters writers appears in letter columns and comics trading requests in the fan bulletins. For instance this is a `trio` with Norm Benedict. He told me a couple of years ago that he sold almost all of his ECs to pay for grad school but he wrote to the subcommittee and had a also had a letter published in ECs letters column and you can see his name here as well in the trading post. But there were others. Roy Thomas who many of you may recognize as a longtime writer and editor for Marvel comics was a high schooler and EC fan addict number 19214 living in Missouri in 1954. He wrote the subcommittee giving them a lesson about the different categories of comics. `Delineating` the differences among funny animals superhero and other comic genres. More important he described his feared scenario should the Senate act to regulate comics. This is a long quote "somebody kills horror comics, horror and crime are related somewhat so crime dies next. With crime dies the heroes comics. Next come the people and kill cowboys. By this time Science Fiction is cut and romances next teenagers follow then humor mags if they didn't already go out with horror. Finally little Lulu and her animal friends go. So please don't start something that can end in even King Aroo and Li'l Abner disappearing from the comic page. Brandon Chesney proudly told the subcommittee that he had read over 200 of the comics under review. Based on his reading history he proposed that the Senate would better spend its time investigating the role that `prostitution bars` and substandard housing played in investigating juvenile delinquency. 
 
@@ -134,7 +137,7 @@ The subcommittee's proposals meant little. As comics publishers had already `ban
 
 Dr. Tilley: He was. So Wertham certainly felt that Donald Duck and Mickey Mouse and some of the Warner brothers properties like Bugs Bunny would qualify as a crime comic, but those were licensed products that were published by Dell Comics and Dell was an entity unto itself. It had such tremendous sales that it did not feel threatened by these attacks on comics, although it did `amp up` some of its internal PR to help protect itself, but Dell's vice president testified as a favorable witness at the Senate hearing. So there was some immunity, in a sense. To concern with those properties. 
 
-Audience member: Was there any response either internally people writing memos to each other in the Senate or response to the kids letters? What did they think about the letters that were showing up? 
+Audience member: Was there any response either internally, people writing memos to each other in the Senate, or response to the kids letters? What did they think about the letters that were showing up? 
 
 Dr. Tilley: That's a great question Scott. There is some duplicates of correspondence that the committee sent back. It's interesting though because almost all of the letter writers I've spoken to recall getting nothing from the Senate, not even a postcard of acknowledgment. Although apparently they did send at least letters to some writers. And usually it's a fairly basic, "thank you for your comments " or simply an update about the hearing. And outside of -- near the beginning -- outside of the `compilation` of information about letter writers -- almost there -- you can see they've listed location and age if they knew and and maybe a note and you can see that almost all of the correspondence they got was favorable. But at some point they even quit compiling this list because this list basically has fewer than 300 letters listed and so there are several hundred that are unaccounted for. And so at some point they just, I don't think, cared about the letters that they continued to receive. 
 

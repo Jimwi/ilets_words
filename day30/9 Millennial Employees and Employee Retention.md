@@ -1,18 +1,18 @@
 https://www.youtube.com/watch?v=PjrhbvBlMmo
 18:26
 ```  
-spouse       n. 配偶
-logistics    n. 物流；后勤工作
-layoff       n. 解雇，下岗；休养，停工期
-haunt        n. 解雇，下岗；休养，停工期
-egalitarian   adj. 平等主义的
-transition    n. 过渡，转变；（分子生物）转换；（乐）临时转调；（物理）跃迁，转变       
-downsize      vt. 以较小尺寸设计；缩小尺寸；裁减人数
-innate        adj. 先天的；固有的；与生俱来的
-preference    n. 偏爱，偏好；更喜欢的人（或物）；优待，优先（权）；<法律>（尤指债务偿付）优先偿还权
-livelihood     n. 生计，营生  
-profession  
-entitle        
+spouse          n. 配偶
+logistics       n. 物流；后勤工作
+layoff          n. 解雇，下岗；休养，停工期
+haunt           v. （鬼魂）出没；萦绕在……心头；（长期）困扰；常去（某地）
+egalitarian     adj. 平等主义的
+transition      n. 过渡，转变；（分子生物）转换；（乐）临时转调；（物理）跃迁，转变       
+downsize        vt. 以较小尺寸设计；缩小尺寸；裁减人数
+innate          adj. 先天的；固有的；与生俱来的
+preference      n. 偏爱，偏好；更喜欢的人（或物）；优待，优先（权）；<法律>（尤指债务偿付）优先偿还权
+livelihood      n. 生计，营生  
+profession      n. （尤指需要长期训练和正规资格的）职业；（某）职业界同行，同业；（统称，指需要较高教育水平的）职业（the professions）；（信念、观点或感情的）公开表示，表白；入教誓言，修道誓约；入教仪式，入教
+entitle         v. 给予（某人）权利，给（某人）资格；给......命名，给......题名
 ```
 
 Millennial Employees and Employee `Retention`
@@ -21,7 +21,7 @@ WEBVTT Kind: captions Language: en
 
 We're all pretty familiar with the buyer and seller market in real estate where the advantage switches back and forth from buyers to sellers based on the economic factors at hand. But did you ever realize that the same exact philosophy is true with the employment market? 
 
-During the recession, we were in an employer's market- where it was pretty easy to get and keep the talent that we needed. But we have now transitioned over into an employee's market- where employees and candidates have the upper hand today. They have an advantage because everyone is hiring. 
+During the recession, we were in an employer's market- where it was pretty easy to get and keep the talent that we needed. But we have now transitioned over into an employee's market- where employees and candidates have `the upper hand` today. They have an advantage because everyone is hiring. 
 
 So I want to talk with you today about our workforce, in particular, this Millennial mindset that we're seeing come into the workplace. Now, a lot of people know the general demographics here: that we had 80 million Baby Boomers in the workplace. 
 
@@ -39,7 +39,7 @@ They show up on time. They do what you tell them. And they certainly don't wear 
 
 So, these are the issues on the table. What we're going to address is: Technology, Authority, Balance, Loyalty, and Entitlement. The first one here is Technology. Now, think about when you were a really young kid and how you'd listen to your favorite song over and over and over again. most Baby Boomers started with record players. And they had those record players through their childhood and through high school into their early adulthood. 
 
-Some of you Boomers probably still have your records. I'm certain of it. Now, if we look at a Millennial's perspective, on the other end of the spectrum here, by the time I was born in 1981 I started with cassettes. Then I quickly moved to CDs, then I was asking for an iPod for my birthday. And we were the first college group to start illegally downloading music on Napster. 
+Some of you Boomers probably still have your records. I'm certain of it. Now, if we look at a Millennial's perspective, on the other end of the spectrum here, by the time I was born in 1981 I started with `cassettes`. Then I quickly moved to CDs, then I was asking for an iPod for my birthday. And we were the first college group to start illegally downloading music on `Napster`. 
 
 Okay, so that meant that our formative years, what happened in those first 20 years of my life, was very different as far as my relationship with technology than any Boomers experience. So that relationship with technology has now transformed itself in our workplace as our comfort level with change. So, no wonder you have some Millennials in your workplace that are saying, "Oh, well this is too slow, and that needs to be automated, and don't you know there's an app for that now"? Versus the other end of the spectrum that says "if it ain't broke don't fix it. 
 
@@ -49,7 +49,7 @@ We've got to find middle ground as managers and leaders to lead our organization
 
 Then you've got kids like me coming in that say, "Whoa, whoa. No. We're all equal here. This is more egalitarian (is what we call it) and we believe that everyone is needed, everyone is valuable, and we should all be appreciated for that value. Whether I'm Clinical, Admissions, Housekeeping, Environmental Services, Dietary, it doesn't matter. We all have to do our jobs to make sure this building runs well and that our seniors are well cared for". So, very different. Another difference that we see today is this work-life balance. Now, I'm guessing for most of you in the room, when you started your career you didn't have a cell phone in your pocket. Did you? No. Things have changed dramatically over the years. Not only with that, but we also have so many single parents in our workforce today. We have so many people who are carrying a second job in our workforce today. 
 
-So, we have got to understand their reality, and their priorities- personal and professional. Because I'll tell you it is next to impossible, with cell phones today, for us to separate the personal from professional sides of our lives. Another thing that's difficult for us to understand is this innate sense of loyalty for loyalty sake. Most Millennials don't know what loyalty looks like. We've never seen it. Divorce peaked in the 1980s. Most of us saw our parents or our best friend's parents split during those formative years. Then came the 90s and early 2000's when the internet caused globalization for most of corporate America. they started offshoring and outsourcing and `downsizing`. My mom is a corporate accountant who always got stellar performance reviews. She got laid off three times before I hit college. My parents split when I was 11. 
+So, we have got to understand their reality, and their priorities- personal and professional. Because I'll tell you it is next to impossible, with cell phones today, for us to separate the personal from professional sides of our lives. Another thing that's difficult for us to understand is this innate sense of loyalty for loyalty sake. Most Millennials don't know what loyalty looks like. We've never seen it. Divorce peaked in the 1980s. Most of us saw our parents or our best friend's parents split during those formative years. Then came the 90s and early 2000's when the internet caused globalization for most of corporate America. they started offshoring and outsourcing and `downsizing`. My mom is a corporate accountant who always got `stellar` performance reviews. She got laid off three times before I hit college. My parents split when I was 11. 
 
 I remember the day when my 15 year old mom. I'm sorry. I remember the day when I was 15 and my single mom came walking through the front door, with tears in her eyes, having been blindsided by another `layoff`, looking for my `shoulder` to cry on. That gives you a whole different perspective on company loyalty. She said, "Don't ever depend on a spouse or a company for your livelihood. You have got to be able to stand on your own two feet". 
 

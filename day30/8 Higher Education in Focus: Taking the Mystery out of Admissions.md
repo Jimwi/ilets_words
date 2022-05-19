@@ -2,7 +2,7 @@ https://www.youtube.com/watch?v=UZCfK3EhNf8
 26:46
 
 ```
-yield      v. 产生（收益、效益等），产生（结果）；出产（天然产品，农产品，工业产品）；屈服，让步；放弃，让出；给（大路上的车辆）让路；（受压）活动，弯曲，折断；<正式>被……替代；请（某人）讲话；停止争论
+yield           v. 产生（收益、效益等），产生（结果）；出产（天然产品，农产品，工业产品）；屈服，让步；放弃，让出；给（大路上的车辆）让路；（受压）活动，弯曲，折断；<正式>被……替代；请（某人）讲话；停止争论
 overwhelming    adj. 压倒性的；势不可挡的
 extenuate       v. 减轻（过错等）的程度，使看起来情有可原；使瘦削
 integrate       v. （使）合并，成为一体；（使）加入，融入群体；（使）取消种族隔离；求……的积分；表示（面积、温度等）的总和，表示……的平均值      
@@ -12,11 +12,11 @@ procrastination n. 耽搁，拖延
 enroll          vt. 登记；使加入；把……记入名册；使入伍
 rigor           n. 严厉；精确；苛刻；僵硬
 align           v. 公开支持，与……结盟；（使）排成一条直线，使平行；调整，使一致；（使）参加，加入
-scrub           v. 公开支持，与……结盟；（使）排成一条直线，使平行；调整，使一致；（使）参加，加入
+scrub           v. （尤指用硬刷子）擦洗，擦净；（医生在做手术前）仔细擦洗手和手臂（scrub up）；<非正式>取消（计划等）；用水净化（汽油，蒸汽）；（骑手用手臂与腿紧迫地摩擦马的颈部和两侧）催马（快行）；（赛车）（司机）让轮胎滑行（或划擦路面）以减速
 preference      n. 偏爱，偏好；更喜欢的人（或物）；优待，优先（权）；<法律>（尤指债务偿付）优先偿还权
-authentic    adj. 可信的；真正的，真实的        
-counsel      n. 忠告，建议；辩护律师；<古>咨询，磋商
-rendition    n. 译文；演奏；提供；[古]引渡逃奴    
+authentic       adj. 可信的；真正的，真实的        
+counsel         n. 忠告，建议；辩护律师；<古>咨询，磋商
+rendition       n. 译文；演奏；提供；[古]引渡逃奴    
 ```
 
 Higher Education in Focus: Taking the Mystery out of Admissions 
@@ -27,7 +27,7 @@ Support for "Higher Education in Focus" comes from the Penn State `alumni associ
 
 [ Music ] 
 
-As college enrollment continues to increase, students face `stiff` competition for a limited number of `slots`. Last year, Penn State received more than 66,000 residential undergraduate applications. Of those, roughly 16,000 were admitted. When is the best time to submit your application? How will your application be evaluated? And should you consider applying to an honors program? In this edition of "Higher Education in Focus" Penn State president Eric Barron will focus on taking the mystery out of the admissions process. Here to talk with him is Clark Brigger, executive director for undergraduate admissions at Penn State, Bert McBrayer, associated director for admissions operations in the office of undergraduate admissions and Mitch Kirsch, associate dean for student affairs at the Schreyer Honors College. I'll be back later in the show to talk one on one with President Barron with questions from a student's perspective. Now here's Penn State president Eric Barron. 
+As college enrollment continues to increase, students face `stiff` competition for a limited number of `slots`. Last year, Penn State received more than 66,000 residential undergraduate applications. Of those, roughly 16,000 were admitted. When is the best time to submit your application? How will your application be evaluated? And should you consider applying to an honors program? In this edition of "Higher Education in Focus" Penn State president Eric Barron will focus on taking the mystery out of the admissions process. Here to talk with him is Clark Brigger, executive director for undergraduate admissions at Penn State, Bert McBrayer, associated director for admissions operations in the office of undergraduate admissions and Mitch Kirsch, associate dean for student affairs at the Schreyer Honors College. I'll be back later in the show to talk one on one with President Barron with questions from a student's perspective. Now here's Penn State president `Eric Barron`. 
 
 Well, welcome. So 66,000 applications. That seems like an enormous number for the number of undergraduates and total 131,000 this year and 6,000 more than last year, 18,000 more than the year before. So, you know, let's take a little bit of the mystery out of this whole process. And so maybe you could -- Clark, you could walk us through the application process for Penn State. Sure. 
 
@@ -79,7 +79,7 @@ So do we look at them and say, "Now we're going to go deeper in to the pool here
 
 Yeah. No. So, you know, we try and keep the incoming class international population 
 
-Being very diverse. So this is an intent, but 
+Being very diverse. So this is an `intent`, but 
 
 Right. But we want it to be geographically diverse. You know, worldwide. But, you know, it can also be overwhelming. There are institutions out there that go very deep in to China, as an example. And, you know, have 1,000 Chinese international students on their campus. Well, we don't want that. We want great diversity because it's going to lend to the learning environment. 
 

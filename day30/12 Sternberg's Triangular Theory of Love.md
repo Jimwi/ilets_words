@@ -1,11 +1,11 @@
 https://www.youtube.com/watch?v=KofJqvqPy8k
 4:52
 ```  
-fatuous    adj. 愚笨的；昏庸的；发呆的；自满的
-creep  
-courtship  
-intersection  
-instruct    v. 指示，吩咐；教授，指导；聘请（律师），托办；通知；（法官向陪审团）建议，作说明
+fatuous             adj. 愚笨的；昏庸的；发呆的；自满的
+creep               v. 爬行，匍匐；蹑手蹑脚地移动；不知不觉地到来，渐渐出现；蔓生，蔓延；谄媚奉承，巴结；（由于恐惧、厌恶等）起鸡皮疙瘩
+courtship           n. 求爱；求婚；求爱期
+intersection        n. 交接（点或线），相交；交汇点（尤指道路）；（动作）交接，交叉
+instruct            v. 指示，吩咐；教授，指导；聘请（律师），托办；通知；（法官向陪审团）建议，作说明
 ```
 
 Sternberg's Triangular Theory of Love
@@ -28,6 +28,6 @@ Now let's talk about the intersections of any two of these. So if you have intim
 
 Another intersection would be the idea that you are intimate with the person and passionate, but you're not yet committed to that person. And that's what we call romantic love. Romantic love is when you're dating somebody and you've been going out with them for a while. There's physical passion, you share all your secrets, you tell them everything, no detail is too small, but you're not yet committed in any long term way. That's romantic love, and that's the kind of love that we often talk about when you say "I just fell in love with somebody." 
 
-The third one which is a little bit rarer and it's actually a term that you hardly ever hear, so please email me ... fatuous love. You never hear anywhere outside of developmental psychology or psychology in general, so if you ever hear that word send me an email. Fatuous love is the presence of commitment and passion without intimacy. So what would that be like? You don't know the person very well, yet you engage in a long-term, committed relationship with them and you're passionate about them. Think about somebody who runs off and gets married. You say "Wow, they've hardly known each other and yet they got married. There was this two-week `whirlwind` courtship ... that's fatuous love. 
+The third one which is a little bit rarer and it's actually a term that you hardly ever hear, so please email me ... `fatuous love`. You never hear anywhere outside of developmental psychology or psychology in general, so if you ever hear that word send me an email. Fatuous love is the presence of commitment and passion without intimacy. So what would that be like? You don't know the person very well, yet you engage in a long-term, committed relationship with them and you're passionate about them. Think about somebody who runs off and gets married. You say "Wow, they've hardly known each other and yet they got married. There was this two-week `whirlwind` courtship ... that's fatuous love. 
 
 And then the last one is `consummate`, and that's the gold standard. That's the presence of intimacy, commitment and passion. It's got all of those three things. You know the person really well and you share their secrets, you're physically passionate and you have a long-term commitment. Now I will say that's consummate love ... that's the gold standard in a Western situation. Not all societies ... you know this is a very Western model, so when you think about the different kinds of love, think about what the ideal would be in another culture, because this is a relatively culture-specific. 
