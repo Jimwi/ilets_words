@@ -2,22 +2,22 @@ https://www.youtube.com/watch?v=k-J9BVBjK3o
 7:56
 
 ```
-falter   vi. 衰弱；衰退；（嗓音）颤抖；结巴地说；蹒跚；犹豫  faltering steps
-rigid    adj. （方法、体制等）严格死板的，僵化的；（人）顽固的，不通融的；刚硬的，不易弯曲的；（因强烈的感情而）僵硬的，僵直的；精确的
-poignant adj. 尖锐的；辛酸的；深刻的；切中要害的
-fret      v. 使烦恼；焦急；使磨损，使销蚀；用回纹装饰；给（弦乐器）装品
-exemplary adj. 典范的，优异的；惩戒性的，严厉的；<法律>（损害赔偿）惩罚性（超额赔偿）的；典范的，值得效仿的
-articulate vt. 清晰地发（音）；明确有力地表达；用关节连接；使相互连贯
-eminent    adj. （在某领域或职业中）卓越的，出众的；突出的，明显的
-turmoil    n. 混乱，骚动
-distortion n. 歪曲，曲解；变形，失真
-compensation n. 赔偿金，补偿金；弥补，抵消；报酬，薪水
-sentimental adj. 情感的（而非理性的）；多愁善感的，柔情的；（故事、电影、书等）感伤的，故作伤感的
-humiliate   v. 羞辱，使蒙羞
-pivot       n. 枢轴；中心点；中心；旋转运动；基准兵；中锋；（篮球）持球转身策应
-muddle      v. 弄乱；（使）糊涂；混淆；瞎忙；调制（饮料）
-predisposition  n. 倾向；素质；易染病体质
-exaggerate  v. 夸大，言过其实；使扩大
+falter              vi. 衰弱；衰退；（嗓音）颤抖；结巴地说；蹒跚；犹豫  faltering steps
+rigid               adj. （方法、体制等）严格死板的，僵化的；（人）顽固的，不通融的；刚硬的，不易弯曲的；（因强烈的感情而）僵硬的，僵直的；精确的
+poignant            adj. 尖锐的；辛酸的；深刻的；切中要害的
+fret                v. 使烦恼；焦急；使磨损，使销蚀；用回纹装饰；给（弦乐器）装品
+exemplary           adj. 典范的，优异的；惩戒性的，严厉的；<法律>（损害赔偿）惩罚性（超额赔偿）的；典范的，值得效仿的
+articulate          vt. 清晰地发（音）；明确有力地表达；用关节连接；使相互连贯
+eminent             adj. （在某领域或职业中）卓越的，出众的；突出的，明显的
+turmoil             n. 混乱，骚动
+distortion          n. 歪曲，曲解；变形，失真
+compensation        n. 赔偿金，补偿金；弥补，抵消；报酬，薪水
+sentimental         adj. 情感的（而非理性的）；多愁善感的，柔情的；（故事、电影、书等）感伤的，故作伤感的
+humiliate           v. 羞辱，使蒙羞
+pivot               n. 枢轴；中心点；中心；旋转运动；基准兵；中锋；（篮球）持球转身策应
+muddle              v. 弄乱；（使）糊涂；混淆；瞎忙；调制（饮料）
+predisposition      n. 倾向；素质；易染病体质
+exaggerate          v. 夸大，言过其实；使扩大
 ```
 
 20 Signs you are Emotionally Mature 
@@ -38,7 +38,7 @@ exaggerate  v. 夸大，言过其实；使扩大
 
 8. You cease to believe in perfection in pretty much every area. There aren’t any perfect people, perfect jobs or perfect lives. Instead, you `pivot` towards an `appreciation` of what is (to use the `psychoanalyst` Donald Winnicott’s `exemplary` phrase) ‘good enough.’ You realise that many things in your life are at once quite frustrating - and yet, in many ways, `eminently` good enough. 
 
-9. You learn the virtues of being a little more `pessimistic` about how things will turn out - and as a result, emerge as a calmer, more patient and more forgiving soul. You lose some of your idealism and become a far less maddening person (less impatient, less `rigid`, less angry). 
+9. You learn the virtues of being a little more `pessimistic` about how things will turn out - and as a result, emerge as a calmer, more patient and more forgiving soul. You lose some of your `idealism` and become a far less `maddening` person (less impatient, less `rigid`, less angry). 
 
 10. You learn to see that everyone’s weaknesses of character are linked to counter-balancing strengths. Rather than isolating their weaknesses, you look at the whole picture: yes, someone is rather `pedantic`, but they’re also beautifully precise and a rock at times of `turmoil`. Yes someone is a bit messy, but at the same time brilliantly creative and very visionary. You realise (truly) that perfect people don’t exist - and that every strength will be tagged with a weakness. 
 
@@ -46,11 +46,11 @@ exaggerate  v. 夸大，言过其实；使扩大
 
 12. You learn that you are - rather surprisingly - quite a difficult person to live with. You shed some of your earlier `sentimentality` towards yourself. You go into friendships and relationships offering others kindly warnings of how and when you might prove a challenge. 
 
-13. You learn to forgive yourself for your errors and foolishness. You realise the unfruitful self-absorption involved in simply flogging yourself for past misdeeds. You become more of a friend to yourself. Of course you’re an idiot, but you’re still a loveable one, as we all are. 
+13. You learn to forgive yourself for your errors and foolishness. You realise the unfruitful self-absorption involved in simply `flogging` yourself for past misdeeds. You become more of a friend to yourself. Of course you’re an idiot, but you’re still a loveable one, as we all are. 
 
-14. You learn that part of what maturity involves is making peace with the stubbornly child-like bits of you that will always remain. You cease trying to be a grown up at every occasion. You accept that we all have our regressive moments - and when the inner two year old you rears its head, you greet them generously and give them the attention they need. 
+14. You learn that part of what maturity involves is making peace with the stubbornly child-like bits of you that will always remain. You cease trying to be a grown up at every occasion. You accept that we all have our regressive moments - and when the inner two year old you `rears` its head, you greet them generously and give them the attention they need. 
 
-15. You cease to put too much hope in grand plans for the kind of happiness you expect can last for years. You start to celebrate the little things that go well. You realise that satisfaction comes in increments of minutes. You’re delighted if one day passes by without too much bother. You take a greater interest in flowers and in the evening sky. You develop a taste for small pleasures. 
+15. You cease to put too much hope in grand plans for the kind of happiness you expect can last for years. You start to celebrate the little things that go well. You realise that satisfaction comes in `increments` of minutes. You’re delighted if one day passes by without too much bother. You take a greater interest in flowers and in the evening sky. You develop a taste for small pleasures. 
 
 16. What people in general think of you ceases to be such a concern. You realise the minds of others are `muddled` places and you don’t try so hard to polish your image in everyone else’s eyes. What counts is that you and one or two others are OK with you being you. You give up on fame and start to rely on love. 
 
@@ -60,4 +60,6 @@ exaggerate  v. 夸大，言过其实；使扩大
 
 19. You recognise how your distinctive past colours your response to events - and learn to `compensate` for the `distortions` that result. You accept that, because of how your childhood went, you have a `predisposition` to `exaggerate` in certain areas. You become suspicious of your own first impulses around particular topics. You realise - sometimes - not to go with your feelings. 
 
-20. When you start a friendship, you realise that other people don’t principally want to know your good news, so much as gain an insight into what troubles and worries you, so that they can in turn feel less lonely with the pains of their own hearts. You become a better friend because you see that what friendship is really about is a sharing of vulnerability. Our Emotional Barometer is a tool to help us more clearly explain our moods. Click the link on screen now to find out more. 
+20. When you start a friendship, you realise that other people don’t principally want to know your good news, so much as gain an insight into what troubles and worries you, so that they can in turn feel less lonely with the pains of their own hearts. You become a better friend because you see that what friendship is really about is a sharing of `vulnerability`. 
+
+Our Emotional Barometer is a tool to help us more clearly explain our moods. Click the link on screen now to find out more. 

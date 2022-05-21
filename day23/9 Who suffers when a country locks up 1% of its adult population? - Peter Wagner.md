@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=i7h8Eb4g6zk
 1:12:53
 
 ```
-discrete    adj. 离散的，不连续的
+discrete     adj. 离散的，不连续的
 concession   n. 让步，妥协；特许权；<英>优惠价，减价；商铺；小摊卖的东西；认输
 dumb       
 odds         n. （事物发生的）可能性，机会；困难，不利条件；投注赔率；（力量、权力或资源上的）优势  

@@ -1,31 +1,28 @@
 https://www.npr.org/transcripts/1011669888
 31:00
 
-```  
-viable   adj. 可望成功的，切实可行的；能存活的，能生长发育的
-affection  n. 喜爱，关爱；爱恋，爱慕之情；精神状况，感情；疾患，病；影响    
-afflict    vt. 折磨；使痛苦；使苦恼
-fascinate   v. 深深吸引，迷住；深深吸引，迷住；<旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹
-sanitary    adj. 公共卫生的，公共保健的；干净的，卫生的；（用品）月经期间使用的  
-fester     vi. 溃烂；化脓       
-incinerate  vi. 把……烧成灰；烧弃
-genuine     adj. 真正的，非伪造的；真诚的，真心的
-daunting    adj. 使人畏缩的；使人气馁的；令人怯步的
-landfill    adj. 使人畏缩的；使人气馁的；令人怯步的
-deplete     v. 大量减少，耗尽
-creep       vi. 爬行；蔓延；慢慢地移动；起鸡皮疙瘩
-municipal   vi. adj. 城市的，市政的；自治城市的，地方自治的；内政的    
-blessed     adj. 神圣的，尊敬的；受祝福的，受上帝保佑的；带来幸福的，带来好运的；（使人）愉快安宁的；有幸具有的；幸运的；（非正式）表示愠怒，该死的
-facility    n. 设施，设备；（机器等的）特别装置，特殊功能；（特定用途的）场所；才能，天赋  
-nasty      adj. 恶毒的，凶相的；令人不快的，令人厌恶的；（伤口、疾病等）严重的，恶性的；污秽的，下流的；（外表）丑陋的，（气味等）难闻的；造成很大伤害的；令人担忧的，难对付的；有威胁性的，吓人的
-flush     v. 发红；使发光；因……兴奋；冲洗，冲掉；把……赶出隐藏地；使暴露；绽出新芽；嵌平    
-pivot     n. 枢轴；中心点；中心；旋转运动；基准兵；中锋；（篮球）持球转身策应
-skeptical   adj. 不相信的，持怀疑态度的；（哲）怀疑论的，不可知论的    
-dedicate    v. 致力于，献身于；把（书、戏剧、音乐作品等）献给；为（建筑物或教堂）举行奉献（或落成）典礼；题献词
 ```
-
-
-https://www.npr.org/transcripts/1011669888
+viable          adj. 可望成功的，切实可行的；能存活的，能生长发育的
+affection       n. 喜爱，关爱；爱恋，爱慕之情；精神状况，感情；疾患，病；影响    
+afflict         vt. 折磨；使痛苦；使苦恼
+fascinate       v. 深深吸引，迷住；深深吸引，迷住；<旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹
+sanitary        adj. 公共卫生的，公共保健的；干净的，卫生的；（用品）月经期间使用的  
+fester          vi. 溃烂；化脓       
+incinerate      vi. 把……烧成灰；烧弃
+genuine         adj. 真正的，非伪造的；真诚的，真心的
+daunting        adj. 使人畏缩的；使人气馁的；令人怯步的
+landfill        adj. 使人畏缩的；使人气馁的；令人怯步的
+deplete         v. 大量减少，耗尽
+creep           vi. 爬行；蔓延；慢慢地移动；起鸡皮疙瘩
+municipal       vi. adj. 城市的，市政的；自治城市的，地方自治的；内政的    
+blessed         adj. 神圣的，尊敬的；受祝福的，受上帝保佑的；带来幸福的，带来好运的；（使人）愉快安宁的；有幸具有的；幸运的；（非正式）表示愠怒，该死的
+facility        n. 设施，设备；（机器等的）特别装置，特殊功能；（特定用途的）场所；才能，天赋  
+nasty           adj. 恶毒的，凶相的；令人不快的，令人厌恶的；（伤口、疾病等）严重的，恶性的；污秽的，下流的；（外表）丑陋的，（气味等）难闻的；造成很大伤害的；令人担忧的，难对付的；有威胁性的，吓人的
+flush           v. 发红；使发光；因……兴奋；冲洗，冲掉；把……赶出隐藏地；使暴露；绽出新芽；嵌平    
+pivot           n. 枢轴；中心点；中心；旋转运动；基准兵；中锋；（篮球）持球转身策应
+skeptical       adj. 不相信的，持怀疑态度的；（哲）怀疑论的，不可知论的    
+dedicate        v. 致力于，献身于；把（书、戏剧、音乐作品等）献给；为（建筑物或教堂）举行奉献（或落成）典礼；题献词
+```
 
 DAVE DAVIES, HOST:
 
@@ -43,7 +40,7 @@ WALD: Well, the start of the kind of modern era of the `flush toilet` was in the
 
 DAVIES: Right. It made things cleaner and more pleasant inside homes, and so what happened outside?
 
-WALD: There was sort of a, you know, disorganized series of ditches and cesspools and waterways, you know, this - if you're thinking about London in the 19th century, where people would just direct their wastewater, and it all, you know, more or less ended up in the Thames, where it `festered` and created, you know, sort of a massive, stinky mess, which got so bad that the lawmakers in Parliament were `affected` by it. That was the Great Stink in the middle of the 19th century, and that's when they authorized the building of a comprehensive `sewer system` that would then take all of this wastewater away from the city.
+WALD: There was sort of a, you know, disorganized series of ditches and cesspools and waterways, you know, this - if you're thinking about London in the 19th century, where people would just direct their wastewater, and it all, you know, more or less ended up in the Thames, where it `festered` and created, you know, sort of a massive, stinky mess, which got so bad that the lawmakers in Parliament were `affected` by it. That was `the Great Stink` in the middle of the 19th century, and that's when they authorized the building of a comprehensive `sewer system` that would then take all of this wastewater away from the city.
 
 DAVIES: Now, there are - there's a lot of need for sanitation throughout the world. Why is this system of flush toilets and big sewage systems and treatment plants not the best or most workable idea for the world's sanitation needs?
 
@@ -83,19 +80,13 @@ DAVIES: So they're actually getting useful data about patterns in COVID infectio
 
 WALD: Yeah. Well, they - yeah, they are learning how to analyze the sewage for those patterns, and they're learning how to use the data to make policy. It's a nice `complement` to other sources of information, like - you know, like, testing of individuals, like PCR testing in the case of coronavirus. Yeah.
 
-DAVIES: Let me reintroduce you again. We are speaking with Chelsea Wald. She's a science writer, and her new book is "Pipe Dreams: The Urgent Global Quest To Transform The Toilet." She'll be back after this short break. I'm Dave Davies, and this is FRESH AIR.
-
-(SOUNDBITE OF FOTHERINGAY'S "THE SEA")
-
-DAVIES: This is FRESH AIR. I'm Dave Davies, in for Terry Gross, who's off this week. Our guest is science writer Chelsea Wald, whose new book describes how scientists are exploring ways to redesign toilets, sewers and other systems that take care of our solid waste. The book is "Pipe Dreams: The Urgent Global Quest To Transform The Toilet."
-
 If I remember this right from your book, 3.4 billion people in the world don't have what experts call safely managed sanitation, the kind of flush toilets and sewer systems that we `take for granted`. What are some of the ways people relieve themselves, and what happens to the waste that is generated?
 
 WALD: Yeah, that's more than half the world's population doesn't have this kind of system or else a system where the waste is safely managed from an onsite system, like a `septic` tank, and then gets emptied and taken to a treatment plant. So it doesn't make it safely to treatment. Some people don't have any toilets at all. They practice what's known as open `defecation`. Other people - many, many people in the world use pit `latrines`, and those pit latrines might be nice and functional, or they might be in really bad shape. And when they fill up, especially in cities, which - where - when many people use them, they can fill up - and that can cause a problem because there might not be an emptying service or an emptying service that can come and take the waste safely to a treatment plant. There may not be a treatment plant.
 
 DAVIES: So this waste that is `undisposed` of, that collects in streets and sewers and in pits in people's yards, what sort of health risks does this present?
 
-WALD: So the exposure to the pathogens in poop can cause `diarrheal` disease, which `affects` children disproportionately - causes a lot of suffering and death, especially among children. And it can lead to a condition called `stunting`, which is not just to do with height, but cognitive function. That can persist throughout the life of the child and has effects in later generations, as well. It's a multigenerational problem. There can be outbreaks of diseases like cholera and typhoid fever, which were common, you know, in London and in U.S. cities in the 19th century, but ended after the widespread installation of wastewater systems and drinking water systems.
+WALD: So the exposure to the pathogens in poop can cause `diarrheal` disease, which `affects` children disproportionately - causes a lot of suffering and death, especially among children. And it can lead to a condition called `stunting`, which is not just to do with height, but cognitive function. That can persist throughout the life of the child and has effects in later generations, as well. It's a multigenerational problem. There can be outbreaks of diseases like `cholera` and `typhoid fever`, which were common, you know, in London and in U.S. cities in the 19th century, but ended after the widespread installation of wastewater systems and drinking water systems.
 
 DAVIES: Bill Gates has identified this problem of bringing sanitation to more people in the world as a major focus of his `philanthropy`. What's he up to? What is he doing?
 
@@ -127,7 +118,7 @@ But that's not the only part of the story. There - the problem with our sewers i
 
 DAVIES: There's a `fascinating` (laughter) idea here that involves the black soldier fly and letting their larva chew on sewage. And somehow this eventually ends up into - what? - a food for animals, maybe. Explain this. (Laughter).
 
-WALD: Yeah. So there's this animal called the `black soldier fly` that actually exists in much of the world. It's - you know, it's already there. And it's particularly good for processing waste for the reason that it only likes to eat organic waste when it's `in the larva stage` - so when it's `not in the fly stage.` When flies land on waste to eat it, then they move to food. And then that way they transfer pathogens and are dangerous. But this fly won't do that because it doesn't eat in the fly stage. And so there are many research projects and companies who are turning this fly - and particularly the `maggot form` of the fly into a kind of technology that will then eat organic waste, including feces, but also food waste and other kinds of organic waste. And as it grows into a `plump maggot`, it becomes a really good source of protein, can be fed to livestock. And it could replace sources of livestock feed like `fishmeal`, which contributes to overfishing. So it's a more - potentially more sustainable source of livestock feed.
+WALD: Yeah. So there's this animal called the `black soldier fly` that actually exists in much of the world. It's - you know, it's already there. And it's particularly good for processing waste for the reason that it only likes to eat organic waste when it's `in the larva stage` - so when it's `not in the fly stage.` When flies land on waste to eat it, then they move to food. And then that way they transfer pathogens and are dangerous. But this fly won't do that because it doesn't eat in the fly stage. And so there are many research projects and companies who are turning this fly - and particularly the `maggot form` of the fly into a kind of technology that will then eat organic waste, including `feces`, but also food waste and other kinds of organic waste. And as it grows into a `plump maggot`, it becomes a really good source of `protein`, can be fed to livestock. And it could replace sources of livestock feed like `fishmeal`, which contributes to overfishing. So it's a more - potentially more sustainable source of livestock feed.
 
 DAVIES: Wow. So the fly larva eats the sewage, they get fat on it. And then what - they're harvested and ground up. And what does the product look like? Is it `pellets`? Is it a meal?
 

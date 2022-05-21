@@ -31,7 +31,7 @@ aggregate   n. 合计；集合体；总计；集料
 descriptive   adj. 描写的，说明的，叙述的；描述性的（学科
 ```
 
-Inside the bizarre world of internet trolls and propagandists | Andrew Marantz 
+Inside the bizarre world of internet `trolls` and `propagandists` | Andrew Marantz 
 
 WEBVTT Kind: captions Language: en 
 

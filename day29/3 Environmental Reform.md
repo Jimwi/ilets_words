@@ -2,20 +2,20 @@ https://www.youtube.com/watch?v=8e_4I9uvDhM
 6:41
 
 ```
-precede    
-sanctuary    n. 避难所；耶路撒冷的神殿；至圣所
-irrigate  
-vigor  
-reinvigorate    
-prominent  
-prominence  
-precursor    n. 先驱，前导
-tribute    
-forestry  
-bureau      
-inaugurate   vt. 举行开幕典礼；举行就职典礼；开创；创新；开辟
-spoliate     vt. 强夺，掠夺；抢劫
-lament       n. 挽歌；恸哭；悲痛之情          
+precede         v. 处在……之前，先于；在……之前做（或说）；比……更重要，比……（级别）更高
+sanctuary       n. 避难所；耶路撒冷的神殿；至圣所
+irrigate        v. 灌溉；冲洗（尤指伤口）；使清新
+vigor           n. [生物]活力，精力
+reinvigorate    v. 使再振作，使复兴
+prominent       adj. 重要的，著名的；显眼的，突出的；突起的，高耸的
+prominence      n. 重要，著名；突起，凸出；（尤指地形或身体部位）凸出物；日珥
+precursor       n. 先驱，前导
+tribute         n. （表示敬意的）礼物，颂辞，行为；（良好效果或影响的）体现，显示；（尤指旧时一国向他国交纳的）贡品，贡金；<史>（用于支付矿工工资，或给矿厂主、出租人的）矿石份子
+forestry        n. 林学，林业；林地
+bureau          n. 局，处，科；办事处，办公室；五斗橱，衣柜；书桌
+inaugurate      vt. 举行开幕典礼；举行就职典礼；开创；创新；开辟
+spoliate        vt. 强夺，掠夺；抢劫
+lament          n. 挽歌；恸哭；悲痛之情          
 ```
 
 Environmental Reform 

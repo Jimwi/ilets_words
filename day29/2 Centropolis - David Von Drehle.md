@@ -2,28 +2,28 @@ https://www.youtube.com/watch?v=95pg0T7cDHs
 
 26:58
 ```
-assure 
-shamble 
-vigor 
-moribund     adj. 垂死的；停滞不前的
-attorney 
-confederacy 
-patronage   n. 赞助；光顾；任免权
-fascinate 
-fabulous    
-hostile 
-divine 
-conscience   n. 良知，良心；内疚，愧疚
-herald       v. 预示……的来临；宣布，宣传；热烈欢迎；公开称赞  
-perpetuate   v. 使持续，使长久（尤指不好的事物）
-striking 
-intrigue     v. 激起……的兴趣，引发……的好奇心；密谋
-reverse   
-profession 
-constitute 
-consequent  
-barrel  
-opponent 
+assure          v. 使确信，向……保证；确保，使确定；给……保险
+shamble         vi. 蹒跚地走；摇晃不稳；摇摇晃晃地走
+vigor           n. [生物]活力，精力
+moribund        adj. 垂死的；停滞不前的
+attorney        n. 律师；代理人
+confederacy     n. 联盟；联邦；私党
+patronage       n. 赞助；光顾；任免权
+fascinate       v. <旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹；深深吸引，迷住
+fabulous        adj. 极好的，绝妙的；非凡的，巨大的，惊人的；虚构的，传说的
+hostile         adj. 敌对的，怀敌意的；强烈反对的；敌人的，敌方的；艰苦的，不利的；不受（被购公司）欢迎的
+divine          adj. 神的，天赐的；绝妙的，极令人愉快的
+conscience      n. 良知，良心；内疚，愧疚
+herald          v. 预示……的来临；宣布，宣传；热烈欢迎；公开称赞  
+perpetuate      v. 使持续，使长久（尤指不好的事物）
+striking        adj. 惊人的，异常的；妩媚动人的，标致的；罢工的；打击的
+intrigue        v. 激起……的兴趣，引发……的好奇心；密谋
+reverse         v. 逆转，彻底改变（决定、政策、趋势等）；撤销，推翻（法庭判决）；颠倒，反转；交换，互换（位置、功能）；<美>承认错误，放弃（立场）；
+profession      n. （尤指需要长期训练和正规资格的）职业；
+constitute      v. 组成，构成；是，被视为；成立，设立；任命
+consequent      adj. 随之发生的，由此引起的；（河流，山谷）顺向的
+barrel          n. 桶；一桶（的量）；枪管，炮管；（马等四足动物的）躯干
+opponent        n. 对手，竞争者；反对者，阻止者
 ```
 Centropolis 
 
@@ -67,11 +67,9 @@ The trade policy is one of the basic issues. But there is a difference in the te
 
 Right. We're in a new age, and Donald Trump is the avatar of that age, there's no question about it. And it's what I called in Time Magazine a disintermediated time. The middleman of politics has been cut out by Trump, whether it's the media or the parties or any of the go-betweens, the endorsers. All those that used to be big factors have been eliminated by Trump. He's gone directly to his audience, which he's built up over decades promoting himself, his own brand. And he's a master of new media. Whether it's social media, whether it's reality television, these are his milieu. He understands them much better than anyone else in politics right now. I'm not sure it's gonna get him to the White House. It's gonna get him much closer than we ever imagined. And somebody who's smoother and better, but using those same techniques, is gonna come along after-
 
-
-
 Right, who actually knows something about the issues and the structure of politics once you're into a national campaign. The disintermediation is interesting to me, and let's talk a little bit about that broadly. I sort of feel that we always have a virtual guest here,which is Alexis de Tocqueville, Democracy in America. In the 1830s and '40s when he wrote Democracy in America, he talked about America being a place full of mediation, the mediation of newspapers, associations, all kinds of associations, religion. And all that sort of disappeared today. And newspapers, of which you are a leading exponent, are not quite gone yet, but the importance of the newspaper, the importance of Time Magazine, which everybody read when I was growing up, and I don't know how big the readership is today...Talk about that and the importance of that in politics. Again, the difference between 1992 and today.
 
-We were just seeing the glimmers of this change in '92. We were starting to talk about what the impact of this new technological digital age was going to be. Nobody had quite figured it out. It was, I think for me, about four or five years later, the first time I went on Craigslist and saw that there were better classified ads and they were free. I said uh-oh, this is trouble. But in a way that fascinates me, what we're really experiencing right now is almost a return to the de Tocqueville age, and the 70 years or so after that or the century after that, when it was... Pretty inexpensive to start up your own newspaper, just as it's pretty inexpensive to start up your own website or news site today. Compared to the monopoly era that you and I grew up in, when there was maybe one or two newspapers in a town, a handful of television options. Now, there's just an explosion and it's infinite. And just as that has driven us into our niches, broken up our big community into small communities of interest and of belief, the same sort of thing happened in the 19th century. There would be 30 or 40 newspapers going at any given time in New York City. There was a newspaper targeted for every individual niche. And readers had to be more proactive, they had to be more educated to understand, okay, where is this news organization coming from? How do I screen that? How do I correct for that as I sort of educate myself on what's going on? 
+We were just seeing the `glimmers` of this change in '92. We were starting to talk about what the impact of this new technological digital age was going to be. Nobody had quite figured it out. It was, I think for me, about four or five years later, the first time I went on Craigslist and saw that there were better classified ads and they were free. I said uh-oh, this is trouble. But in a way that fascinates me, what we're really experiencing right now is almost a return to the de Tocqueville age, and the 70 years or so after that or the century after that, when it was... Pretty inexpensive to start up your own newspaper, just as it's pretty inexpensive to start up your own website or news site today. Compared to the monopoly era that you and I grew up in, when there was maybe one or two newspapers in a town, a handful of television options. Now, there's just an explosion and it's infinite. And just as that has driven us into our niches, broken up our big community into small communities of interest and of belief, the same sort of thing happened in the 19th century. There would be 30 or 40 newspapers going at any given time in New York City. There was a newspaper targeted for every individual niche. And readers had to be more proactive, they had to be more educated to understand, okay, where is this news organization coming from? How do I screen that? How do I correct for that as I sort of educate myself on what's going on? 
 
 In Triangle, which is about the Triangle Fire in 1911 and the consequences of that...But the importance of newspapers then was very great. But you're right, there were lots of niches that Pulitzer, World, and the Hearst paper... And you have the Jewish Daily Forward, you've got the socialist newspapers. You've got, as you said, something for every niche. On the other hand, the parties represented some things at the national level, in which you could identify with. So you were identifying with certain policies and whatnot. And today, the party structure itself seems to have fallen apart. 
 
