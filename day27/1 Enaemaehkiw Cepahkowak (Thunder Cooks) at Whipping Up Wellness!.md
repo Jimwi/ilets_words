@@ -9,7 +9,7 @@ vibrant      adj. 充满生机的，生气勃勃的；鲜艳的；醒目的；�
 
 WEBVTT Kind: captions Language: en 
 
-[ Music ] You know, how they tried some traditional Menominee recipes with us that inspired our manomaeh maskucihsak mesek meseqnaew napop or wild rice, bean, and turkey soup. As we started to create our recipe, we tried to incorporate traditional Menominee `ingredients`. 
+[ Music ] You know, how they tried some traditional `Menominee` recipes with us that inspired our manomaeh maskucihsak mesek meseqnaew napop or wild rice, bean, and turkey soup. As we started to create our recipe, we tried to incorporate traditional Menominee `ingredients`. 
 -  What we came up with was our creamy wild rice, bean, and turkey soup that will `tantalize` your taste buds with its savory flavor combinations. The `vibrantly` colored vegetables add visual appeal as well as texture `variation` to the `velvety` cream soup. 
 -  There isn’t anything about this I don’t like. It just kind of is a really good, hearty, like, give-your-belly-a-hug kind of soup. [laughs] It’s really good, and I don’t think anybody has stopped eating it. [laughter] Yeah, yeah. It’s really impressive. It’s really, really good. 
 -  I love the `incorporation` of the wild rice – the traditional food – into the soup. I think that’s really great. I also love the plates. Really pretty presentation. You guys did well with the use of black beans because it contrasts with the corn and the carrots and celery. 

@@ -15,13 +15,13 @@ bliss      n. 极乐；天赐的福
 venture    n. 风险项目，冒险事业；冒险旅行，冒险行动 v. 敢于去（未知或危险等地方）；冒险；小心地说，谨慎地做；敢说，大胆表示    
 immerse      
 superficial      
-clamor     n. 喧闹，叫嚷；大声的要求
-fright     n. 惊骇，恐怖；恐怖的经历；<旧>不整洁的人，奇怪、丑陋的东西
+clamor          n. 喧闹，叫嚷；大声的要求
+fright          n. 惊骇，恐怖；恐怖的经历；<旧>不整洁的人，奇怪、丑陋的东西
 utter    
-trample    vt. 践踏；蔑视，伤害
-puberty    n. 青春期；开花期
-averse     adj. 反对的；不愿意的
-intimidate   v. 恫吓，威胁
+trample         vt. 践踏；蔑视，伤害
+puberty         n. 青春期；开花期
+averse          adj. 反对的；不愿意的
+intimidate      v. 恫吓，威胁
 lament     n. 挽歌；恸哭；悲痛之情
 weary      adj. 疲倦的；厌烦的；令人厌烦的
 bruise     n. 青瘀，伤痕；（水果或蔬菜的）碰伤  
@@ -29,7 +29,7 @@ exacerbate    vt. 使加剧；使恶化；激怒
 striking     adj. 惊人的，异常的；妩媚动人的，标致的；罢工的；打击的
 benevolent   adj. 仁慈的，乐善好施的；（用于慈善机构名称）慈善的，救济的    
 speculate    v. 猜测，推测；投机
-petrify     vi. 石化；惊呆    
+petrify     vi. 石化；惊呆
 platitude   n. 陈词滥调；平凡；陈腐    
 confiscate   vt. 没收；充公；查抄
 ```
