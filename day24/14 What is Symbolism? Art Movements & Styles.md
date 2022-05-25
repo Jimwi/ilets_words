@@ -1,13 +1,13 @@
 https://www.youtube.com/watch?v=DSTiM4ibntE
-
+4:24
 ```
-spiritual  
-emotive    adj. 感情的；情绪的；表现感情的  
-anguish    n. 痛苦；苦恼
-tempt  
+spiritual       adj. 精神的，心灵的；宗教的；（人）高尚的，不为物欲所动的
+emotive         adj. 感情的；情绪的；表现感情的  
+anguish         n. 痛苦；苦恼
+tempt           v. 引诱，诱惑；怂恿，利诱；冒……的风险
 tempting   
 temptation  n. 引诱，诱惑；诱惑人的东西；（魔鬼对耶稣的）引诱；（魔鬼对耶稣的）引诱（the Temptation）
-affection      
+affection       n. 喜爱，关爱；爱恋，爱慕之情；精神状况，感情；疾患，病；影响
 spectator       观众; 旁观者; 参观者; 观察者;
 enchanting      adj. 迷人的；妩媚的
 synthetic       adj. 合成的，人造的；（感情，行动）不诚恳的，虚假的；（语言）综合型的；（命题）综合的  

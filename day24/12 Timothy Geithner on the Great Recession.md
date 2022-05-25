@@ -1,65 +1,64 @@
 https://www.youtube.com/watch?v=LRP2Vw9ix-s
-
+46:16
 
 Timothy Geithner on the Great Recession
 
 ```
 moral  
-discrete    adj. 离散的，不连续的
-interplay   n. 相互影响，相互作用
-assure      vt. 保证；担保；使确信；弄清楚
-dumb    
-spouse  
-odds  
-delegate  
-austere      adj. 严峻的；简朴的；苦行的；无装饰的
-overwhelming    
-imperative   adj. 必要的，不可避免的；紧急的；命令的，专横的；势在必行的；[语]祈使的
-pragmatic    adj. 实际的；实用主义的
-incentive    n. 动机；刺激  adj. 激励的；刺激的
-transition   n. 过渡，转变；（分子生物）转换；（乐）临时转调；（物理）跃迁，转变
-devastate    v. 毁坏，破坏；使极度震惊，使伤心欲绝
-outrage      n. 愤慨，愤怒；骇人听闻的事，暴行
-relentless   
-foresight    n. 先见之明；（枪的）前准星；前视      
-recede       vi. 后退；减弱
-irreconcilable     adj. 矛盾的；不能和解的；不能协调的
-premature  
-bailout      n. 紧急救助；跳伞  
-fiscal       adj. （政府）财政的；<美>财政年度的；<美>金融的
-fury 
-constrain  
-acute  
-articulate    vt. 清晰地发（音）；明确有力地表达；用关节连接；使相互连贯  
-affinity      n. 密切关系；吸引力；姻亲关系；类同
-manifest    
-inflict       v. 使遭受，使承受
-eloquent      adj. 雄辩的，口才流利的；传神的，明确表示的  
-exuberant    adj. 精力充沛的，热情洋溢的；兴高采烈的；繁茂的，茂盛的；充满生气的，鲜艳的；充满活力和想象力的
-indefinite   adj. 无限期的，期限不定的；模糊不清的，不明确的；（词，屈折变化，短语）不定的
-compelling  
-echo  
-compensation    
-consult  
-peril        n. 危险；冒险
-elaborate    adj. 复杂的，详尽的；精心制作的
-blunt        adj. 钝的，不锋利的；直言不讳的，说话生硬的  
-regime  
-calamity     n. 灾难；不幸事件        
-ambivalent   adj. 矛盾的；好恶相克的
-monetary     adj. 货币的，金融的；能用金钱衡量的  
-consequent  
-confidential  
-transitory   adj. 短暂的，暂时的；瞬息的  
-aggregate    n. 合计；集合体；总计；集料  adj. 聚合的；集合的；合计的
-accommodate  vt. 容纳；使适应；供应；调解
-consent      n. 许可，允许；同意，赞同
-disclose  
-assert      
+discrete            adj. 离散的，不连续的
+interplay           n. 相互影响，相互作用
+assure              vt. 保证；担保；使确信；弄清楚
+dumb                adj. 哑的，不能说话的；一时说不出话的，不肯开口的；<非正式>愚蠢的；（计算机终端）简易的
+spouse              n. 配偶
+odds                n. （事物发生的）可能性，机会；困难，不利条件；投注赔率；（力量、权力或资源上的）优势
+delegate            n. 代表；委员会成员
+austere             adj. 严峻的；简朴的；苦行的；无装饰的
+overwhelming        adj. 难以抗拒的，令人不知所措的；巨大的，压倒性的
+imperative          adj. 必要的，不可避免的；紧急的；命令的，专横的；势在必行的；[语]祈使的
+pragmatic           adj. 实际的；实用主义的
+incentive           n. 动机；刺激  adj. 激励的；刺激的
+transition          n. 过渡，转变；（分子生物）转换；（乐）临时转调；（物理）跃迁，转变
+devastate           v. 毁坏，破坏；使极度震惊，使伤心欲绝
+outrage             n. 愤慨，愤怒；骇人听闻的事，暴行
+relentless          adj. 坚韧的，不屈不挠的；残酷无情的，不留情面的；不停的，不间断的
+foresight           n. 先见之明；（枪的）前准星；前视      
+recede              vi. 后退；减弱
+irreconcilable      adj. 矛盾的；不能和解的；不能协调的
+premature           adj. 过早的，提早的；早产的；草率的，仓促的
+bailout             n. 紧急救助；跳伞  
+fiscal              adj. （政府）财政的；<美>财政年度的；<美>金融的
+fury                n. 暴怒，狂怒；（暴风雨或洪水的）猛烈，剧烈；激怒者；复仇三女神 （The Furies）
+constrain           v. 限制，约束；强迫，迫使
+acute               adj. 严重的，危险的；急性的，剧烈的；灵敏的；敏锐的，有洞察力的；锐角的；带尖音符的；（声音）高的，尖的
+articulate          vt. 清晰地发（音）；明确有力地表达；用关节连接；使相互连贯  
+affinity            n. 密切关系；吸引力；姻亲关系；类同
+manifest            v. 显示，表明；（鬼魂或神灵）显灵，出现；（病症）显现；把……列入货单
+inflict             v. 使遭受，使承受
+eloquent            adj. 雄辩的，口才流利的；传神的，明确表示的  
+exuberant           adj. 精力充沛的，热情洋溢的；兴高采烈的；繁茂的，茂盛的；充满生气的，鲜艳的；充满活力和想象力的
+indefinite          adj. 无限期的，期限不定的；模糊不清的，不明确的；（词，屈折变化，短语）不定的
+compelling          adj. 兴高采烈的，精神焕发的；喜气洋洋的，充满生气的；茂盛的，繁茂的；（在艺术风格上）充满活力和想像力的
+echo                n. 回声，回音，余音绕梁；重复，附和，共鸣；相似之处，再现；回声插入；（话语结构和内容的）重复；（桥牌）回声信号
+compensation        n. 赔偿金，补偿金；弥补，抵消；报酬，薪水
+consult             v. 咨询，请教；商量，商讨；查询，查阅；当顾问
+peril               n. 危险；冒险
+elaborate           adj. 复杂的，详尽的；精心制作的
+blunt               adj. 钝的，不锋利的；直言不讳的，说话生硬的  
+regime              n. （尤指独裁的）政府，政权；（机构、公司、经济等的）管理制度，组织方法；饮食起居制度，养生法
+calamity            n. 灾难；不幸事件        
+ambivalent          adj. 矛盾的；好恶相克的
+monetary            adj. 货币的，金融的；能用金钱衡量的  
+consequent          adj. 随之发生的，由此引起的；（河流，山谷）顺向的
+confidential        adj. 机密的，保密的；（言谈举止）神秘的，隐秘的；受信任的，委以机密的
+transitory          adj. 短暂的，暂时的；瞬息的  
+aggregate           n. 合计；集合体；总计；集料  adj. 聚合的；集合的；合计的
+accommodate         vt. 容纳；使适应；供应；调解
+consent             n. 许可，允许；同意，赞同
+disclose            v. 透露，公开；揭开，使显露
+assert              v. 坚称，断言；维护，坚持（权利或权威）；坚持自己的主张，表现坚定；生效，起作用
 ```
 
 WEBVTT Kind: captions Language: en 
-
 
 Ezra Klein: Why should we feel like we did a good job responding to the financial crisis despite the fact that today unemployment is still a whole lot higher than anyone would like it to be? 
 
@@ -71,15 +70,15 @@ Tim Geithner: It does. Yeah.
 
 Ezra Klein: Because people can name so much that happened out of the Great Depression though, Works Progress Administration, Social Security. I mean you can really just go down the line ... What was it called? The alphabet soup of responses. 
 
-Tim Geithner: We did 2 sets of things that are very different, not just from the Great Depression, than really what almost any country has done in the hundred years since. Or what Europe's done in the last 5 years. First thing we did was We used the full force of the central bank `monetary` policy and the fiscal authorities, stimulus, tax cuts, spending increases, as well as a set of financial programs to prevent a collapse. We used those in concert together. Typically, what you saw in the Great Depression is they're working against each other where you leave some of those tools unaddressed or they're hidden in the closet. Very unique what we did. Again, It was a little late the beginning, and it wasn't sustained as long as we would like, but we used that full force of things very dramatically. The fiscal stimulus, for example, was larger than what Roosevelt did in the Great Depression in relative terms. Even though it was a little over too quickly, it wasn't as large as we needed, so that was the first thing we did. which was use those tools very aggressively, in concert together. They were much more powerful together being used in concert, than they would have been if they had been used just individually. Simple reason, if your banking system's broken, monetary policy doesn't really work. You can't get the oxygen where it's needed. Second thing we did was to do a very aggressive restructuring, recapitalization of the financial system. We cleaned out the worst parts of it, and we left the core of the system with much more capital against future losses, and that meant the financial system was able to give more oxygen to the economy as it recovered; it wasn't a huge drag on the economy. The tools we used to do that and backstop the commercial paper markets, the credit markets for the average consumer, they were very innovative, very creative, and their scale remarkable. We backstopped indirectly, directly about 30 trillion dollars in financial assets. They're very complicated mix of programs. That had never been attempted or done. It was the scale of that response that made it possible for us to get the economy growing again within 6 months, really remarkably quickly. It made it possible for us to return to the taxpayer a positive return on the financial programs. Remember, people thought even in early '09, that we would lose 2 trillion dollars. If you just look at the returns today, expected returns, the taxpayer's going to earn ... We didn't do it for this purpose. They're going to earn between a hundred and two hundred billion dollars. In effect, we made the financial system pay for the support we gave them. We didn't do it for them. We didn't do it for the banks. We did it to protect the Main Street from a failing financial system. 
+Tim Geithner: We did 2 sets of things that are very different, not just from the Great Depression, than really what almost any country has done in the hundred years since. Or what Europe's done in the last 5 years. First thing we did was We used the full force of the central bank `monetary` policy and the fiscal authorities, stimulus, tax cuts, spending increases, as well as a set of financial programs to prevent a collapse. We used those in concert together. Typically, what you saw in the Great Depression is they're working against each other where you leave some of those tools unaddressed or they're hidden in the closet. Very unique what we did. Again, It was a little late the beginning, and it wasn't sustained as long as we would like, but we used that full force of things very `dramatically`. The fiscal stimulus, for example, was larger than what Roosevelt did in the Great Depression in relative terms. Even though it was a little over too quickly, it wasn't as large as we needed, so that was the first thing we did. which was use those tools very aggressively, in concert together. They were much more powerful together being used in concert, than they would have been if they had been used just individually. Simple reason, if your banking system's broken, monetary policy doesn't really work. You can't get the oxygen where it's needed. Second thing we did was to do a very aggressive restructuring, recapitalization of the financial system. We cleaned out the worst parts of it, and we left the core of the system with much more capital against future losses, and that meant the financial system was able to give more oxygen to the economy as it recovered; it wasn't a huge drag on the economy. The tools we used to do that and backstop the commercial paper markets, the credit markets for the average consumer, they were very innovative, very creative, and their scale remarkable. We backstopped indirectly, directly about 30 trillion dollars in financial assets. They're very complicated mix of programs. That had never been attempted or done. It was the scale of that response that made it possible for us to get the economy growing again within 6 months, really remarkably quickly. It made it possible for us to return to the taxpayer a positive return on the financial programs. Remember, people thought even in early '09, that we would lose 2 trillion dollars. If you just look at the returns today, expected returns, the taxpayer's going to earn ... We didn't do it for this purpose. They're going to earn between a hundred and two hundred billion dollars. In effect, we made the financial system pay for the support we gave them. We didn't do it for them. We didn't do it for the banks. We did it to protect the Main Street from a failing financial system. 
 
-Ezra Klein: You talk about in the book, the paradox of financial crises, and it goes to this point exactly. When people I think look back on it, and they think about backstopping these 30 trillion dollar markets, when they think about bailing out AIG, there's a feeling that, one, it was really bad. Even if it could've been worse, it was really bad. 
+Ezra Klein: You talk about in the book, the `paradox` of financial crises, and it goes to this point exactly. When people I think look back on it, and they think about backstopping these 30 trillion dollar markets, when they think about bailing out AIG, there's a feeling that, one, it was really bad. Even if it could've been worse, it was really bad. 
 
 Tim Geithner: It was terrible. 
 
 Ezra Klein: A lot of these guys got away. Part of what you're saying here is that restraining the impulse to go in and punish was part of what permitted a speedy recovery than what we've seen in other countries and what we've seen in other times. Why would that be? Why wouldn't disciplining the market in a more aggressive way, disciplining, making an example out of people, marching them out in cuffs, help at least set a lesson, bring confidence back to folks, that we're setting the rules down and this won't happen again? 
 
-Tim Geithner: That's the core question. It's what I try to explain, write about it in the book. It's the central paradox of panics. In most crises, in most states of the world, the basic instinct you described is the necessary right instinct. You want people to fail if they took mistakes. You want them accountable for doing dumb things. You want them to bear the consequence of those choices. That's the natural response, and it's the right response. In a panic though, in the classic financial panic, where the risk of complete collapse of the financial system is present or at the edge of the abyss, then you have to suspend that impulse, not indefinitely, but just temporarily and make sure you're focusing all your attention on this simple moral imperative, and it's a moral imperative, of keeping the lights on in the financial system. Because if you let the system collapse, the damage to the average person is catastrophic. It doesn't mean you should suspend that sense of justice and the sense of outrage. It's just you have to figure out ... You put out the fire first, and then you got to figure out how to, not just create stronger set of rules, but hold people accountable for what happened. In our system, what we tried to do was put out the fires. We protected people from even more damage. You're right. There's still a lot damage, but then try to move very quickly to put in place a stronger enforcement response and to put in place tougher set of rules over the system going forward. 
+Tim Geithner: That's the core question. It's what I try to explain, write about it in the book. It's the central paradox of panics. In most crises, in most states of the world, the basic instinct you described is the necessary right instinct. You want people to fail if they took mistakes. You want them accountable for doing dumb things. You want them to bear the consequence of those choices. That's the natural response, and it's the right response. In a panic though, in the classic financial panic, where the risk of complete collapse of the financial system is present or at the edge of the abyss, then you have to suspend that impulse, not indefinitely, but just temporarily and make sure you're focusing all your attention on this simple moral imperative, and it's a moral imperative, of keeping the lights on in the financial system. Because if you let the system collapse, the damage to the average person is `catastrophic`. It doesn't mean you should suspend that sense of justice and the sense of outrage. It's just you have to figure out ... You put out the fire first, and then you got to figure out how to, not just create stronger set of rules, but hold people accountable for what happened. In our system, what we tried to do was put out the fires. We protected people from even more damage. You're right. There's still a lot damage, but then try to move very quickly to put in place a stronger enforcement response and `to put in place tougher set of rules` over the system going forward. 
 
 Ezra Klein: Let me ask you a broad question about that. When you were going through it, even just looking back now, did you feel that there were people who in a perfect world should be held accountable, or did you feel this was a systemic period of overconfidence, and it wasn't that individuals were doing things that they should be, even in a perfect world, punished for, it's just that everything got a little bit out of hand? 
 
@@ -95,11 +94,11 @@ Tim Geithner: I agree with that.
 
 Ezra Klein: We have decided to live with that. Why do you think that is? Why do you think that the sort of urgent collapses on Wall Street did ultimately force action, whereas at a certain point we decided, if these millions of people just become long term unemployed, that is a cost that we'll live with? 
 
-Tim Geithner: I think in the midst of the darkest days of the fall of '08, there was enough fear and panic about the cost of the average American that congress felt they had to respond. They didn't really know what it was going to take, but they really had to. There's no alternate at that point. That wasn't because of the power of the institutions in Wall Street. It's because of a widespread recognition that the value of America savings had just fallen by a level 5 times greater than what started the Great Depression. It was a overwhelming existential imperative at that time. People have written over time that our system is pretty good at crises. It's really pretty good, over time facing existential threat, marshaling the unique strengths of the United States to deploy the type of response you need. Then, what happened? What happened is that the basic divisiveness of the American political system, the loss of confidence in government, the scale of the political opposition to government, the scale of the skepticism about deficits in that context took over, and there was a bit of premature austerity fever. That saps the will and the strength to do a bunch of things that would have helped make the recovery stronger. We were growing, but growing at pace that was too slow to bring unemployment down as fast as we could have in that context. I guess you could say it was what history has shown about the United States, which is in the acute extremes, when you're at the edge of the abyss, our system; again, it's sometimes messy, responded pretty well. Remember, that was a very dangerous moment because we were at the midst of a political transition across parties, no strong governing majority in congress, a very dangerous moment. Yet at that moment, you had Democrats and Republicans come together and say, "We're going to do what it takes," in that context. That's a good thing for the country. It's not enough though because a lot of the challenges we still face as a country, they're going to require compromise and accommodation and legislation that's going to require majorities that include Democrats and Republicans. Unless we rebuild that capacity, it's going to harder for us to make a bigger dent on some of these long term challenges. 
+Tim Geithner: I think in the midst of the darkest days of the fall of '08, there was enough fear and panic about the cost of the average American that congress felt they had to respond. They didn't really know what it was going to take, but they really had to. There's no alternate at that point. That wasn't because of the power of the institutions in Wall Street. It's because of a widespread recognition that the value of America savings had just fallen by a level 5 times greater than what started the Great Depression. It was a overwhelming existential imperative at that time. People have written over time that our system is pretty good at crises. It's really pretty good, over time facing existential threat, marshaling the unique strengths of the United States to deploy the type of response you need. Then, what happened? What happened is that the basic `divisiveness` of the American political system, the loss of confidence in government, the scale of the political opposition to government, the scale of the skepticism about deficits in that context took over, and there was a bit of premature austerity fever. That `saps` the will and the strength to do a bunch of things that would have helped make the recovery stronger. We were growing, but growing at pace that was too slow to bring unemployment down as fast as we could have in that context. I guess you could say it was what history has shown about the United States, which is in the acute extremes, when you're at the edge of the `abyss`, our system; again, it's sometimes messy, responded pretty well. Remember, that was a very dangerous moment because we were at the midst of a political transition across parties, no strong governing majority in congress, a very dangerous moment. Yet at that moment, you had Democrats and Republicans come together and say, "We're going to do what it takes," in that context. That's a good thing for the country. It's not enough though because a lot of the challenges we still face as a country, they're going to require compromise and accommodation and legislation that's going to require majorities that include Democrats and Republicans. Unless we rebuild that capacity, it's going to harder for us to make a bigger dent on some of these long term challenges. 
 
 Ezra Klein: How different was dealing with Republicans in the House and the Senate behind closed doors, versus what it was like in public at a hearing or even non-direct negotiations with just the two parties kind of coming to their positions and articulating them to the public? 
 
-Tim Geithner: It's very different worlds. The world that most Americans see is the world of extreme, adolescent political theater. When you're in a room, and you're trying to solve a problem; you're working through something. It's a sort of more encouraging thing about those individuals on the Hill and their willingness to try and think about problems. Ultimately, what happens though is you leave the room, and they go back and try to figure out, can they get the votes for something in their party? Most of things that the country needs today, they're pretty divisive. 
+Tim Geithner: It's very different worlds. The world that most Americans see is the world of extreme, adolescent political theater. When you're in a room, and you're trying to solve a problem; you're working through something. It's a sort of more encouraging thing about those individuals on the Hill and their willingness to try and think about problems. `Ultimately`, what happens though is you leave the room, and they go back and try to figure out, can they get the votes for something in their party? Most of things that the country needs today, they're pretty divisive. 
 
 Ezra Klein: As a reporter, one of the things I found over and again, is that all these processes begin in a room, to some degree. When they begin, you'll call the people who are in the room, and these are the folks with the information. They'll say, "God, that was really encouraging. I really think we might be able to get something done here." With every step people takes out of the room, and eventually you have to go out of the room, it becomes more and more remote, and typically it ultimately, completely falls apart. It often felt to me that the room doesn't mislead anyone in Washington so much as it misleads the people in it -- because the feeling of working things out on an individual level, it feels so normal, and as you say, it's more adult. Then, when you leave that room, the basic dynamics of American politics at this moment in time with the parties as polarized as they are take over. All of a sudden, how goodhearted the individuals are, it doesn't matter much that anymore. 
 
@@ -117,11 +116,11 @@ Ezra Klein: In terms of powers of Fed it feels that it has, you've got a lot of 
 
 Tim Geithner: Yeah. I think we're in violent agreement. It would be better for the country, if it were more active ... If you had a more active fiscal powers deployed to address these things like high levels of long term unemployment and growth that's not as fast as it should be. I completely agree with you. Just one qualification since you raised it. When the Fed lowers interest rates or lowers long term interest rates, when that works, it works in part by raising the value of people's savings and lowering the price of their mortgage, how much they have to pay for their mortgage in that context. When that works, it works because it changes decisions people makes about how much they spend and how much they borrow because it improves the rate of income growth of the average person in that context. I'll say it a little differently. It's just that the power of that instrument is inherently limited, and it can't compensate for the failure to use those other things that effectively. You're right. There's that moment of peril when we use those 2 tools and the financial programs in concert with pretty enormous force. Maybe in some sense, the cost of what happened in that context was the constraints of the political system reasserted themselves kind of quickly, and we lost the power to do enough fiscal. 
 
-Ezra Klein: Well, one of the weird dramas of most of last 5 years on Capitol Hill seemed to me to be Ben Bernanke as Federal Reserve Chair, a George W. Bush appointee, going up and begging Congress to use the money he was giving them ... I mean you talked about interest rates a second ago. It always seemed to me that Ben Bernanke had a really big housing plan, which was, "I'm going to bring interest rates down to almost nothing. You guys need to help everybody in the county refinance their mortgages." There was plan for that that came out from the Obama administration, and it never went anywhere in Congress at all. The Fed did take the hard part of that tool and put it on the table, but the next step that had to be taken, which is it actually pushed the banks and make it simpler through Fannie and Freddie and other things, for people to go and use that money- 
+Ezra Klein: Well, one of the weird dramas of most of last 5 years on Capitol Hill seemed to me to be Ben Bernanke as Federal Reserve Chair, a George W. Bush appointee, going up and begging Congress to use the money he was giving them ... I mean you talked about interest rates a second ago. It always seemed to me that Ben Bernanke had a really big housing plan, which was, "I'm going to bring interest rates down to almost nothing. You guys need to help everybody in the county refinance their mortgages." There was plan for that that came out from the Obama administration, and it never went anywhere in Congress at all. The Fed did take the hard part of that tool and `put it on the table`, but the next step that had to be taken, which is it actually pushed the banks and make it simpler through Fannie and Freddie and other things, for people to go and use that money- 
 
 Tim Geithner: It's a little better than what you said though. Something north of 20 million Americans refinanced in the crisis. About a third of those I think were directly things that were supported through our programs through Fannie and Freddie. The rest of it was just the natural fact that interest rates came down and so was economic for people to refinance. Now, we had a bunch of proposals we gave Congress for expanding the reach of those things. Again, it would've been better if Congress acted on those things. So I guess I'm agreeing with you again. 
 
-Ezra Klein: Let's talk about those housing programs for a second. When I talk to folks both inside the administration and out, the part of the crisis response, there is the most either ambivalence or anger over- 
+Ezra Klein: Let's talk about those housing programs for a second. When I talk to folks both inside the administration and out, the part of the crisis response, there is the most either `ambivalence` or anger over- 
 
 Tim Geithner: -- or frustration -- 
 
@@ -129,7 +128,7 @@ Ezra Klein: Is the housing side.
 
 Tim Geithner: Yeah. Absolutely. 
 
-Ezra Klein: I mean there are a couple of dimensions of this, but 2 of the main ones are, one, that there was money sitting in administration programs, sitting in treasury essentially that was not used, and they could've been used theoretically with executive action. 
+Ezra Klein: I mean there are a couple of dimensions of this, but two of the main ones are, one, that there was money sitting in administration programs, sitting in treasury essentially that was not used, and they could've been used theoretically with executive action. 
 
 Tim Geithner: Can I just respond to that piece? 
 
@@ -163,7 +162,7 @@ Tim Geithner: It was the early-
 
 Ezra Klein: I do not remember the time when you were in college- 
 
-Tim Geithner: You were born. You were alive. It was a time when there's the early stage of the conservative movement among college campuses, and Dartmouth was one of the `epicenters` of that movement. We see the echoes of that today across the political system. There was a group of conservative students at that point that started a newspaper called The Dartmouth Review. They published in their newspaper a confidential list of members of the Lesbian Gay Student Alliance and including a bunch of people who hadn't come out to their friends or their parents. It was devastating to them. Did it without their consent. I ran into them in a line at the dining hall or one of the café's and said what you quoted. 
+Tim Geithner: You were born. You were alive. It was a time when there's the early stage of the conservative movement among college campuses, and Dartmouth was one of the `epicenters` of that movement. We see the echoes of that today across the political system. There was a group of conservative students at that point that started a newspaper called The Dartmouth Review. They published in their newspaper a confidential list of members of the Lesbian Gay Student Alliance and including a bunch of people who hadn't come out to their friends or their parents. It was devastating to them. Did it without their `consent`. I ran into them in a line at the dining hall or one of the café's and said what you quoted. 
 
 Ezra Klein: What did he say in response? 
 
@@ -179,7 +178,7 @@ Tim Geithner: He did. I was surprised by that too. Actually, I wasn't that surpr
 
 Ezra Klein: You weren't able to win that argument? 
 
-Tim Geithner: I didn't really try to talk him out of him. First of all, he has his convictions. I was doing my thing. I didn't really think it was job to try and change his mind. 
+Tim Geithner: I didn't really try to talk him out of him. First of all, he has his `convictions`. I was doing my thing. I didn't really think it was job to try and change his mind. 
 
 Ezra Klein: One of the things that comes up a lot in the book, and I was surprised because the book is in a lot ways was actually more personal than I would have thought, and primarily in this way; there's a lot of guilt in the book about how you were as a husband and as a father during the years you were in Treasury. This is not something that I ever heard you express before publicly, but it recurs throughout the length of the book. I'd be curious to just hear you say a little bit more about that, about the interplay between, on the one hand trying to be in a position where it's public, and it's incredibly important, what you do affects hundreds of millions and arguably if you take the global view, even more than that people, and then also trying to be a human being on the other side of it. 
 
@@ -195,7 +194,7 @@ Tim Geithner: That balance?
 
 Ezra Klein: Yeah. 
 
-Tim Geithner: I think it's harder on any woman. I do think it is. Of course, lots of people find their way through this. It depends a little bit on the choices their spouse makes in their work. 
+Tim Geithner: I think it's harder on any woman. I do think it is. Of course, lots of people find their way through this. It depends a little bit on the choices their `spouse` makes in their work. 
 
 Ezra Klein: When you left Treasury, which wasn't that long ago, how long have you been out? 
 
@@ -215,7 +214,7 @@ Tim Geithner: That's a good question. I'm not sure I can speak to the other piec
 
 Ezra Klein: Yeah. Please. 
 
-Tim Geithner: Then, I can maybe talk about that. I had this great privilege. I spent all my life doing this one thing, but I couldn't do it forever. I needed to something new, and I wanted a different kind of challenge. I was very worried about this perception, and I thought about it quite a bit. I did not want to go work for a firm that we had regulated or that we had rescued. I tried to be as remote from that as I could. I was very careful in trying to make sure I was working with a group of people that I thought were very ethical, and they were doing something I thought was valuable. I feel very lucky in that basic choice. Now, on your broader question, I agree with you about the perception. I think it's a very damaging perception ... The typical thing is people who go run Treasury, will go run senior parts of Treasury, understandably people look for people with financial experience. That's a good thing. It's not a bad thing because you want people who working on the side of the American people, who have the knowledge to be only good decisions about how to protect their interests. That does require experience. Now, a lot of people think that experience is tainted, and it's complicating in that sense. I think you're probably better with it than without it. It's that reality that creates most of this impression of people when they leave going back into finance. Now you cited some examples of people who didn't come from that in that context. Even the 2 you cited had worked in that area before, but that's the typical thing. There's nothing wrong with that. You just want to make sure you run a set of protections so that you eliminate completely the risk or the perception of risk that that experience affects people's judgments when they're in office. Our system has very good protections against that. 
+Tim Geithner: Then, I can maybe talk about that. I had this great privilege. I spent all my life doing this one thing, but I couldn't do it forever. I needed to something new, and I wanted a different kind of challenge. I was very worried about this perception, and I thought about it quite a bit. I did not want to go work for a firm that we had regulated or that we had rescued. I tried to be as remote from that as I could. I was very careful in trying to make sure I was working with a group of people that I thought were very `ethical`, and they were doing something I thought was valuable. I feel very lucky in that basic choice. Now, on your broader question, I agree with you about the perception. I think it's a very damaging perception ... The typical thing is people who go run Treasury, will go run senior parts of Treasury, understandably people look for people with financial experience. That's a good thing. It's not a bad thing because you want people who working on the side of the American people, who have the knowledge to be only good decisions about how to protect their interests. That does require experience. Now, a lot of people think that experience is `tainted`, and it's complicating in that sense. I think you're probably better with it than without it. It's that reality that creates most of this impression of people when they leave going back into finance. Now you cited some examples of people who didn't come from that in that context. Even the 2 you cited had worked in that area before, but that's the typical thing. There's nothing wrong with that. You just want to make sure you run a set of protections so that you eliminate completely the risk or the perception of risk that that experience affects people's judgments when they're in office. Our system has very good protections against that. 
 
 Ezra Klein: What are the protections there that should make people confident? It is a I think a difficult thing to believe, that folks who have come from the world of finance, will not in a very natural, very human, very sort of deep way have a particular affinity towards the arguments being made by the people they liked and knew. I mean humans have a tendency to trust more things that come from trusted sources than from outside. I take the point about the expertise, but what are the protections that make you confident that that isn't a problem? 
 
