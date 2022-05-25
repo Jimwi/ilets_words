@@ -3,10 +3,10 @@ https://www.youtube.com/watch?v=eTYsIePy5zg
 4:57
 
 ```
-counteract  
-spherical    
-distortion    
-coordinate  
+counteract          v. 抵制，抵消，中和
+spherical           adj. 球形的，球状的；（与）球体（有关）的；在球内（或球面上）形成的；天体的
+distortion          n. 歪曲，曲解；变形，失真
+coordinate          v. 协调，配合；使身体协调；（使颜色、款式、风格等）搭配，配套；给 （原子或分子）配位，与……形成共价键
 ```
 
 Why every world map is wrong - Kayla Wolf 

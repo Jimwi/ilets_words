@@ -12,8 +12,8 @@ inhibit      v. 抑制，约束；使拘束，使尴尬；降低（酶等）的�
 compose      v. 组成，构成；作曲；撰写（信、诗或演讲稿）；使镇静，使平静；为（照片、图像）构图；排版，排稿
 greasy       adj. 油腻的；含脂肪多的；谄媚的
 voracious    adj. 贪婪的；贪吃的；狼吞虎咽的
-outward      
-consequent    
+outward      adj. 外表的，表面的；（特定方面）可见的，外部的；朝外的，向外的；（旅程）往外地的，外出的
+consequent   adj. 随之发生的，由此引起的；（河流，山谷）顺向的
 proliferate  vi. 增殖；扩散；激增
 ```
 
