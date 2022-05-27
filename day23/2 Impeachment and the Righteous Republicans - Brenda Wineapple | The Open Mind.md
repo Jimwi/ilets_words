@@ -3,44 +3,44 @@ https://www.youtube.com/watch?v=0FN8YhXCSWc
 28:45
 
 ```
-moral 
-assassin 
-fracture 
-solidify 
-overwhelming 
-acclaim 
-pragmatic 
-entrust v. 委托，交托 
-attorney 
-dispute n. 争论，辩论，纠纷
-mitigate vt. 使缓和，使减轻 
-confederacy n. 联盟；联邦；私党
-lavish adj. 奢侈的，盛大的；慷慨的，大方的
-fascinate 
-hail n. 冰雹；致敬；招呼；（雹子般的）一阵 vt. （尤指在报纸等上）称赞；致敬；招呼（出租车或公交车停下）；向……欢呼 
-sanction 
-mandate 
-forge 
-transpire vi. 发生；蒸发；泄露
-stipulate vt. 规定；保证 
-impede vt. 阻碍；妨碍；阻止
-oath n. 誓言，誓约；（在法庭上的）誓词；诅咒，咒骂
-enfranchise vt. 给予选举权；给予自治权；解放，释放
-herald v. 预示……的来临；宣布，宣传；热烈欢迎；公开称赞
-conceive 
-repatriate v. 遣返
-pacify vt. 使平静；安慰；平定
-vehement adj. 激烈的，猛烈的；热烈的
-striking 
-obstruct 
-tardy adj. 缓慢的，迟缓的；迟到的
-constitute 
-aggregate n. 合计；集合体；总计；集料
-impeach vt. 弹劾；归咎；怀疑
-decisive 
-vantage n. 优势；有利情况；有利地位
-confiscate vt. 没收；充公；查抄
-composite 
+moral           n. 道德准则（标准）；寓意，道德上的教训
+assassin        n. 暗杀者，刺客
+fracture        n. 破裂，断裂；骨折；（尤指岩层的）裂缝，裂痕；（语音）元音割裂；由单元音割裂成的复合元音
+solidify        v. （使）凝固，变硬；（使）变可靠，（使）变稳固
+overwhelming    adj. 难以抗拒的，令人不知所措的；巨大的，压倒性的
+acclaim         v. 赞扬，称赞，为……喝彩
+pragmatic       adj. 讲求实际的，务实的；实用主义的；（语言学）语用的
+entrust         v. 委托，交托 
+attorney        n. 律师；代理人
+dispute         n. 争论，辩论，纠纷
+mitigate        vt. 使缓和，使减轻 
+confederacy     n. 联盟；联邦；私党
+lavish          adj. 奢侈的，盛大的；慷慨的，大方的
+fascinate       v. <旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹；深深吸引，迷住
+hail            n. 冰雹；致敬；招呼；（雹子般的）一阵 vt. （尤指在报纸等上）称赞；致敬；招呼（出租车或公交车停下）；向……欢呼 
+sanction        n. 制裁；处罚，惩罚；（正式）许可，批准；<史>（尤指基督教会的）法令，法律；（伦理学）约束力；支持，鼓励
+mandate         n. 授权，委托；任期；命令，指令；托管权，委任统治权；账户代理书面委托
+forge           v. 形成，缔造；伪造，假冒；稳步前进；锻造；伪装，假冒
+transpire       vi. 发生；蒸发；泄露
+stipulate       vt. 规定；保证 
+impede          vt. 阻碍；妨碍；阻止
+oath            n. 誓言，誓约；（在法庭上的）誓词；诅咒，咒骂
+enfranchise     vt. 给予选举权；给予自治权；解放，释放
+herald          v. 预示……的来临；宣布，宣传；热烈欢迎；公开称赞
+conceive        v. 构思，设想；使受孕，怀孕
+repatriate      v. 遣返
+pacify          vt. 使平静；安慰；平定
+vehement        adj. 激烈的，猛烈的；热烈的
+striking        adj. 惊人的，异常的；妩媚动人的，标致的；罢工的；打击的
+obstruct        v. 堵塞，阻塞（洞口、通道、道路等）；遮住，挡住（视线）；阻碍，妨碍
+tardy           adj. 缓慢的，迟缓的；迟到的
+constitute      v. 组成，构成；是，被视为；成立，设立；任命
+aggregate       n. 合计；集合体；总计；集料
+impeach         vt. 弹劾；归咎；怀疑
+decisive        adj. 果断的，决断的；决定性的，关键的；确定的，明确的
+vantage         n. 优势；有利情况；有利地位
+confiscate      vt. 没收；充公；查抄
+composite       adj. 合成的，复合的；（火车车厢）综合的；菊科的；（柱式）混合的
 ```
 
 Impeachment and the `Righteous` Republicans - Brenda Wineapple | The Open Mind
@@ -51,9 +51,9 @@ HEFFNER: I'm Alexander Heffner, your host on The Open Mind. The subject today: i
 
 WINEAPPLE: My pleasure. Thank you. 
 
-HEFFNER: And as I said, the opportunity to `lavish` praise on a deserving American unsung hero, Charles Sumner, which we'll get to, but I want to start it here. Why did Lincoln think that he needed to pacify his real inner motivation to end slavery and preserve the union, in selecting Andrew Johnson? It seemed to me that that smoke filled room decision was one that the nation would regret, but he ends up winning reelection in a landslide and the states that had succeeded were not part of the electoral math caculation. So why did he think he had to in some way nullify his stronger emancipation stance by having, yes, a unionist, but a pro-slavery unionist in Andrew Johnson on the ticket? 
+HEFFNER: And as I said, the opportunity to `lavish` praise on a deserving American unsung hero, Charles Sumner, which we'll get to, but I want to start it here. Why did Lincoln think that he needed to `pacify` his real inner motivation to end slavery and preserve the union, in selecting Andrew Johnson? It seemed to me that that smoke filled room decision was one that the nation would regret, but he ends up winning reelection in a landslide and the states that had succeeded were not part of the electoral math caculation. So why did he think he had to in some way nullify his stronger `emancipation` stance by having, yes, a unionist, but a pro-slavery unionist in Andrew Johnson on the ticket? 
 
-WINEAPPLE: Well, first of all, I'm not sure that, by putting Johnson on the ticket, Lincoln was thinking that it was nullifying his move toward, you know, `solidifying` `emancipation`. I think the easiest, simplest way to look at this is Lincoln wanted to win in 1864 and he wasn't sure he was going to, he was running against a very popular war Democrat George McClellan in the first place, the major, you know, major victories for the union hadn't happened and although the seceded states weren't voting, there was the matter of the border states. And because Andrew Johnson was the military governor of Tennessee as well as a Democrat, as a southerner, it looked very good to, is what we call today balancing the ticket. So I think there were many, many reasons. And Lincoln, I think it was savvy enough to figure one that he could handled Johnson and two, remember vice presidents were more or less nullities. 
+WINEAPPLE: Well, first of all, I'm not sure that, by putting Johnson on the ticket, Lincoln was thinking that it was `nullifying` his move toward, you know, `solidifying` `emancipation`. I think the easiest, simplest way to look at this is Lincoln wanted to win in 1864 and he wasn't sure he was going to, he was running against a very popular war Democrat George McClellan in the first place, the major, you know, major victories for the union hadn't happened and although the seceded states weren't voting, there was the matter of the border states. And because Andrew Johnson was the military governor of Tennessee as well as a Democrat, as a southerner, it looked very good to, is what we call today balancing the ticket. So I think there were many, many reasons. And Lincoln, I think it was savvy enough to figure one that he could handled Johnson and two, remember vice presidents were more or less `nullities`. 
 
 HEFFNER: Well, that's what I want to ask you. Because it was the first ever assassination there had been: an assassination attempt on Andrew Jackson. Did it not cross his mind that this might happen? I mean, now if you run for president and serve in that office, it must cross your mind. 
 
@@ -65,11 +65,11 @@ WINEAPPLE: History is different in that particular way, and also one of the sali
 
 HEFFNER: With itself -- 
 
-WINEAPPLE: With itself, yeah and today we talk about how divided the country is and how partisan the country is and how split the country has. But it's metaphorical. I mean, it's true, but it's metaphorical. In 1864, the country was split, you know, the 11 states that seceded and they were calling themselves the Confederate States of America and they believed that they were a different country, and wanted a different constitution. 
+WINEAPPLE: With itself, yeah and today we talk about how divided the country is and how partisan the country is and how split the country has. But it's metaphorical. I mean, it's true, but it's `metaphorical`. In 1864, the country was split, you know, the 11 states that seceded and they were calling themselves the Confederate States of America and they believed that they were a different country, and wanted a different constitution. 
 
 HEFFNER: But why did Lincoln think that the war Democrats would be competitive in this environment? 
 
-WINEAPPLE: Well, George McClellan was a very popular leader. He was a very popular leader. And it wasn't as if he was talking about necessarily he may have done this, you know, peace with the, with the south. But he was like many of the Democrats at that particular time; they were very nervous about two things. One was the way Lincoln was suspending things like `Habeas Corpus`, you know, the wartime powers that he was arrogating to himself. So the Democrats, and they're not the same as the Democrats today, but the Democrats then were in favor of less presidential control, less executive power. And they felt that Lincoln was abusing that particular power. And at that particular time, it wasn't clear that that the north was winning. Plus of course and finally what you had mentioned, which was the issue of abolition and emancipation, and of course the Democrats were not, that was not a front burner issue for them. 
+WINEAPPLE: Well, George McClellan was a very popular leader. He was a very popular leader. And it wasn't as if he was talking about necessarily he may have done this, you know, peace with the, with the south. But he was like many of the Democrats at that particular time; they were very nervous about two things. One was the way Lincoln was suspending things like `Habeas Corpus`, you know, the wartime powers that he was arrogating to himself. So the Democrats, and they're not the same as the Democrats today, but the Democrats then were in favor of less presidential control, less executive power. And they felt that Lincoln was abusing that particular power. And at that particular time, it wasn't clear that that the north was winning. Plus of course and finally what you had mentioned, which was the issue of `abolition` and `emancipation`, and of course the Democrats were not, that was not a front burner issue for them. 
 
 HEFFNER: If you have a moral stance, like the Radical Republicans, and I didn't read radical as a student -- 
 
@@ -85,7 +85,7 @@ WINEAPPLE: You have to remember one thing and it's a matter of dispute, whether,
 
 HEFFNER: Right. 
 
-WINEAPPLE: So to assume that Lincoln was involved is itself a kind of jump. I make that jump. You make that jump because I personally feel there's no way that Lincoln who was the consummate political strategist would just allow anybody to be pushed in the smoke filled room. Having said that, I think Lincoln again, and I sort of repeat, but I think he was so interested in prosecuting the war at this particular time and in terms of emancipation, abolition, what becomes the 13th Amendment, he, you know, was Frederick Douglass famously said, you know, from the vantage point of the righteous republicans, he seemed tardy and slow but from the vantage point of history, he seemed, you know, very quick in the vantage point of everyone else. So I think that he really wasn't taking Johnson and the vice presidency into his calculus at this particular time. 
+WINEAPPLE: So to assume that Lincoln was involved is itself a kind of jump. I make that jump. You make that jump because I personally feel there's no way that Lincoln who was the consummate political strategist would just allow anybody to be pushed in the smoke filled room. Having said that, I think Lincoln again, and I sort of repeat, but I think he was so interested in `prosecuting` the war at this particular time and in terms of emancipation, abolition, what becomes the 13th Amendment, he, you know, was Frederick Douglass famously said, you know, from the vantage point of the righteous republicans, he seemed tardy and slow but from the vantage point of history, he seemed, you know, very quick in the vantage point of everyone else. So I think that he really wasn't taking Johnson and the vice presidency into his calculus at this particular time. 
 
 HEFFNER: And he wasn't considering his moral view of the universe -- 
 
@@ -101,7 +101,7 @@ WINEAPPLE: And I think he was very confident about himself. That's another issue
 
 HEFFNER: So Johnson comes in and folks like Sumner and Stevens are not at initially so worried and they're not `petrified`. 
 
-WINEAPPLE: Not at all. I mean, not at all. Johnson during the war, first of all, as I said, Johnson was the first, the first, the first and only southerner, southern senator in the United States Congress to stand up against secession. So he was hailed in the north, he was `reviled` in the south. In the south he was considered a traitor, but he himself considered anyone who wanted to secede as traitors themselves and he constantly said, you know, that traitors must be punished. And that's the so-called righteous or radical Republican point of view. So that's very, very important. The second thing is, you mentioned the, the president had been killed. The war was basically, you know, over, but not quite, nobody knew what was going to happen. People wanted to believe that this particular vice president, whom presumably Lincoln chose, would then continue on the path that that one hoped Lincoln was on. It's not really sure where he was at that particular point. So they were willing to cut him slack. They were willing to say this guy has possibilities, more than possibilities, that he was so `vehement` about wanting to punish traitors and you know, in saying that the union must be preserved, that they were of course going to feel that he was on their side fully, you know, and cooperatively. So they wanted, they were hopeful. Why not? And because, and it was interesting too, that there was a very peaceful transfer of power. It was within hours of Lincoln being pronounced dead that Andrew Johnson in dignified fashion took the oath of office from the chief justice and he kept Lincoln's cabinets. So -- 
+WINEAPPLE: Not at all. I mean, not at all. Johnson during the war, first of all, as I said, Johnson was the first, the first, the first and only southerner, southern senator in the United States Congress to stand up against secession. So he was hailed in the north, he was `reviled` in the south. In the south he was considered a traitor, but he himself considered anyone who wanted to secede as traitors themselves and he constantly said, you know, that traitors must be punished. And that's the so-called righteous or radical Republican point of view. So that's very, very important. The second thing is, you mentioned the, the president had been killed. The war was basically, you know, over, but not quite, nobody knew what was going to happen. People wanted to believe that this particular vice president, whom presumably Lincoln chose, would then continue on the path that that one hoped Lincoln was on. It's not really sure where he was at that particular point. So they were willing to cut him slack. They were willing to say this guy has possibilities, more than possibilities, that he was so `vehement` about wanting to punish `traitors` and you know, in saying that the union must be preserved, that they were of course going to feel that he was on their side fully, you know, and cooperatively. So they wanted, they were hopeful. Why not? And because, and it was interesting too, that there was a very peaceful transfer of power. It was within hours of Lincoln being pronounced dead that Andrew Johnson in dignified fashion took the oath of office from the chief justice and he kept Lincoln's `cabinets`. So -- 
 
 HEFFNER: For the moment. [Laughter] 
 
@@ -129,7 +129,7 @@ WINEAPPLE: Not at all. He certainly did not. I mean, in this Johnson comes into 
 
 HEFFNER: Now I see some parallels to today. Seeing a reality in plain sight, ignoring it. 
 
-WINEAPPLE: Yeah. Exactly. So he begins to appoint people to governorships. You know, he begins to pardon former confederates, people like Alexander Stevens, who had been the vice president of the confederacy. And he, he's basically saying that these eleven states can now reenter the union. They can take their seat in the government. That's appalling. Especially since the 13th Amendment not only abolished slavery, but in abolishing slavery it said these people who had been enslaved and considered three fifths of a person are now whole persons, which changes the, it actually makes the representation in the south huge. And so the south, immediately those eleven states immediately take their place in Congress. Then they have their power again. 
+WINEAPPLE: Yeah. Exactly. So he begins to appoint people to governorships. You know, he begins to pardon former confederates, people like Alexander Stevens, who had been the vice president of the confederacy. And he, he's basically saying that these eleven states can now reenter the union. They can take their seat in the government. That's `appalling`. Especially since the 13th Amendment not only abolished slavery, but in abolishing slavery it said these people who had been enslaved and considered three fifths of a person are now whole persons, which changes the, it actually makes the representation in the south huge. And so the south, immediately those eleven states immediately take their place in Congress. Then they have their power again. 
 
 HEFFNER: The Radical Republicans in the house take up impeachment. 
 
@@ -241,7 +241,7 @@ WINEAPPLE: That's right. But a lot of them in some sense didn't care. They thoug
 
 HEFFNER: Not the 14th or 15th yet. 
 
-WINEAPPLE: Well, we're on our way for the 14th which is citizenship and due process for the formerly enslaved, you know, so we've got the 13th getting rid of slavery and all forms of servitude to the 14th is due process and citizenship. Okay. So we've got those, enough. We've got enough, you know, and they were very nervous about enfranchisement. But nonetheless the radicals did pass the 15th. 
+WINEAPPLE: Well, we're on our way for the 14th which is citizenship and due process for the formerly enslaved, you know, so we've got the 13th getting rid of slavery and all forms of `servitude` to the 14th is due process and citizenship. Okay. So we've got those, enough. We've got enough, you know, and they were very nervous about enfranchisement. But nonetheless the radicals did pass the 15th. 
 
 HEFFNER: But were the radicals conscious of the argument that they are righteous and -- 
 
@@ -267,7 +267,7 @@ HEFFNER: I love, let me give you a chance. In this second we have left. Do you k
 
 WINEAPPLE: Tell me, and I'll tell you why I love Thaddeus Stevens. 
 
-HEFFNER: Because the condition of readmission to the union was that these formerly enslaved people would be given rights and that included ownership of land -- 
+HEFFNER: Because the condition of `readmission` to the union was that these formerly enslaved people would be given rights and that included ownership of land -- 
 
 WINEAPPLE: Yes. 
 
@@ -275,9 +275,9 @@ HEFFNER: And that if you were going to confiscate land from --
 
 WINEAPPLE: Planters. 
 
-HEFFNER: The planters, you would at a minimum give ownership a stake in this union to these new people who had been `dispossessed` and not completely exclude any section of the populace, but give land to the formerly enslaved as well as giving the land back to the confederacy. You could have done both. 
+HEFFNER: The planters, you would at a minimum give ownership a stake in this union to these new people who had been `dispossessed` and not completely exclude any section of the `populace`, but give land to the formerly enslaved as well as giving the land back to the confederacy. You could have done both. 
 
-WINEAPPLE: Well yeah, and Stevens Thaddeus thought that too. He was more pragmatic than Sumner. Sumner held out for those ideals and it's wonderful that he did. And it's, and I think it's a terrific barometer to have. Thaddeus Stevens said, men are not angels, they're men. And so we have to sort of take what we can, slowly, the 14th Amendment, the 15th, he wanted land confiscation too, but we live in America. 
+WINEAPPLE: Well yeah, and Stevens Thaddeus thought that too. He was more pragmatic than Sumner. Sumner held out for those ideals and it's wonderful that he did. And it's, and I think it's a terrific `barometer` to have. Thaddeus Stevens said, men are not angels, they're men. And so we have to sort of take what we can, slowly, the 14th Amendment, the 15th, he wanted land confiscation too, but we live in America. 
 
 HEFFNER: Repatriation. 
 
