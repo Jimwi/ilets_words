@@ -1,5 +1,5 @@
 https://www.youtube.com/watch?v=yVTYiD9iCH8
-55:05
+55:05 
 ```
 moral               adj. 有关道德的；基于道德的，道义上的；品行端正的，有道德的；伦理的；能辨别是非的
 depict              v. 描述，描绘
