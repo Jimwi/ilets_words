@@ -1,10 +1,10 @@
-https://www.youtube.com/watch?v=lqwqAVIcCZ4&t=218s&ab_channel=OCADUniversity 
-
+https://www.youtube.com/watch?v=lqwqAVIcCZ4&ab_channel=OCADUniversity 
+4:09
 ```
-gainsay       vt. 反驳；否定
-persevere     v. 锲而不舍，坚持不懈；固执己见（在辩论中
-captivate     v. 迷住，使……着迷    
-circuit    
+gainsay         vt. 反驳；否定
+persevere       v. 锲而不舍，坚持不懈；固执己见（在辩论中
+captivate       v. 迷住，使……着迷    
+circuit         n. 电路，回路；巡回活动，巡回地；环道，环线；巡回赛；赛车道；（英国）巡回审判区，巡回上诉法院；（一套）体操动作；统一经营的连锁剧院（或影院）
 ```
 
 OCAD University Project 31 2014, Ian Carr Harris 
