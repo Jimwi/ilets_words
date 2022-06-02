@@ -24,7 +24,9 @@ To set the stage for the story, I talked to Stephen Heller.
 
 Bear with me while I move to another part of the apartment. 
 
-Among other things, he's written like a library's worth of books about design. Okay, I'm back. 
+Among other things, he's written like a library's worth of books about design. 
+
+Okay, I'm back. 
 
 And this is Bethany Heck. 
 

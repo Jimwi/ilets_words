@@ -1,5 +1,5 @@
 https://www.youtube.com/watch?v=YGV5o6UHjxM&ab_channel=TheSchoolofLife
-
+5:08
 ```
 discord     n. 意见分歧，不和；不和谐音，不协和弦
 stern       adj. （人或其态度）严厉的，认真的；（工作等）严峻的，棘手的；强烈反对的，有意见的；不屈从的，不动摇的
