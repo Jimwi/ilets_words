@@ -1,15 +1,16 @@
 https://www.youtube.com/watch?v=UcN6RXT7qpw&ab_channel=Vox
-
+5:50
 ```
-encroach   vi. 蚕食，侵占
-charisma   n. 魅力；神授的能力；非凡的领导力    
-expel      v. 把……开除（或除名）；驱逐；排出（空气、水、气体等）
-damp       adj. 潮湿的    
-brunt     n. 冲击；主要冲力
-erode     v. 侵蚀，腐蚀；削弱，降低
-underpin  vt. 巩固；支持；从下面支撑；加强…的基础    
-deflect    vt. 使转向；使偏斜；使弯曲
+encroach    vi. 蚕食，侵占
+charisma    n. 魅力；神授的能力；非凡的领导力    
+expel       v. 把……开除（或除名）；驱逐；排出（空气、水、气体等）
+damp        adj. 潮湿的    
+brunt       n. 冲击；主要冲力
+erode       v. 侵蚀，腐蚀；削弱，降低
+underpin    vt. 巩固；支持；从下面支撑；加强…的基础    
+deflect     vt. 使转向；使偏斜；使弯曲
 aggregate   n. 合计；集合体；总计；集料    
+segregate   vt. 使隔离；使分离；在…实行种族隔离
 ```
 
 
@@ -17,7 +18,7 @@ How oysters can stop a flood
 
 WEBVTT Kind: captions Language: en 
 
-When you picture New York City, there are so many `iconic` things that come to mind. But, before the yellow cabs and hot dog stands, New York was known for something else: `Oysters`. From the 1600s through the 1800s, New York was booming with them. And it was oysters, not hotdogs, sold streetside by the millions. Oyster `reefs` covered over 220,000 acres along the coastline. The reefs were so large that ships needed to navigate around them. But, of course, this isn’t the case today. Oysters were `overharvested` nearly out of existence, and not just in New York. Experts estimate we’ve lost 85% of the world’s oyster reefs in the last 200 years. Today, we’re trying to put them back. Because this animal that you often find on a dinner plate might actually be an effective defense against the rising ocean. We’re losing our coasts to climate change. As oceans levels rise, the water erodes the shoreline. This pushes the entire coast back, `encroaching` on homes and destabilizing land. So, enter the oyster. This `uncharismatic` rock of an animal. 
+When you picture New York City, there are so many `iconic` things that come to mind. But, before the yellow cabs and hot dog stands, New York was known for something else: `Oysters`. From the 1600s through the 1800s, New York was booming with them. And it was oysters, not hotdogs, sold streetside by the millions. `Oyster reefs` covered over 220,000 acres along the coastline. The reefs were so large that ships needed to navigate around them. But, of course, this isn’t the case today. Oysters were `overharvested` nearly out of existence, and not just in New York. Experts estimate we’ve lost 85% of the world’s oyster reefs in the last 200 years. Today, we’re trying to put them back. Because this animal that you often find on a dinner plate might actually be an effective defense against the rising ocean. We’re losing our coasts to climate change. As oceans levels rise, the water erodes the shoreline. This pushes the entire coast back, `encroaching` on homes and destabilizing land. So, enter the oyster. This `uncharismatic` rock of an animal. 
 
 STEPHANIE WESTBY: Oh come on! You don't think they're `charismatic`? 
 
@@ -42,6 +43,3 @@ CORSON: They are this `aggregating`, reef-building, hard structure. And so, if y
 CORSON: I don't think we can put it back just the way it was. I don't think that's necessarily a realistic goal. But I think we've got a great opportunity when we start thinking about `multiple` benefits, and the different kinds of needs of society, whether it's to reduce wave impacts, or offset nutrient inputs, or generally increasing the health and resilience of the bay. Resiliency against the rising oceans isn't as simple as undoing the mistakes we made in the past. We don’t live the way we did 200 years ago, and the world looks very different. But what we can learn from oysters, is that `restoring one species from the past` can `create a chain reaction to a more sustainable future`. 
 
 CORSON: It feels hopeful. And it feels like something that we can achieve. 
-
-aggregate   n. 合计；集合体；总计；集料
-segregate   vt. 使隔离；使分离；在…实行种族隔离
