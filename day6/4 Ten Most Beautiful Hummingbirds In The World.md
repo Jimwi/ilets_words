@@ -1,17 +1,17 @@
 https://www.youtube.com/watch?v=CGiu0hlVOzY 
 
 ```      
-extant    adj. 现存的；显著的    
-elevate   v. 提拔，提升；抬起，提起；提高，增加；使情绪高昂，使兴高采烈  
-glean      vt. 收集（资料）；拾（落穗）
-endanger   v. 使处于险境，危及
-outward    adj. 向外的；外面的；公开的；外服的；肉体的
-slender    adj. 细长的；苗条的；微薄的
-elaborate  adj. 复杂的，详尽的；精心制作的
-scrub      n. 矮树；洗擦；擦洗者；矮小的人（或物）  vt. 用力擦洗；使净化
-striking   adj. 惊人的，异常的；妩媚动人的，标致的；罢工的；打击的    
-torpid     adj. 迟钝的，迟缓的；不活泼的；麻痹的；[生物] 蛰伏的
-gloss      n. 光彩；用以产生光泽的物质；光泽涂料；假象；注释
+extant      adj. 现存的；显著的    
+elevate     v. 提拔，提升；抬起，提起；提高，增加；使情绪高昂，使兴高采烈  
+glean       vt. 收集（资料）；拾（落穗）
+endanger    v. 使处于险境，危及
+outward     adj. 向外的；外面的；公开的；外服的；肉体的
+slender     adj. 细长的；苗条的；微薄的
+elaborate   adj. 复杂的，详尽的；精心制作的
+scrub       n. 矮树；洗擦；擦洗者；矮小的人（或物）  vt. 用力擦洗；使净化
+striking    adj. 惊人的，异常的；妩媚动人的，标致的；罢工的；打击的    
+torpid      adj. 迟钝的，迟缓的；不活泼的；麻痹的；[生物] 蛰伏的
+gloss       n. 光彩；用以产生光泽的物质；光泽涂料；假象；注释
 ```
 
 

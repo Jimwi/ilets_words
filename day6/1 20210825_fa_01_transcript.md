@@ -1,36 +1,36 @@
 https://www.npr.org/transcripts/1030930259
 
 ```
-ingest      vt. 摄取；咽下；吸收；接待
-discrete    adj. 离散的，不连续的  
-debut       n. 首次登台，（新事物的）问世  
-relapse     v. （病）复发，重新恶化；返回，退回原状，故态复萌
-prophet     n. 先知；预言者；提倡者
-upheaval    n. 剧变；隆起；举起  
-indulge     v. 沉湎，沉溺；纵容，迁就；满足（情感、兴趣、欲望等）；参加，参与（尤指违法活动）
-affection   n. 喜爱，关爱；爱恋，爱慕之情；精神状况，感情；疾患，病；影响
-potent      adj. 有效的；强有力的，有权势的；有说服力的
-epidemic    n. 传染病；流行病；风尚等的流行
-fascinate   v. 深深吸引，迷住；深深吸引，迷住；<旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹
-abstain     v. （投票时）弃权，放弃；避免，回避；自制，戒除  
-boredom     n. 厌倦；令人厌烦的事物    
-hop         v. 单脚跳行；齐足（或双足）跳行；快速移动，快速前往；登上（飞机、火车等）；（尤指搭乘飞机）短途旅行；换来换去；<非正式>速递，快运；用啤酒花调味    
-psychiatric   adj. 精神病学的，精神病治疗的；精神疾病的
-abstinence    n. 节制；节欲；戒酒；禁食  
-exert         v. 运用，施加（影响）；努力，尽力（exert oneself）
-implication   n. 含义；暗示；牵连，卷入；可能的结果，影响
-distress      n. 忧虑，悲伤；贫困；危难，险情；（肉体的）剧痛  
-intervene     v. 干预，干涉；插话，打岔；干扰，阻挠；发生于其间，介于中间；调停，斡旋
-consult       v. 咨询，请教；商量，商讨；查询，查阅；当顾问
-anticipate    v. 预料，预期；预见，预计（并做准备）； 期盼，期望； 先于……做，早于……行动；在期限内履行（义务），偿还（债务）；提前使用
-intoxicate    v. （酒或毒品）（使）麻醉；（使）中毒；（使）兴奋
-innate        adj. 先天的；固有的；与生俱来的
-subtle        adj. 不易察觉的，微妙的；敏锐的，有洞察力的；灵活的，巧妙的；含蓄的，隐晦的；<古>狡猾的    
-illicit       adj. 非法的，社会不容许的    
-consequent    adj. 随之发生的，由此引起的；（河流，山谷）顺向的   
-insomnia      n. 失眠症，失眠
-reckon        v. 估计，估算，计算；<非正式>认为，以为；把……看作，被看作是；<英，非正式>期望，指望
-assert        vt. 维护，坚持；断言；主张；声称
+ingest          vt. 摄取；咽下；吸收；接待
+discrete        adj. 离散的，不连续的  
+debut           n. 首次登台，（新事物的）问世  
+relapse         v. （病）复发，重新恶化；返回，退回原状，故态复萌
+prophet         n. 先知；预言者；提倡者
+upheaval        n. 剧变；隆起；举起  
+indulge         v. 沉湎，沉溺；纵容，迁就；满足（情感、兴趣、欲望等）；参加，参与（尤指违法活动）
+affection       n. 喜爱，关爱；爱恋，爱慕之情；精神状况，感情；疾患，病；影响
+potent          adj. 有效的；强有力的，有权势的；有说服力的
+epidemic        n. 传染病；流行病；风尚等的流行
+fascinate       v. 深深吸引，迷住；深深吸引，迷住；<旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹
+abstain         v. （投票时）弃权，放弃；避免，回避；自制，戒除  
+boredom         n. 厌倦；令人厌烦的事物    
+hop             v. 单脚跳行；齐足（或双足）跳行；快速移动，快速前往；登上（飞机、火车等）；（尤指搭乘飞机）短途旅行；换来换去；<非正式>速递，快运；用啤酒花调味    
+psychiatric     adj. 精神病学的，精神病治疗的；精神疾病的
+abstinence      n. 节制；节欲；戒酒；禁食  
+exert           v. 运用，施加（影响）；努力，尽力（exert oneself）
+implication     n. 含义；暗示；牵连，卷入；可能的结果，影响
+distress        n. 忧虑，悲伤；贫困；危难，险情；（肉体的）剧痛  
+intervene       v. 干预，干涉；插话，打岔；干扰，阻挠；发生于其间，介于中间；调停，斡旋
+consult         v. 咨询，请教；商量，商讨；查询，查阅；当顾问
+anticipate      v. 预料，预期；预见，预计（并做准备）； 期盼，期望； 先于……做，早于……行动；在期限内履行（义务），偿还（债务）；提前使用
+intoxicate      v. （酒或毒品）（使）麻醉；（使）中毒；（使）兴奋
+innate          adj. 先天的；固有的；与生俱来的
+subtle          adj. 不易察觉的，微妙的；敏锐的，有洞察力的；灵活的，巧妙的；含蓄的，隐晦的；<古>狡猾的    
+illicit         adj. 非法的，社会不容许的    
+consequent      adj. 随之发生的，由此引起的；（河流，山谷）顺向的   
+insomnia        n. 失眠症，失眠
+reckon          v. 估计，估算，计算；<非正式>认为，以为；把……看作，被看作是；<英，非正式>期望，指望
+assert          vt. 维护，坚持；断言；主张；声称
 ```
 
 TERRY GROSS, HOST:
@@ -49,7 +49,7 @@ LEMBKE: Yes, it's going on in the brain. Exactly.
 
 GROSS: So what role does dopamine play in addiction?
 
-LEMBKE: Well, dopamine is the final common pathway for all pleasurable, `intoxicating`, rewarding experiences. So different drugs and behaviors work on different `endogenous` or `innate systems`. There's the opioid system. There's the cannabinoid system. There's the adrenaline system. But ultimately, the final common pathway of all of those rewarding substances and experiences is dopamine.
+LEMBKE: Well, dopamine is the final common pathway for all pleasurable, `intoxicating`, rewarding experiences. So different drugs and behaviors work on different `endogenous` or `innate systems`. There's the opioid system. There's the cannabinoid system. There's the `adrenaline` system. But ultimately, the final common pathway of all of those rewarding substances and experiences is dopamine.
 
 GROSS: You write that the more dopamine any experience or substance releases, the more addictive it means that experience or substance is. So are scientists measuring dopamine release now to figure out what the most addictive drugs are or experiences?
 
@@ -71,7 +71,7 @@ LEMBKE: Sure. So to me, one of the most fascinating findings in neuroscience in 
 
 GROSS: So describe the pain after the pleasure. Is it like I'm disappointed that this experience of eating the chocolate is now over? Or is it more like `craving`? I want more. I want more of it. I want more of that pleasure. And not having that pleasure - it's increasing my sense of pain.
 
-LEMBKE: Yeah, great question. So it's really both, right? So when that pleasure-pain balance `tilts` to the side of pain after the experience of pleasure, that pain is subjectively experienced as a number of different things. One of it is just like a subjective feeling of being uncomfortable, `restless`, `irritable`, unhappy and wanting to recreate the feeling of pleasure. But that's also, in many ways, what craving is, right? So not wanting to have the pleasure again, being preoccupied with eliminating the experience of pain that we feel `in the aftermath`. And I will say, too, it's very `reflexive`. It's not like I'm even consciously aware of that aftereffect or the come down. It can be very `subtle`, but I'm just sort of aware of, hmm, wanting to have another piece of chocolate.
+LEMBKE: Yeah, great question. So it's really both, right? So when that pleasure-pain balance tilts to the side of pain after the experience of pleasure, that pain is subjectively experienced as a number of different things. One of it is just like a subjective feeling of being uncomfortable, `restless`, `irritable`, unhappy and wanting to recreate the feeling of pleasure. But that's also, in many ways, what craving is, right? So not wanting to have the pleasure again, being preoccupied with eliminating the experience of pain that we feel `in the aftermath`. And I will say, too, it's very `reflexive`. It's not like I'm even consciously aware of that aftereffect or the come down. It can be very `subtle`, but I'm just sort of aware of, hmm, wanting to have another piece of chocolate.
 
 GROSS: With repeated exposure to the same pleasure or a similar pleasure, whether it's an experience or if it's chocolate or if it's a drug, you keep wanting more of it. So why - what's going on? Why do you keep wanting more? Why does it take more and more to keep you satisfied?
 
@@ -79,19 +79,13 @@ LEMBKE: So the way that I think about it or visualize it in my brain is that aft
 
 GROSS: So you keep needing more and more, and that explains why people can get addicted to food and can sometimes overeat. It explains, I guess, sex addiction and certainly - does that explain - well, actually, `does that explain drug addiction`, too? Is there more going on in drug addiction than there is to, say, eating chocolate 'cause the drugs - certain drugs also have, I think, more physiological, addictive qualities - more chemical, I should say, addictive qualities?
 
-LEMBKE: You know, this phenomenon really pertains to all rewarding experiences. And what happens over time, and which is essentially the fundamental process that leads to addiction, is that if I continue to consume a dopamine-releasing, high-reward drug or behavior, that after a while, in order to try to reassert `homeostasis`, I develop so many gremlins on the pain side of my balance that they fill the entire room, which means that when I'm not using my drug, I'm essentially miserable, right? I'm in a dopamine `deficit` state. I have a pleasure-pain balance that's tilted to the side of pain. And now I need to use my drug not to feel good but just to restore a level balance, just to feel normal. And when I'm not using my drug, I experience the universal symptoms of withdrawal - irritability, anxiety, `insomnia`, `dysphoria` and mental `preoccupation` with using my drug, which we call craving.
+LEMBKE: You know, this phenomenon really `pertains to` all rewarding experiences. And what happens over time, and which is essentially the fundamental process that leads to addiction, is that if I continue to consume a dopamine-releasing, high-reward drug or behavior, that after a while, in order to try to reassert `homeostasis`, I develop so many gremlins on the pain side of my balance that they fill the entire room, which means that when I'm not using my drug, I'm essentially miserable, right? I'm in a dopamine `deficit` state. I have a pleasure-pain balance that's tilted to the side of pain. And now I need to use my drug not to feel good but just to restore a level balance, just to feel normal. And when I'm not using my drug, I experience the universal symptoms of withdrawal - irritability, anxiety, `insomnia`, `dysphoria` and mental `preoccupation` with using my drug, which we call craving.
 
 So the important message here is that when people become addicted - when we become addicted, we essentially change our brains and reset our threshold for experiencing pleasure and pain, such that it's harder to experience pleasure and easier to experience pain because we have a pleasure-pain balance tilted to the side of pain.
 
 GROSS: So that's the central paradox of your book, is that the pursuit of pleasure can actually lead to pain.
 
 LEMBKE: That's exactly right. That `hedonism` ultimately leads to `anhedonia` or lack of joy.
-
-GROSS: Let's take a short break here. If you're just joining us, my guest is Dr. Anna Lembke, author of the new book "Dopamine Nation: Finding Balance In The Age Of Indulgence." We'll be right back. This is FRESH AIR.
-
-(SOUNDBITE OF MARIO ADNET AND ZE NOGUEIRA'S "EXCERTO NO. 1")
-
-GROSS: This is FRESH AIR. Let's get back to my interview with Dr. Anna Lembke, author of the new book "Dopamine Nation." It's about the neurochemistry that explains the connection between pleasure and pain and how that applies to addiction. She's the medical director of addiction medicine at Stanford University.
 
 Getting back to the difference between an addictive drug that has a chemical basis versus an addictive experience, like, what's the difference, in terms of what's going on in your brain and the difficulty of breaking that addiction?
 
@@ -111,7 +105,7 @@ LEMBKE: I do think that people literally get addicted to cell phones and social 
 
 GROSS: Dr. Lembke, you write that the brain was not designed to live in a world of `overabundance`. And in some countries, like the U.S., in some socioeconomic classes, people do have overabundance in their lives - easy access to foods, too many varieties of foods, too many things to read, movies to watch, drugs to take, experiences to have. Why isn't our brain adapted to that? Why is this overabundance a problem that can lead to pain and addiction?
 
-LEMBKE: The mechanisms in our brain that `compel` us to approach pleasure and avoid pain were evolved over millions of years for a world of `scarcity`. And in a world of scarcity, in order for us to stay alive, we have to be extremely motivated to go out and seek food, clothing and shelter. The problem is, in today's modern ecosystem, those things are all provided. We don't even have to `get up off the couch` in order to have them come to us. And our brains were really not wired for that. And as a result, I think living in this modern age is very challenging but for different reasons. We're now having to `cope with`, how do I live in a world in which everything is provided, and if I consume too much of it, which my `reflexes` compel me to do, I'm going to be even more unhappy? That's really what "Dopamine Nation" is about, trying to figure out how to live in that world and holding up people in recovery from addiction as modern-day `prophets` for how to do that.
+LEMBKE: The mechanisms in our brain that `compel` us to `approach pleasure` and avoid pain were evolved over millions of years for a world of `scarcity`. And in a world of scarcity, in order for us to stay alive, we have to be extremely motivated to go out and seek food, clothing and shelter. The problem is, in today's modern ecosystem, those things are all provided. We don't even have to `get up off the couch` in order to have them come to us. And our brains were really not wired for that. And as a result, I think living in this modern age is very challenging but for different reasons. We're now having to `cope with`, how do I live in a world in which everything is provided, and if I consume too much of it, which my `reflexes` compel me to do, I'm going to be even more unhappy? That's really what "Dopamine Nation" is about, trying to figure out how to live in that world and holding up people in recovery from addiction as modern-day `prophets` for how to do that.
 
 GROSS: But you write things like trauma, `social upheaval` and poverty contribute to the risk of becoming addicted. So explain that aspect of it.
 
@@ -120,12 +114,6 @@ LEMBKE: So there are many risk factors for addiction. They include things like p
 GROSS: So what do you think the implications here are for the criminal justice system? If poverty leads more easily to addiction because of scarcity and - of many things but easy access to potent drugs - you know, if that's true, and then the consequences for that are jail, prison, like, what does that say about how we're dealing with poverty in the criminal justice system?
 
 LEMBKE: It's very clear that `imprisoning` people with addiction is not the solution. I mean, that's - we've - I think it's fair to say that that is not going to be the way that we are going to help people who develop this problem of over - of compulsive overconsumption, especially when people are living in poverty are more vulnerable to the problem of addiction `by virtue of` living in poverty and not having access to other types of rewards. So because of that, you know, we really need to reform - and it's happening now - the criminal justice system, to help people get access to treatment for addiction rather than imprisoning them for their behaviors related to addiction.
-
-GROSS: Let's take a short break, and then we'll be right back. If you're just joining us, my guest is Dr. Anna Lembke, author of the new book "Dopamine Nation." She's the medical director of addiction medicine at Stanford University and chief of the Stanford Addiction Medicine Dual Diagnosis Clinic. We'll be right back. I'm Terry Gross, and this is FRESH AIR.
-
-(SOUNDBITE OF KENNY BARRON & DAVE HOLLAND'S "DR DO RIGHT")
-
-GROSS: This is FRESH AIR. I'm Terry Gross. Let's get back to my interview with Dr. Anna Lembke, author of the new book "Dopamine Nation." It's about the interconnection between pleasure and pain and how that connection helps explain addiction. Dopamine is the neurotransmitter, the chemical messenger, that's most connected with processing, rewarding pleasurable behavior. The more dopamine a drug or behavior releases, the more addictive it is. Dr. Lembke is a psychiatrist who's the medical director of addiction medicine at Stanford University and chief of the Stanford Addiction Medicine Dual Diagnosis Clinic. The clinic is for patients who have a mental health disorder, like depression or bipolar syndrome, as well as a drug or alcohol addiction.
 
 Let's talk a little bit about COVID. Are you seeing new addictions, more addictions because people are in so much `psychological` and often physical pain because of the pandemic? And many sources of pleasure have been eliminated. People have, you know, been shut in at home for a long time. And just as things started to open up, they started to close down again. So are there certain kinds of addictions you're seeing more of now?
 
@@ -142,12 +130,6 @@ LEMBKE: Yeah, so that's really an art in the science that I've had to develop ov
 GROSS: Should we insert another warning here that with some drugs, including alcohol, slowly decreasing the amount might be the most advisable thing? And maybe it's best to consult a doctor or a professional before figuring out what your plan is.
 
 LEMBKE: Yeah. There are certain drugs like alcohol or drugs like benzodiazepines, anti-anxiety drugs like Xanax and Valium or drugs like opioids, where you may not want to abruptly stop using them because you could go into a life-threatening withdrawal. And really, for anybody who's listening, you should consult a professional before making these interventions.
-
-GROSS: Let's take another short break here. If you're just joining us, my guest is Dr. Anna Lembke, author of the new book "Dopamine Nation: Finding Balance In The Age Of Indulgence." We'll be right back. This is FRESH AIR.
-
-(SOUNDBITE OF THE MOUNTAIN GOATS SONG, "PEACOCKS")
-
-GROSS: This is FRESH AIR. Let's get back to my interview with Dr. Anna Lembke, author of the new book "Dopamine Nation." It's about the neurochemistry that explains the connection between pleasure and pain and how that applies to addiction. She's the medical director of addiction medicine at Stanford University.
 
 Is there a difference in how addictive behavior or addictive substances operate in the brains of, say, teenagers as opposed to adults?
 
@@ -169,7 +151,7 @@ LEMBKE: Right. So, I mean, dopamine, you know, works all over the brain. And the
 
 GROSS: So is Parkinson's related to depression or to, you know, a lack of pleasure because there's a dopamine shortage? Or is that just in a completely different part of the brain?
 
-LEMBKE: They are related. And people with Parkinson's, as part of their syndrome of Parkinson's, can get severely depressed. The treatment for Parkinson's is often to give L-dopa, which is a synthesized form of dopamine that does cross the blood-brain barrier and then is turned into dopamine in the brain. And there are case reports of people who are given L-dopa for Parkinson's disease who then develop things like gambling addiction. So these things are, you know, are related.
+LEMBKE: They are related. And people with Parkinson's, as part of their syndrome of Parkinson's, can get severely depressed. The treatment for Parkinson's is often to give L-dopa, which is a synthesized form of dopamine that does cross the blood-brain barrier and then is turned into dopamine in the brain. And there are case reports of people who are given L-dopa for Parkinson's disease who then develop things like gambling addiction. `So these things are, you know, are related.`
 
 GROSS: Let's talk about some practical suggestions you give your patients about how to end behavioral or chemical addiction. One of the things you emphasize is radical honesty. What do you mean by that?
 

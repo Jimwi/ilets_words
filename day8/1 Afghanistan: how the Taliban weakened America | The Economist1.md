@@ -1,28 +1,28 @@
 https://www.youtube.com/watch?v=OhegFfxlPhU&ab_channel=TheEconomist 
 
 ```
-assure     vt. 保证；担保；使确信；弄清楚
-evacuate   v. （把人从危险的地方）疏散，撤离；（从危险的地方）搬出，撤空；（用泵等）抽出，抽空；排泄（粪便等）
-curb       v. 控制，抑制；勒住（马）
-backlash   n. 反冲；强烈抵制  
-distract   v. 使分心，使转移注意力；<古>使困惑，使迷惑    
-deter      vt. 制止，阻止；使打消念头      
-creep      vi. 爬行；蔓延；慢慢地移动；起鸡皮疙瘩
-predecessor   n. 前任，前辈；（被取代的）原有事物，前身
-competent     adj. 能干的，能胜任的；合格的，过得去的；精神正常的，智力无缺陷的；有决定权的；有法定资格的；活性的，（处于）感受态的
-incompetent   adj. 无能力的，不胜任的；不合适的；不适当的；无力的
-enfranchise   vt. 给予选举权；给予自治权；解放，释放
-provoke       v. 激起，引起；激励，刺激；挑衅，激怒
-anticipate    v. 预料，预期；预见，预计（并做准备）； 期盼，期望； 先于……做，早于……行动；在期限内履行（义务），偿还（债务）；提前使用    
-humiliate     v. 羞辱，使蒙羞
-consequent    adj. 随之发生的，由此引起的；（河流，山谷）顺向的      
+assure          vt. 保证；担保；使确信；弄清楚
+evacuate        v. （把人从危险的地方）疏散，撤离；（从危险的地方）搬出，撤空；（用泵等）抽出，抽空；排泄（粪便等）
+curb            v. 控制，抑制；勒住（马）
+backlash        n. 反冲；强烈抵制  
+distract        v. 使分心，使转移注意力；<古>使困惑，使迷惑    
+deter           vt. 制止，阻止；使打消念头      
+creep           vi. 爬行；蔓延；慢慢地移动；起鸡皮疙瘩
+predecessor     n. 前任，前辈；（被取代的）原有事物，前身
+competent       adj. 能干的，能胜任的；合格的，过得去的；精神正常的，智力无缺陷的；有决定权的；有法定资格的；活性的，（处于）感受态的
+incompetent     adj. 无能力的，不胜任的；不合适的；不适当的；无力的
+enfranchise     vt. 给予选举权；给予自治权；解放，释放
+provoke         v. 激起，引起；激励，刺激；挑衅，激怒
+anticipate      v. 预料，预期；预见，预计（并做准备）； 期盼，期望； 先于……做，早于……行动；在期限内履行（义务），偿还（债务）；提前使用    
+humiliate       v. 羞辱，使蒙羞
+consequent      adj. 随之发生的，由此引起的；（河流，山谷）顺向的      
 ```
 
 Afghanistan: how the Taliban weakened America | The Economist 
 
 WEBVTT Kind: captions Language: en 
 
-[Music] the taliban swift return to power has shocked the world and `humiliated` america [Music] it marks the end of a 20-year campaign which has highlighted america's failures in military planning intelligence and nation building above all it has shown america failing to protect those it is sworn to defend it's the right and the responsibility of afghan people alone to decide their future this did unfold more quickly than we had anticipated how will this damage america's long-term global standing and the future security of the world 
+[Music] the taliban swift return to power has shocked the world and `humiliated` america [Music] it marks the end of a 20-year campaign which has highlighted america's failures in military planning, intelligence, and nation building. above all it has shown america failing to protect those it is sworn to defend. it's the right and the responsibility of afghan people alone to decide their future this did unfold more quickly than we had anticipated. how will this damage america's long-term global standing and the future security of the world 
 
 How did the afghan government and army collapse so easily 
 
@@ -36,13 +36,13 @@ america went into afghanistan in the first place because uh osama bin laden and 
 
 Why was america unable to create a functioning government in afghanistan
 
-america struggled to create a functioning government in afghanistan for lots of reasons one of those reasons I think is that what happened very early on in the invasion in the early 2000s was that it created a highly `centralized` afghan state. lots of power was vested in kabul it essentially `disenfranchised` lots of power brokers in afghanistan who for decades had enormous amounts of power. communities in the north of afghanistan on the `fringes` near key border towns and the the the power of tribe was very very important here you know tribes that had long held key border crossings that were very important felt disenfranchised by a central government that had accumulated power for itself that's one reason I think the taliban was able to flip so many of these areas so quickly in the last month or so the americans you know they could they could paper over a lot. 
+america struggled to create a functioning government in afghanistan for lots of reasons. one of those reasons I think is that what happened very early on in the invasion in the early 2000s, was that it created a highly `centralized` afghan state. lots of power was vested in kabul it essentially `disenfranchised` lots of power brokers in afghanistan, who for decades had enormous amounts of power. communities in the north of afghanistan on the `fringes` near key border towns and the the the power of tribe was very very important here, you know, tribes that had long held key border crossings that were very important felt disenfranchised by a central government that had accumulated power for itself. that's one reason I think the taliban was able to flip so many of these areas so quickly in the last month, or so the americans you know they could they could paper over a lot. 
 
 Because it's a superpower and they did have uh militarily the power to hold the taliban off for as long as they chose to um and they did have enough money to to keep the state functioning but to make it able to function without any help at all that was very long-term project um and one that ultimately uh donald trump and joe biden decided they didn't wish to pursue so they pulled the plug with the disastrous consequences that we've just seen. 
 
 Why is the taliban's takeover of afghanistan so humiliating for america. 
 
-There are lots of people I think in the united states and elsewhere who thought it was perhaps the right time for america to leave afghanistan but the the manner in which it was done the haste with which it was conducted the betrayal of lots of afghan allies the sense that america was `fixated` and entirely focused on `evacuating` its nationals rather than helping those who had fought alongside it for 20 years. that that said something um very damaging about america's character and america's policy 
+There are lots of people I think in the united states and elsewhere who thought it was perhaps the right time for america to leave afghanistan, but the the manner in which it was done, the haste with which it was conducted the betrayal of lots of afghan allies the sense that america was `fixated` and entirely focused on `evacuating` its nationals rather than helping those who had fought alongside it for 20 years. that that said something very damaging about america's character and america's policy 
 
 There was a point where you could have said that um a sort of `slapdash` america first foreign policy was just a temporary `blip` because donald trump was in charge but this was taking place under a democratic president who prided himself on his foreign policy knowledge and he turned out to be no better uh in this case than his `predecessor` possibly worse. that's that's a huge problem for america's image at least in in the short run and that's going to affect its ability to deter its enemies and reassure its allies and friends. 
 
@@ -54,7 +54,7 @@ but I don't think that the the fundamental ideological cast of the movement has 
 
 Is biden to blame for this failure in afghanistan.
 
-Joe Biden deserves responsibility for the manner of withdrawal and of course the decision to pull america completely out today there's no doubt about that he himself said in his press conference he he didn't want to hand this this responsibility on to a fifth american president but I think it's also worth knowing that lots of presidents have contributed to this mess not just not just biden in sort of delivering the final uh decision. Donald Trump signed a rather flawed agreement with the taliban in which he effectively agreed to pull all american troops out by May 1st of this year in exchange for very little but even going before that we saw George W Bush `initiate` the iraq war which was distracted from the afghan campaign um and we saw Barack Obama who also had a rather substantial surge of american forces in 2010 or so which also failed so in some ways every american president has tried their hand at this problem they've all made various mistakes but of course. It is joe biden who will be associated with the um with the final withdrawal and the chaos that accompanied 
+Joe Biden deserves responsibility for the manner of withdrawal and of course the decision to pull america completely out today, there's no doubt about that. he himself said in his press conference he he didn't want to hand this this responsibility on to a fifth american president. but I think it's also worth knowing that lots of presidents have contributed to this mess not just not just biden in sort of delivering the final uh decision. Donald Trump signed a rather flawed agreement with the taliban, in which he effectively agreed to pull all american troops out by May 1st of this year in exchange for very little, but even going before that we saw George W Bush `initiate` the iraq war which was distracted from the afghan campaign. and we saw Barack Obama who also had a rather substantial surge of american forces in 2010 or so which also failed so in some ways every american president has tried their hand at this problem they've all made various mistakes, but of course, it is joe biden who will be associated with the um with the final withdrawal and the chaos that accompanied 
 
 How will the taliban's takeover of afghanistan affect the world 
 

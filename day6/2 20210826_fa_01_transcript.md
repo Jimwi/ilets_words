@@ -1,37 +1,37 @@
 https://www.npr.org/transcripts/1031234338
-
+43:00
 ```      
-recite    v. 背诵，朗诵；详述，列举
-howl      v. （狗、狼等）嗥叫，长嚎；（因疼痛、愤怒、开心等）大声叫喊；（风）怒号，呼啸；怒吼，怒声要求；嚎哭
-ideology  n. 意识形态，思想体系；<古>观念学；<古>空想
-gauge     n. 计量器；标准尺寸；容量规格；针织物的细度
-ordeal    n. 磨难，严峻考验；<史>神明裁判（把被告是否经得起剧痛的考验作为被告是否无辜的神谕）  
-incessant   adj. 不断的；不停的；连续的
-dogma       n. 教条，信条，教义    
-bawl       vi. 大叫；放声痛哭
-fascinate  v. 深深吸引，迷住；深深吸引，迷住；<旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹
-prime      adj. 主要的；最好的；基本的
-bliss      n. 极乐；天赐的福
-venture    n. 风险项目，冒险事业；冒险旅行，冒险行动 v. 敢于去（未知或危险等地方）；冒险；小心地说，谨慎地做；敢说，大胆表示    
-immerse      
-superficial      
+recite          v. 背诵，朗诵；详述，列举
+howl            v. （狗、狼等）嗥叫，长嚎；（因疼痛、愤怒、开心等）大声叫喊；（风）怒号，呼啸；怒吼，怒声要求；嚎哭
+ideology        n. 意识形态，思想体系；<古>观念学；<古>空想
+gauge           n. 计量器；标准尺寸；容量规格；针织物的细度
+ordeal          n. 磨难，严峻考验；<史>神明裁判（把被告是否经得起剧痛的考验作为被告是否无辜的神谕）  
+incessant       adj. 不断的；不停的；连续的
+dogma           n. 教条，信条，教义    
+bawl            vi. 大叫；放声痛哭
+fascinate       v. 深深吸引，迷住；深深吸引，迷住；<旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹
+prime           adj. 主要的；最好的；基本的
+bliss           n. 极乐；天赐的福
+venture         n. 风险项目，冒险事业；冒险旅行，冒险行动 v. 敢于去（未知或危险等地方）；冒险；小心地说，谨慎地做；敢说，大胆表示    
+immerse         v. 使沉浸（于），使深陷（于）；使浸没（于液体中）
+superficial     adj. 粗浅的，粗略的；（思想）浅薄的，缺乏深度的；表面的，乍看起来的（尤指实际并非如此）；（伤势或伤害）表皮的；（皮肤、土壤或岩石）表层的；不重要的，无关痛痒的；<英>（建筑）面积的，平方的
 clamor          n. 喧闹，叫嚷；大声的要求
 fright          n. 惊骇，恐怖；恐怖的经历；<旧>不整洁的人，奇怪、丑陋的东西
-utter    
+utter           adj. 完全的，彻底的
 trample         vt. 践踏；蔑视，伤害
 puberty         n. 青春期；开花期
 averse          adj. 反对的；不愿意的
 intimidate      v. 恫吓，威胁
-lament     n. 挽歌；恸哭；悲痛之情
-weary      adj. 疲倦的；厌烦的；令人厌烦的
-bruise     n. 青瘀，伤痕；（水果或蔬菜的）碰伤  
-exacerbate    vt. 使加剧；使恶化；激怒
-striking     adj. 惊人的，异常的；妩媚动人的，标致的；罢工的；打击的
-benevolent   adj. 仁慈的，乐善好施的；（用于慈善机构名称）慈善的，救济的    
-speculate    v. 猜测，推测；投机
-petrify     vi. 石化；惊呆
-platitude   n. 陈词滥调；平凡；陈腐    
-confiscate   vt. 没收；充公；查抄
+lament          n. 挽歌；恸哭；悲痛之情
+weary           adj. 疲倦的；厌烦的；令人厌烦的
+bruise          n. 青瘀，伤痕；（水果或蔬菜的）碰伤  
+exacerbate      vt. 使加剧；使恶化；激怒
+striking        adj. 惊人的，异常的；妩媚动人的，标致的；罢工的；打击的
+benevolent      adj. 仁慈的，乐善好施的；（用于慈善机构名称）慈善的，救济的    
+speculate       v. 猜测，推测；投机
+petrify         vi. 石化；惊呆
+platitude       n. 陈词滥调；平凡；陈腐    
+confiscate      vt. 没收；充公；查抄
 ```
 
 TERRY GROSS, HOST:
@@ -104,15 +104,9 @@ And then if you do get stopped along the road or you have any problems, you can 
 
 GROSS: Were you concerned that every time you take out your cellphone to play the message saying that you were given permission by the Taliban that it would be an opportunity for the Taliban who you were with to `confiscate` your phone?
 
-WARD: So I really let Najibullah take the lead in those situations. And we had an understanding that I was in the back of the car, and I basically was to keep very quiet unless someone directly addressed me - which would never happen, by the way, because one of the sort of extraordinary experiences about doing this kind of work as a woman in Taliban territory is that you're essentially invisible. They don't look at you. They don't address you. They don't talk to you. If you speak to them, they might reply to you, but they won't look in your direction. And so my job was to basically be as quiet as possible and allow Naj to talk his way through the checkpoint. He had also already lined things up with local commanders on the ground, so they were aware of our visit.
+WARD: So I really let Najibullah take the lead in those situations. And we had an understanding that I was in the back of the car, and I basically was to keep very quiet unless someone directly addressed me - which would never happen, by the way, because one of the sort of extraordinary experiences about doing this kind of work as a woman in Taliban territory is that you're essentially invisible. They don't look at you. They don't address you. They don't talk to you. If you speak to them, they might reply to you, but they won't look in your direction. And so my job was to basically be as quiet as possible and allow Naj to talk his way through the checkpoint. He had also already lined things up with local commanders on the ground, `so they were aware of our visit`.
 
-GROSS: We need to take a short break here, so let's do that and then we'll be right back. If you're just joining us, my guest is Clarissa Ward. She's CNN's chief international correspondent. And on Saturday, she returned from three weeks of reporting in Afghanistan, covering the fall of the Afghan government and the victory of the Taliban. We'll be right back after a break. This is FRESH AIR.
-
-(SOUNDBITE OF MUSIC)
-
-GROSS: This is FRESH AIR. Let's get back to the interview I recorded yesterday with CNN's chief international correspondent, Clarissa Ward. She spent three weeks in Afghanistan covering the fall of the Afghan government and the victory of the Taliban. She was in Kabul when the Taliban were celebrating their victory and tens of thousands of people were at the airport or trying to get there to get flights out. She flew out on an American military flight to Qatar with about 300 evacuees on Saturday. Her memoir which is called "On All Fronts." It's going to be published in paperback early in September.
-
-Earlier this week, a Taliban spokesman said women should stay home for now because Taliban fighters basically haven't been trained to respect women. How do you interpret that?
+GROSS: Earlier this week, a Taliban spokesman said women should stay home for now because Taliban fighters basically haven't been trained to respect women. How do you interpret that?
 
 WARD: I mean, I think the way you interpret it is that the Taliban says one thing which is, oh, it's all about women's rights. And we've learned from the lessons of the past. And things are going to change. But then you scratch the surface just a tiny bit, and you quickly see how superficial those `platitudes` are because the reality is nothing has changed fundamentally in their `ideology`. And they understand that if women right now are `intimidated`, if they're not out on the streets, if they're going out and buying `burqas`, as we found when we went to the market and spoke to the person selling burqas, and they start disappearing from public life, that makes their life that much easier when they then go about implementing this `draconian` version of Sharia law that essentially excludes women from civic life.
 
@@ -162,13 +156,7 @@ But they have major issues with the Taliban. There's been a lot of bloodletting 
 
 The only other thing I would say, though, is that from the conversation I had, they are not as focused right now on transnational attacks at all. I think what ISIS-K's immediate focus is on expanding their own `footprint` and posing a real challenge to the Taliban. Of course, launching some kind of a big attack by the airport or something like that would be a perfect way to achieve both objectives hurting the West and the Taliban at the same time. So I can understand why this thread has emerged as a kind of area of concern for the Taliban and for U.S. forces at the airport.
 
-GROSS: My guest is Clarissa Ward, CNN's chief international correspondent. We'll talk more about reporting from Afghanistan after a break. This is FRESH AIR.
-
-(SOUNDBITE OF SOLANGE'S "WEARY")
-
-GROSS: Let's get back to my interview with Clarissa Ward, CNN's chief international correspondent. She spent three weeks reporting from Afghanistan. She flew out of the country on a military flight to Doha, Qatar, last Saturday with hundreds of evacuees.
-
-You left Afghanistan after three weeks, three really dangerous weeks. How did you get into the air? Did you have an `ordeal` getting in, or was it easier for you because you're CNN?
+GROSS: You left Afghanistan after three weeks, three really dangerous weeks. How did you get into the air? Did you have an `ordeal` getting in, or was it easier for you because you're CNN?
 
 WARD: It was much easier for us than most. However, it was an `ordeal`, and I still have a big `bruise` on my arm that I can't stop looking at honestly, Terry, because it was really one of the more intense and `harrowing` experiences I've encountered `whereby` we went to a gate that was supposed to be much quieter than other gates. The crowds hadn't really discovered this gate because it wasn't often being opened. We had an agreement. I can't get into the details of that so much.
 
@@ -192,19 +180,13 @@ GROSS: Whoa, that is soon.
 
 WARD: That is soon. You know, it's always - with these things, it's a Rubik's Cube, trying to work out where you can get to and what's possible and what's safe and what's sensible and where you can do the best reporting. And, you know, it's not clear to me exactly where and when we will end up. But I think all of us in the team - Brent Swails, William Bonnett, Najibullah Quraishi and myself - feel very much committed to continuing to tell this story.
 
-GROSS: You know, your memoir, which is called "On All Fronts: The Education Of A Journalist," is going to be published in paperback in early September. And in that book, you explained that you became CNN's chief international correspondent when you were on `maternity` leave. You'd already been reporting for CNN. That's when you got the promotion. And you write a little bit about how being a mother changed your perspective. You say after four months at home with your baby son, being open and loving and gentle and calm, you suddenly had to toughen up again. Can you compare those two sides of yourself and what it takes to turn off the toughness of being a journalist and being, like, the calm and soothing mother, and then to have to turn that part off, to become the tough journalist who's willing to take so many risks to get the story?
+GROSS: You know, your memoir, which is called "On All Fronts: The Education Of A Journalist," is going to be published in paperback in early September. And in that book, you explained that you became CNN's chief international correspondent when you were on `maternity leave`. You'd already been reporting for CNN. That's when you got the promotion. And you write a little bit about how being a mother changed your perspective. You say after four months at home with your baby son, being open and loving and gentle and calm, you suddenly had to toughen up again. Can you compare those two sides of yourself and what it takes to turn off the toughness of being a journalist and being, like, the calm and soothing mother, and then to have to turn that part off, to become the tough journalist who's willing to take so many risks to get the story?
 
 WARD: I think it's really easy to turn off the tough part. The minute I see my two little boys, I'm just completely immersed in love and `bliss`. It is so hard, though - so hard - to try to put your armor back on and leave them and go and keep doing the job because it doesn't get any easier. No matter what people tell you, it doesn't. You make peace with it, and you know you're doing the right thing. And a big part of why I wrote that book is for my little boys so that they will understand the decisions I made and the work I did. But it's still always just - you know, honestly, it's kind of `agony` saying goodbye.
 
 And sometimes it's different. If you've been at home for a few months or a couple of months, then you're sort of also excited to leave and get back out on the road. But when you've just had a few days, it's hard. It's really hard. And the only thing that I get comfort from is I know it's not as hard for them because they're surrounded with, you know, so much love, and they're really happy. And so I take comfort in knowing if it's just hard for me, then that's OK. I can deal with that.
 
-GROSS: My guest is Clarissa Ward, CNN's chief international correspondent. We'll talk more about reporting from Afghanistan after a break. This is FRESH AIR.
-
-(SOUNDBITE OF MUSIC)
-
-GROSS: Let's get back to my interview with Clarissa Ward, CNN's chief international correspondent. She spent three weeks reporting from Afghanistan. She flew out of the country on a military flight to Doha, Qatar, last Saturday with hundreds of evacuees. 
-
-Do you think being a mother has changed your perspective when you are reporting? And do you think it's changed the risk `calculations` that you make?
+GROSS: Do you think being a mother has changed your perspective when you are reporting? And do you think it's changed the risk `calculations` that you make?
 
 WARD: I think it's changed both, `to a certain extent`. I'm very risk-averse. I'm very cautious. And I know that might sound strange, given my reporting in Kabul, but I really am always going at great lengths to avoid being in a sort of active battle type of situation. Or if I know there are lots of bombs and - you know, there's plenty of frontline situations that I really try to avoid.
 

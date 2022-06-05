@@ -1,12 +1,12 @@
 https://www.youtube.com/watch?v=hd8tYiLSmn0 
-
+4:58
 ```
-fuse  
-strain      
-intake      
-expense    
-span  
-synthetic
+fuse            n. 保险丝，熔丝；导火线，引信
+strain          n. 焦虑，紧张；负担，紧张；张力，压力；损伤，扭伤；品种，类型；气质，个性特点；旋律，曲调；口吻，语气；（物理）应变，胁变；血缘；困难，负担
+intake          n. （食物、饮料、空气等的）摄取量，吸入量；摄入，吸入；（一定时期内）纳入的人数；入口，进口；（从荒野地或公共地开发出的）垦地
+expense         n. 代价，费用；业务费用，报销（expenses）；需要花钱的东西，花销的东西
+span            n. 时间跨度，一段时间；（桥或拱的）墩距，跨距；宽度，翼展；范围，包括的种类；（航海）跨绳；一队人（或动物）；数值范围；一掌的长度
+synthetic       adj. 合成的，人造的；（感情，行动）不诚恳的，虚假的；（语言）综合型的；（命题）综合的
 ```
 
 Why are airplanes slower than they used to be? - Alex Gendler
