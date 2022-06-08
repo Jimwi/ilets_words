@@ -1,15 +1,16 @@
 https://www.youtube.com/watch?v=el1K-xILtwo 
-
+6:07
 ```
-precede  
-beam  
-scrutiny  
-recede      
-contend   v. 声称，主张；竞争，争夺；处理，对付      
-monumental  
-grind    vt. 磨碎；磨快
-compensation   n. 赔偿金，补偿金；弥补，抵消；报酬，薪水
-lateral   lateral
+precede         v. 处在……之前，先于；在……之前做（或说）；比……更重要，比……（级别）更高
+beam            n. 梁，横梁；<非正式>臀围；光线，光柱；喜色，笑容；（体操的）平衡木
+scrutiny        n. 仔细观察，详细审查
+recede          v. 逐渐远离，渐渐退去；（质量）下降，（问题或疾病等）逐渐减弱；（前额的头发）脱落；（面部特征）向后倾斜；（常指牙龈因为感染）萎缩
+contend         v. 声称，主张；竞争，争夺；处理，对付      
+monumental      adj. 丰碑式的，伟大的；极大（坏，好等）的；纪念碑的，纪念性的；巨大的，庞大的
+grind           vt. 磨碎；磨快
+compensation    n. 赔偿金，补偿金；弥补，抵消；报酬，薪水
+lateral         adj. 侧面的，横（向）的；（职位、工作、关系等）平级的，同级的；<英>多角度思考的；（辅音，尤指英语清音l，或其发音）边音的，旁流音的
+n. 物体旁侧部分，（尤指长于植物主干一侧的）侧芽，侧枝；边音，旁流音；侧向传球
 span  
 ```
 

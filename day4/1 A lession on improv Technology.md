@@ -9,7 +9,7 @@ bounce      v. 弹起，反弹；跳动，蹦；（使）上下晃动；（用�
 blow  
 mastery     n. 精通，熟练掌握；控制，驾驭    
 pitch    
-grumpy  
+grumpy      adj. 脾气坏的，爱抱怨的
 ```
 
 WEBVTT Kind: captions Language: en 

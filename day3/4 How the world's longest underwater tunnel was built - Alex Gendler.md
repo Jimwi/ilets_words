@@ -1,17 +1,17 @@
 https://www.youtube.com/watch?v=qNS2jj2w-GI
-
+5:37
 ```        
-delicate        
-obsolete    adj. 废弃的；老式的
-maritime    adj. 海上的，海事的；近海的，沿海的；海生的，在海里发现的；海洋性气候的
-seep        v. （液体）渗漏，渗透；逐渐移动，渐渐散开
-anticipate   v. 预料，预期；预见，预计（并做准备）； 期盼，期望； 先于……做，早于……行动；在期限内履行（义务），偿还（债务）；提前使用
-submerge     vt. 淹没；把…浸入；沉浸    
-prospect     n. 前途；预期；景色
-excavate     vt. 挖掘；开凿
-coordinate   v. 协调，配合；使身体协调；（使颜色、款式、风格等）搭配，配套；给 （原子或分子）配位，与……形成共价键  
-fault        n. 错误；责任，过错；缺点，故障；断层；发球失误
-wagon      
+delicate        adj. 柔和的，清淡的；虚弱的，纤弱的；脆弱的，易碎的；小巧玲珑的，纤细的；微妙的，棘手的；精致的，精巧的；灵巧的，熟练的；（仪器）灵敏的
+obsolete        adj. 废弃的；老式的
+maritime        adj. 海上的，海事的；近海的，沿海的；海生的，在海里发现的；海洋性气候的
+seep            v. （液体）渗漏，渗透；逐渐移动，渐渐散开
+anticipate      v. 预料，预期；预见，预计（并做准备）； 期盼，期望； 先于……做，早于……行动；在期限内履行（义务），偿还（债务）；提前使用
+submerge        vt. 淹没；把…浸入；沉浸    
+prospect        n. 前途；预期；景色
+excavate        vt. 挖掘；开凿
+coordinate      v. 协调，配合；使身体协调；（使颜色、款式、风格等）搭配，配套；给 （原子或分子）配位，与……形成共价键  
+fault           n. 错误；责任，过错；缺点，故障；断层；发球失误
+wagon           n. （一般由马拉的）四轮运货车；<英>（无顶的）铁路货车车厢，车皮；旅行轿车（station wagon 的简称）；<美>（用作食品货摊的）手推车；儿童玩具小车；（吉卜赛人或马戏团用的）大篷车；<爱尔兰，非正式>令人不快的女人
 ```
 
 How the world's longest underwater tunnel was built - Alex Gendler

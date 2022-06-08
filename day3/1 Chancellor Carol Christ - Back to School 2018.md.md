@@ -1,10 +1,10 @@
 https://www.youtube.com/watch?v=LujV63OvNzA
-
+2:19
 ```
-disdain    n. 蔑视
-prime      adj. 主要的；最好的；基本的      
-tangible    
-subside    vi. 平息；减弱；沉淀；坐下
+disdain         n. 蔑视
+prime           adj. 主要的；最好的；基本的      
+tangible        adj. 明确的，真实的；可触摸的，可感知的
+subside         vi. 平息；减弱；沉淀；坐下
 ```
 
 `Chancellor` Carol Christ - Back to School 2018

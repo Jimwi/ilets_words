@@ -1,5 +1,5 @@
 https://www.youtube.com/watch?v=VTWd9qrpuW8
-
+5:15
 
 ```
 prototype    n. 原型；样本；标准，模范；全真模型；[电]原型滤波网络
@@ -27,7 +27,7 @@ Gary: We try to identify problems that people are having and then we go back int
 
 Bill: We can pick solutions that are not necessary economical just to see if it can be done, then at some point maybe in the future it becomes economical, then we can implement it. 
 
-Wendy: With the industry move to LED technology, one of the things that has been sacrificed up until now has been these long wavelength Reds. The Red that we have today looks red because all color is relative, and it was next to things that were more Orange, shorter wavelengths but we've still actually been missing all of these beautiful long wavelengths that we had with tungsten until now. and now we have this Deep Red. So the red we've been using and that the industry uses the sort of standard red is around 635 nanometers this new red is around 660 nanometers and 25 doesn't maybe seem like very many... but it's huge. 
+Wendy: With the industry move to LED technology, one of the things that has been sacrificed up until now has been these long wavelength Reds. The Red that we have today looks red because all color is relative, and it was next to things that were more Orange, shorter wavelengths. but we've still actually been missing all of these beautiful long wavelengths that we had with tungsten until now. and now we have this Deep Red. So the red we've been using and that the industry uses the sort of standard red is around 635 nanometers. this new red is around 660 nanometers and 25 doesn't maybe seem like very many... but it's huge. 
 
 Gary: ARG had prototyped a set of `fixtures` using the Deep Red because we thought that it might be useful. and Fred and Wendy and a video camera got together and they noticed that if you illuminate a subject with Deep Red the appearance on the video display was so dramatic that Fred said we have to have this in our next fixtures. 
 

@@ -1,21 +1,20 @@
 https://www.youtube.com/watch?v=ogCIqaCe2zI
-
+13:30
 ```  
-cosmetic  
-orthodox  
-flamboyant  
-diverge      
-malleable   adj. 可锻的；可塑的；有延展性的；易适应的    
-courtship  
-blow up  
-reverse  
-instantaneous    adj. 瞬间发生的，瞬间完成的  
-replenish      vt. 补充，再装满；把…装满；给…添加燃料  
-rage    
-bump  
-camouflage    n. 伪装，掩饰
+cosmetic            adj. 装门面的，表面的；化妆用的，美容的；整容的；不重要的，没意义的
+orthodox            adj. （观念、方法或行为）传统的，正统的；（人）正统派的，循规蹈矩的；东正教的，正教的（Orthodox）；（物）普通的，正常的
+flamboyant          adj. 艳丽的；火焰似的；炫耀的
+diverge             v. 相异，出现分歧；岔开，分开； 分化，偏离；使偏离，使分叉；（数）发散
+malleable           adj. 可锻的；可塑的；有延展性的；易适应的    
+courtship           n. 求爱；求婚；求爱期
+blow up             爆发，爆炸；放大；使充气
+reverse             v. 逆转，彻底改变（决定、政策、趋势等）；撤销，推翻（法庭判决）；颠倒，反转；交换，互换（位置、功能）；<美>承认错误，放弃（立场）；倒（车）；（发动机）反向运转；<英>打对方付费的电话；使（铅字，图案）印成白或浅色
+instantaneous       adj. 瞬间发生的，瞬间完成的  
+replenish           vt. 补充，再装满；把…装满；给…添加燃料  
+rage                n. 盛怒，狂怒；粗暴的举动，愤怒的行为；（喻）（自然事物的）狂暴，凶猛；<非正式>风靡一时，非常流行；强烈的欲望，激情；<文>（尤指预示的、诗意的或武力的）狂热；<澳新，非正式> 欢乐聚会，热闹的活动
+bump                v. （使身体部位等）碰上，撞上；（无意地）碰，撞；颠簸行进；拖拽；挤出，挤掉；改变（广播或电视节目的时间）
+camouflage          n. 伪装，掩饰
 ```
-
 
 The amazing brains and morphing skin of octopuses and other cephalopods | Roger Hanlon
 
