@@ -56,14 +56,14 @@ eschew
 quench
 embroidery
 spasm
-pervade
+pervade       弥漫
 riproarious
 exultant
 fervor
 inlet
 servile
 effuse
-foreland
+foreland        n. 沿海地区；前沿地；海角
 genial
 emaciate
 enervate
@@ -105,11 +105,11 @@ gush
 intravenous
 profuse
 beget
-acrobatic
+acrobatic    adj. 杂技的；特技的
 aroma
 mend
 lash
 ken
 doze
 prod
-pawn            n. 典当；抵押物；兵，卒；人质
+pawn      n. 典当；抵押物；兵，卒；人质    《Green Book》 20:50

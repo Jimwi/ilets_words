@@ -62,11 +62,17 @@ ONE57 PROMOTIONAL VIDEO: A company with integrity, roots, and destiny.
 
 PAUL GOLDBERGER: There’s a prominent real estate appraiser in New York who referred to these buildings as safe deposit boxes in the sky. Places where people put cash and they rarely visit themselves. 
 
-BILL MOYERS: So think of them as plush Swiss banks, with maid service, for people who, as one critic wrote, “see the city as their private snow globe.” When this building, 432 Park Avenue, is finished next year, it will surpass even One57, climbing 150 feet taller than the Empire State Building before its spire. No pharaoh ever dreamed on so grand a scale. Each tower is a feat of technological, economic and political engineering. Promoted to the very rich as the very best. CHRISTIAN DE PORTZAMPARC: This is not an abstract thing like an office tower. But this is dwellings. 
+BILL MOYERS: So think of them as plush Swiss banks, with maid service, for people who, as one critic wrote, “see the city as their private snow globe.” When this building, 432 Park Avenue, is finished next year, it will surpass even One57, climbing 150 feet taller than the Empire State Building before its spire. No pharaoh ever dreamed on so grand a scale. Each tower is a feat of technological, economic and political engineering. Promoted to the very rich as the very best. 
+
+CHRISTIAN DE PORTZAMPARC: This is not an abstract thing like an office tower. But this is dwellings. 
 
 BILL MOYERS: Their famous architects do the pitching. CHRISTIAN DE PORTZAMPARC: Glass its own color. 
 
-BILL MOYERS: Designers tout the costly interiors. DEBORAH BERKE: One of my favorite moments in the kitchen is the very long counter of solid marble framed against the window. MAN in The Billionaire Building: As you move up in the building… BILL MOYERS: And they welcome media coverage of every `opulent` detail. MAN in The Billionaire Building: So, higher in the building you have this statuary white marble. It’s important to note that it’s in very large slabs. This really communicates a level of luxury. 
+BILL MOYERS: Designers tout the costly interiors. DEBORAH BERKE: One of my favorite moments in the kitchen is the very long counter of solid marble framed against the window. MAN in The Billionaire Building: As you move up in the building… 
+
+BILL MOYERS: `And they welcome media coverage of every opulent detail.` 
+
+MAN in The Billionaire Building: So, higher in the building you have this statuary white marble. It’s important to note that it’s in very large slabs. This really communicates a level of luxury. 
 
 BILL MOYERS: There’s an unwritten rule in New York City: don’t get between a grasping developer and the sky, you could wind up cantilevered. Like the historic Art Students League on West 57th, built in the 1890s, it was landmarked to prevent its destruction. But Extell bought the air rights above for $23 million and will build its Nordstrom Tower there, raising the tallest residential tower in the western hemisphere. 
 
@@ -102,7 +108,7 @@ BILL MOYERS: In defending his claim on the sky and light around the park for lux
 
 MAYOR MICHAEL BLOOMBERG: That’s our tax base. If we can find a bunch of billionaires around the world to move here, that would be a godsend, because that’s where the revenue comes to take care of everybody else. 
 
-BILL MOYERS: But the mayor left something out. The super-rich who buy those `opulent` apartments and live in New York City less than half the year will pay no city income tax at all. 
+BILL MOYERS: `But the mayor left something out. The super-rich who buy those opulent apartments and live in New York City less than half the year will pay no city income tax at all`. 
 
 PAUL GOLDBERGER: And while those people still contribute in other ways to the city's economy, I'm sure they go out to expensive restaurants and buy theatre tickets and shop in fancy stores and do all those things, you only pay income tax if you're a resident, and they're not. 
 

@@ -13,9 +13,10 @@ impoverish     vt. 使贫穷；使枯竭
 Are Markets Moral
 WEBVTT Kind: captions Language: en 
 
-Are markets moral? Every day millions of people around the world depend on markets to satisfy their basic needs, to keep in touch with friends and loved ones, to `perk up` and to relax. So why is it that capitalism and its supporters are often portrayed in popular literature and scholarly debate as monsters? Vampire capitalism is said to suck the blood of workers, further enriching the wealthy and impoverishing the disadvantaged. Zombie capitalism is `lumbering` around the landscape, eating human brains and turning us into mindless `withered` things. Demon capitalism possesses us all, turning us into `slavish` soulless creatures who produce only what we are told to produce and consume only what we are told to consume.
+Are markets moral? 
+Every day millions of people around the world depend on markets to satisfy their basic needs, to keep in touch with friends and loved ones, to `perk up` and to relax. So why is it that capitalism and its supporters are often portrayed in popular literature and scholarly debate as monsters? Vampire capitalism is said to suck the blood of workers, further enriching the wealthy and impoverishing the disadvantaged. Zombie capitalism is `lumbering` around the landscape, eating human brains and turning us into mindless `withered` things. Demon capitalism possesses us all, turning us into `slavish` soulless creatures who produce only what we are told to produce and consume only what we are told to consume.
 
-A common thread running through these criticisms of the market is the notion that markets are morally corrupting. but this criticism of markets is at root and `empirical` rather than a `philosophical` claim. 
+`A common thread running through these criticisms of the market is the notion that markets are morally corrupting. But this criticism of markets is at root and empirical rather than a philosophical claim. `
 
 We can evaluate whether or not it is true that markets are likely to be morally corrupting using a theoretical understanding of how markets can and should work, and on the basis of evidence regarding how markets do work. 
 

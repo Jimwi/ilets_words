@@ -46,7 +46,7 @@ The two dominating materials for commercial printing were wood and metal.
 
 Wood was cut out of the end pieces hard wood, they were usually large size typefaces that were used for large-scale advertising and posters. 
 
-The bold typefaces you see in old wanted posters? Those were made from wood type. 
+`The bold typefaces you see in old wanted posters? Those were made from wood type. `
 
 Metal was the process that was created by Gutenberg when he designed the type for his Bible. 
 
