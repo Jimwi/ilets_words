@@ -60,7 +60,7 @@ BILL MOYERS: The penthouse apartment is under contract for a reported $90 millio
 
 ONE57 PROMOTIONAL VIDEO: A company with integrity, roots, and destiny. 
 
-PAUL GOLDBERGER: There’s a prominent real estate appraiser in New York who referred to these buildings as safe deposit boxes in the sky. Places where people put cash and they rarely visit themselves. 
+PAUL GOLDBERGER: `There’s a prominent real estate appraiser in New York who referred to these buildings as safe deposit boxes in the sky.` Places where people put cash and they rarely visit themselves. 
 
 BILL MOYERS: So think of them as plush Swiss banks, with maid service, for people who, as one critic wrote, “see the city as their private snow globe.” When this building, 432 Park Avenue, is finished next year, it will surpass even One57, climbing 150 feet taller than the Empire State Building before its spire. No pharaoh ever dreamed on so grand a scale. Each tower is a feat of technological, economic and political engineering. Promoted to the very rich as the very best. 
 

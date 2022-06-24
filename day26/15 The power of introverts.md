@@ -37,7 +37,7 @@ congregate      vt. 聚集
 The power of introverts
 WEBVTT Kind: captions Language: en 
 
-When I was nine years old, I went off to summer camp for the first time. And my mother packed me a suitcase full of books, which to me seemed like a perfectly natural thing to do. Because in my family, reading was the primary group activity. And this might sound `antisocial` to you, but for us it was really just a different way of being social. You have the animal warmth of your family sitting right next to you, but you are also free to go roaming around the adventureland inside your own mind. And I had this idea that camp was going to be just like this, but better. (Laughter) 
+When I was nine years old, I went off to summer camp for the first time. And my mother packed me a suitcase full of books, which to me seemed like a perfectly natural thing to do. Because in my family, reading was the primary group activity. And this might sound `antisocial` to you, but for us it was really just a different way of being social. You have the animal warmth of your family sitting right next to you, but you are also free to go `roaming around the adventureland` inside your own mind. And I had this idea that camp was going to be just like this, but better. (Laughter) 
 
 I had a vision of 10 girls sitting in a cabin `cozily` reading books in their matching `nightgowns`. (Laughter) Camp was more like a keg party without any alcohol. And on the very first day, our counselor gathered us all together and she taught us a cheer that she said we would be doing every day for the rest of the summer to `instill` camp spirit. And it went like this: "R-O-W-D-I-E, that's the way we spell rowdie. Rowdie, rowdie, let's get rowdie." (Laughter) 
 

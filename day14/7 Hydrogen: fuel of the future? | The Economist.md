@@ -14,11 +14,11 @@ Hydrogen: fuel of the future? | The Economist
 
 Hydrogen has been `hailed` as a fuel of the future that could help end the world’s dependence on fossil fuels. and aid the `transition` to net-zero emissions. But for this hydrogen revolution to take place, some big obstacles need to be overcome. So is `the hype about hydrogen justified`? 
 
-Hydrogen is the most abundant element in the universe. It’s essential for life, ...the sun is mostly made of it And it’s present in almost all living things But on Earth pure hydrogen is very `scarce`. Instead, it mainly exists combined with oxygen in the form of water. So how does this abundant element get turned into a fuel that could help save the planet? First, hydrogen needs to be `obtained` This is done by splitting molecules. 
+Hydrogen is the most abundant element in the universe. It’s essential for life, ...the sun is mostly made of it And it’s present in almost all living things. `But on Earth pure hydrogen is very scarce`. Instead, it mainly exists combined with oxygen in the form of water. So how does this abundant element get turned into a fuel that could help save the planet? First, hydrogen needs to be `obtained`. This is done by splitting molecules. 
 
 Hydrogen is an energy carrier unlike, let’s say, `petroleum` which is a primary energy source You have to make hydrogen from something. 
 
-To do this requires an input of energy You can use `methane` through a process called steam reforming Or a source of electricity through `electrolysis`. Once you have some hydrogen you can either burn it directly or mix it with oxygen in a fuel cell, which is rather like a battery The reaction in the fuel cell produces electricity and heat... And the only waste is water. 
+To do this requires an input of energy You can use `methane` through a process called steam reforming Or a source of electricity through `electrolysis`. Once you have some hydrogen you can either burn it directly or mix it with oxygen in a fuel cell, which is rather like a battery. The reaction in the fuel cell produces electricity and heat... And the only waste is water. 
 
 One of the benefits of hydrogen in a hydrogen vehicle, let’s say the only emission that comes out of the `tailpipe` is pure, drinkable water. In contrast, of course, to the internal-combustion engine which puts out loads of `nasty` chemicals and `carcinogens`. 
 
@@ -40,9 +40,9 @@ The Hindenburg did not explode because of the hydrogen it's been shown That’s 
 
 One advantage hydrogen has over batteries is that it’s much more `energy dense` which means that with a very high-pressure storage system it takes much less space in order to make a vehicle go any distance. 
 
-If you have a hydrogen tank on board a vehicle you can refuel quickly compared to batteries and electric cars But we do have issues of cost We have issues of refuelling stations and fuelling infrastructure that have to be built out So that’s another obstacle that stands in the way of hydrogen. 
+If you have a hydrogen tank on board a vehicle you can refuel quickly compared to batteries and electric cars. But we do have issues of cost, We have issues of refuelling stations and fuelling infrastructure that have to be built out So that’s another obstacle that stands in the way of hydrogen. 
 
-There’s also a question over how sustainable hydrogen really is Despite some advances in the technology to generate it. it still requires energy-intensive processes that are fuelled largely by fossil fuels or lots of electricity. The only way to make truly green hydrogen is to produce it using sustainable energy. 
+There’s also a question over how sustainable hydrogen really is. Despite some advances in the technology to generate it, it still requires energy-intensive processes that are fuelled largely by fossil fuels or lots of electricity. The only way to make truly green hydrogen is to produce it using sustainable energy. 
 
 At the moment, a lot of the hydrogen that’s used in the world is made from natural gas but that does produce some greenhouse-gas emissions Some people see this as terrible. And other people say this could be a bridge. It can help build a market until there’s enough renewable energy and electrolysers become more efficient and more cost effective. 
 

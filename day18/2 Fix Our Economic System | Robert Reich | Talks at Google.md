@@ -14,7 +14,6 @@ pejorative    adj. 轻蔑的，贬损的；恶化的，变坏的
 snatch        v. 一把抓起；夺去；抓紧时间做；反败为胜；（非正式）偷；急切地接受（邀请或机会）
 prime         adj. 主要的；最好的；基本的  
 venture       n. 风险项目，冒险事业；冒险旅行，冒险行动
-deter         v. 使打消念头，防止
 pending  
 fiscal        adj. （政府）财政的；<美>财政年度的；<美>金融的
 embargo       n. 禁运，贸易禁运；禁令；封港令

@@ -9,7 +9,7 @@ distress     n. 忧虑，悲伤；贫困；危难，险情；（肉体的）剧�
 foam         n. 泡沫，气泡；泡沫橡胶，海绵橡胶；泡沫剂，泡沫产品；唾液，汗沫
 ```
 
-SKS Prop & Costume Supply - Viking Axe Project 
+SKS Prop & `Costume Supply` - Viking Axe Project 
 
 WEBVTT Kind: captions Language: en 
 
